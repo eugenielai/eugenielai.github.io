@@ -4,7 +4,20 @@ logo: "/assets/logo.jpg"
 title: "Eugenie Lai"
 email: "eugenie.y.lai@gmail.com"
 
-# 2. Site navigation
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+# 3. Site navigation
 navigation_header:
 - title: Home
   url: /

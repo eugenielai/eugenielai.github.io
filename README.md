@@ -1,8 +1,3 @@
----
-title: Eugenie Lai
-
----
-
 ## Bio
 
 I am a fourth-year undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC). I am currently a full-time research assistant at the [UBC Data Management and Mining Lab], supervised by [Dr. Rachel Pottinger]. 
@@ -20,7 +15,7 @@ QueryTeller is a query recommendation system that suggests customized queries to
 
 ### PastWatch
 
-Pastwatch is a system that helps users understand query answers by summarizing, explaining, and visualizing query provenance. Data provenance is any information about the origin data and the process that leads to its creation. The provenance of a query over a database is a collection of the data in the database that contributed to the query answer. While comprehensive, query provenance remains large and overwhelming. Hence the burden is on users to query and explore the results via different data manipulation languages. Our system helps users explore and interact with their database by providing novel insights of their query results using query provenance. \[[link](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]
+Pastwatch is a system that helps users understand query answers by summarizing, explaining, and visualizing query provenance. Data provenance is any information about the origin data and the process that leads to its creation. The provenance of a query over a database is a collection of the data in the database that contributed to the query answer. While comprehensive, query provenance remains large and overwhelming. Hence the burden is on users to query and explore query results via different data manipulation languages. Our system helps users explore and interact with their database by providing novel insights of their query results using query provenance. \[[link](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]
 
 ## Publications
 

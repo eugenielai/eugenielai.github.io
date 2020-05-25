@@ -26,7 +26,7 @@ To Appear in IEEE International Conference on Data Engineering, 2020 (ICDE '20)
 
 ## Blog
 
-I write about things I did on my way to discover my research interests, which is an iterative, on-going process. [This space is currently under construction](./blog-page.html).
+I write about [things I did](./blog-page.html) on my way to discover my research interests, which is an iterative, on-going process. This space is currently under construction.
 
 ## Miscellaneous
 

@@ -1,5 +1,5 @@
 ---
-title: Blog post
+title: Blog Post
 layout: post
 author: Eugenie Lai
 

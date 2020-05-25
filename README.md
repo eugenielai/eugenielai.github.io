@@ -17,6 +17,12 @@ QueryTeller is a query recommendation system that suggests customized queries to
 
 Pastwatch is a system that helps users understand query answers by summarizing, explaining, and visualizing query provenance. Data provenance is any information about the origin data and the process that leads to its creation. The provenance of a query over a database is a collection of the data in the database that contributed to the query answer. While comprehensive, query provenance remains large and overwhelming. Hence the burden is on users to query and explore the results via different data manipulation languages. Our system helps users explore and interact with their database by providing novel insights of their query results using query provenance. \[[link](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]
 
+## Publications
+
+Pastwatch: On the Usability of Provenance Data in Relational Databases [short paper] \[[link](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]
+*O. AlOmeir, E. Y. Lai, M. Milani and R. Pottinger*
+To Appear in IEEE International Conference on Data Engineering, 2020 (ICDE '20)
+
 ## Blog
 [Link to an empty blog page](./blog-page.html).
 

@@ -4,31 +4,6 @@ logo: "/assets/logos/logo.jpg"
 title: "Eugenie Lai"
 email: "eugenie.y.lai@gmail.com"
 
-# 2. Installed Gems
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-
-# 3. Site navigation
-navigation_header:
-- title: Home
-  url: /
-- title: Research
-  url: /research/
-- title: Blog
-  url: /blog/
-
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/eugenie-yujing-lai
   GitHub: https://github.com/eugenielai
-
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Email: true

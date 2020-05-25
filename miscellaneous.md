@@ -27,14 +27,10 @@ Here are some of my selected colouring. I use an app called [Lake](https://www.l
 
 [cake-by-the-ocean]: /assets/miscellaneous/cake-by-the-ocean.JPG "cake-by-the-ocean.jpg"
 
-## Chinese Painting & Stamp Carving
+## Chinese Painting
 
 I occasionally opt for something other than colouring.
 
 ![alt text][lotus-n-moon]
 
 [lotus-n-moon]: /assets/miscellaneous/lotus-n-moon.JPG "lotus-n-moon.jpg"
-
-![alt text][stamps]
-
-[stamps]: /assets/miscellaneous/stamps.JPG "stamps.jpg"

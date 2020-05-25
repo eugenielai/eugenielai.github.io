@@ -1,3 +1,8 @@
+---
+title: Eugenie Lai
+
+---
+
 ## Bio
 
 I am a fourth-year undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC). I am currently a full-time research assistant at the [UBC Data Management and Mining Lab], supervised by [Dr. Rachel Pottinger]. 
@@ -20,7 +25,7 @@ Pastwatch is a system that helps users understand query answers by summarizing, 
 ## Publications
 
 Pastwatch: On the Usability of Provenance Data in Relational Databases [short paper] \[[link](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]  
-*O. AlOmeir, E. Y. Lai, M. Milani and R. Pottinger*  
+*O. AlOmeir, <strong>E. Y. Lai</strong>, M. Milani and R. Pottinger*  
 To Appear in IEEE International Conference on Data Engineering, 2020 (ICDE '20)
 
 ## Blog

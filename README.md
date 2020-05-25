@@ -11,15 +11,15 @@ My current research focuses on databases while applying concepts of visualizatio
 
 ### QueryTeller
 
-QueryTeller is a query recommendation system that suggests customized queries to users by predicting user intent. Database-related expertise is required for users to interact with database applications. However, it takes years of experience for non-experts to learn how to formulate efficient queries and understand the schema of a particular database application. QueryTeller seeks to make databases more accessible for users with a database-related incomplete skillset. Specifically, our goal is to recommend customized queries by predicting user intent from query workloads, which are a collective knowledge exploration history of all past users.
+QueryTeller is a query recommendation system that suggests customized queries to users by predicting user intent. Database-related expertise is required for users to interact with database applications. However, it takes years of experience for non-experts to learn how to formulate efficient queries and understand the schema of a particular database application. QueryTeller seeks to make databases more accessible for users with a database-related incomplete skillset. Our system leverages query workloads, which are a collective knowledge exploration history of all past users, to learn query representations and recommend the next queries that users may be interested in. [work-in-progress]
 
 ### PastWatch
 
-Pastwatch is a system that helps users understand query answers by summarizing, explaining, and visualizing query provenance. Data provenance is any information about the origin data and the process that leads to its creation. The provenance of a query over a database is a collection of the data in the database that contributed to the query answer. While comprehensive, query provenance remains large and overwhelming. Hence the burden is on users to query and explore the results via different data manipulation languages. Our system helps users explore and interact with their database by providing novel insights of their query results using query provenance.
+Pastwatch is a system that helps users understand query answers by summarizing, explaining, and visualizing query provenance. Data provenance is any information about the origin data and the process that leads to its creation. The provenance of a query over a database is a collection of the data in the database that contributed to the query answer. While comprehensive, query provenance remains large and overwhelming. Hence the burden is on users to query and explore the results via different data manipulation languages. Our system helps users explore and interact with their database by providing novel insights of their query results using query provenance. \[[link](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]
 
 ## Blog
 [Link to an empty blog page](./blog-page.html).
 
 ## Miscellaneous
 
-I can see myself being a full-time painter in another life. 
+[This](./miscellaneous.html) is my favourate way to destress. 

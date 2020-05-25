@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Bio
 
-You can use the [editor on GitHub](https://github.com/eugenielai/eugenielai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a fourth-year undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC). I am currently a full-time research assistant at the UBC Data Management and Mining Lab, supervised by Dr. Rachel Pottinger[1]. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My current research focuses on databases while applying concepts of visualization, machine learning, and HCI to help users interact with and make sense of data. Today, database systems provide a vital infrastructure to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise is required for a user to interact with such database applications. This need of users sparks my urge to offer help and make my work surround this theme. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eugenielai/eugenielai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1]: https://www.cs.ubc.ca/~rap/

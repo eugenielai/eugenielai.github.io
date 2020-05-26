@@ -23,20 +23,8 @@ Having a connection with quantifiable impact for the first time, I felt a rush o
 
 Overall, this learning experience assured my decision to pursue graduate studies. Besides the sense of ownership of my work and the level of impact that my work can make, I learned that I enjoy both scoping and solving open-ended problems and want to get better at it. I still cannot believe that I am now confident to say that I have an answer to most of my questions, or at least I know how to make my way there.
 
-## Two Things I Got Better at
-The progress I made in my personal development in the past term is just as critical as I became more aware of my strengths and weaknesses.
-
-### Expressing My Thoughts
-The way Kevin summarized the tool trees gave me the very first impression of how to narrate a thought process. That was the first time I realized that figuring out the content is only half of the mission. More importantly, it’s about putting the components in the right order and connecting the pieces with a narrative. 
-
-With that in mind, when structuring Part 1 of the presentation, I tried to start every slide with a known statement, either a fact or things that have been shown previously, and end with a new argument. In addition, I tried to make the slide title a high-level summarization of the slide and make the text concise enough so the audience could focus on my narrative. 
-
-I was stoked to hear that Kevin liked it. I then had a flashback when Kevin said I could be more conversational. When Kevin summarized his learning reflection idea to Scott, Kevin started with “I’ve been brewing this idea…” I remember how easy that line made my thought start to follow. It felt like I was listening to a story, and that line helped me connect with the rest of the content. 
-
-These takeaways made me more aware of the way I present my ideas. I started to pay more attention to the logic flow of my presentations in other scenarios and got positive comments. I note that there is still a lot for me to improve on this front and will keep all these in mind and keep practicing whenever I express ideas. 
-
-### Making Myself Talk
-Besides the fact that I take time to warm up, in the first half of the term, I struggled to find valuable things to add to our discussion before I realized two things.
+## Making Myself Talk
+The progress I made in my personal development in the past term is just as critical as I became more aware of my strengths and weaknesses. Besides the fact that I take time to warm up, in the first half of the term, I struggled to find valuable things to add to our discussion before I realized two things.
 
 First, I thought my questions were stupid. I felt embarrassed and self-conscious to express my confusion on any occasion, especially in class when I did not understand any concepts or terms. I thought that it is my responsibility to have or acquire that background knowledge. And I would be wasting others’ time if I ask for clarification since I thought I am the only one with the question. My “ah-ha” moment is when Greg was the only person who understood the concept of predicting counterfactuals but the rest of us just stayed quiet until Kevin checked on us. I realized that others in the room may share the same confusion as mine, and they may also be too afraid to ask. Asking questions is a way to signal others, which makes the conversation more transparent and could take the discussion in interesting directions. After that, my questions magically sound less silly in my head. I started to see the value in them and how to phrase my questions to better contribute to the discussion. 
 
@@ -54,4 +42,4 @@ Second, I want to get better at taking feedback. It's easy for me to only focus 
 Lastly, instead of beating myself up, I want to feel excited when discovering something that I suck at. I haven’t found a good way to achieve this yet.
 
 ## Last Words
-I'm convinced that I wouldn't grow if I only stay in my comfort zone. I find this learning experience excruciating yet enjoyable, and this feeling is addictive. Kevin is a great personal trainer at keeping me on my toes for the entire term. I want to thank Kevin and Scott for designing such a life-changing course. I also feel grateful to have Greg and Teyden as my teammates, and I almost don't want this course to end just to continue working with them. 
+I'm convinced that I wouldn't grow if I only stay in my comfort zone. I find this learning experience excruciating yet enjoyable, and this feeling is addictive. Kevin is a great personal trainer at keeping me on my toes for the entire term. I want to thank Kevin and Scott for designing such a life-changing course. I also feel grateful to have [Greg](http://gregdeon.com/index.html) and [Teyden](https://socialexposome.ubc.ca/people/teyden-nguyen) as my teammates, and I almost don't want this course to end just to continue working with them. 

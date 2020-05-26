@@ -31,7 +31,7 @@ Here are some of my selected colouring. I use an app called [Lake](https://www.l
 
 I occasionally take one step further.
 
-![alt text][lotus-n-moon]{: height="90%" width="90%" style="display: block; margin: 0 auto"}
+![alt text][lotus-n-moon]{: height="85%" width="85%" style="display: block; margin: 0 auto"}
 
 [lotus-n-moon]: /assets/miscellaneous/lotus-n-moon.JPG "lotus-n-moon.jpg"
 

@@ -12,7 +12,7 @@ This is a video I made for the [2019-2020 UBC Undergraduate Three-Minute Thesis 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/G3OmSowNRTA/0.jpg)](https://www.youtube.com/watch?v=G3OmSowNRTA&t=1s)
 
-Feedback from reviewers:
+## Feedback from Reviewers
 
 | Reviewer      | Strengths           | Improvements  |
 | ------------- |-------------| -----|

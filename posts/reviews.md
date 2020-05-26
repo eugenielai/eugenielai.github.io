@@ -14,12 +14,7 @@ Out of pure curiosity, I did a PhD-level business course this term on causal inf
 ## The Problem
 Online retailing is one of the fastest-growing sectors in the past decade. However, studies have shown that unnatural reviews take up nearly a third of total online reviews, and review manipulation is shown to have substantial impacts on consumer’s buying decisions. Hence there is a growing need to monitor, assess, and control the quantity and impact of unnatural reviews on online platforms.
 
-The three main types of unnatural reviews are:  
-* Negative reviews by competitors
-* Positive reviews by producers
-* Incentivized reviews by customers
-
-As a method of review manipulation, incentivized reviews are posted by consumers who received incentives from the product seller for the purchased product. Some common incentives include free products, product discounts, promotion coupons, and cash backs.
+The three main types of unnatural reviews are negative reviews by competitors, positive reviews by producers, and incentivized reviews by customers. As a method of review manipulation, incentivized reviews are posted by consumers who received incentives from the product seller for the purchased product. Some common incentives include free products, product discounts, promotion coupons, and cash backs.
 
 Historically, Amazon has prohibited compensation for reviews but allowed businesses to incentivize their customers to share their “honest” opinion as long as the reviewers disclosed their affiliation with the business in their review text. Although, in theory, these reviewers could write their unbiased opinion on the product, studies have shown that these incentivized reviews have tended to be overwhelmingly biased in favour of the product being rated. 
 

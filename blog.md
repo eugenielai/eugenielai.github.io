@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: default
 title: Blog Posts
 author: Eugenie Lai
 
 ---
+
+# Blog Posts
 
 Exploring my research interests is a never-ending process
 

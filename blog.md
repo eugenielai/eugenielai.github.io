@@ -15,7 +15,7 @@ This course is life-changing, but only a small portion of my learnings are inclu
 
 ### [My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Review Manipulation](posts/reviews.html)  
 Date: 2020-04-12  
-Online retailing is one of the fastest-growing sectors in the past decade. However, studies have shown that unnatural reviews take up nearly a third of total online reviews, and review manipulation is shown to have substantial impacts on consumer’s buying decisions. Hence there is a growing need to monitor, assess, and control the quantity and impact of unnatural reviews on online platforms.
+Out of pure curiosity, I did a PhD-level business course this term on causal inference. This work is my first exposure to research in social science and is a preliminary application of causal inference techniques in online policy. 
 
 ### [Three-Minute Thesis: Facilitating Users with Query Formulation](posts/3mt.html)  
 Date: 2019-11-05  

@@ -9,7 +9,7 @@ date: 2020-04-12
 # My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Review Manipulation  
 Date: 2020-04-12
 
-Out of pure curiosity, I did a PhD-level business course this term on causal inference. This post is a light-hearted version of [my course project](/docs/work/policy.pdf), advised by [Dr. Arslan Aziz](https://www.sauder.ubc.ca/people/arslan-aziz). This is my first exposure to research in social science. Although everything felt very different, I learned that I get motivated by the quatifiable impact of my work on a real-world problem.
+Out of pure curiosity, I did a PhD-level business course this term on causal inference. This post is a light-hearted version of [my course project](/docs/work/policy.pdf), advised by [Dr. Arslan Aziz](https://www.sauder.ubc.ca/people/arslan-aziz). This work is my first exposure to research in social science and is a preliminary application of causal inference techniques in online policy. Although comparing to research in CS, this experience felt very different for me, I appreciated the opportunity to explore a variety of topics and techniques in economics and learned that I am most motivated by the quatifiable impact of my work on a real-world problem.
 
 ## The Problem
 Online retailing is one of the fastest-growing sectors in the past decade. However, studies have shown that unnatural reviews take up nearly a third of total online reviews, and review manipulation is shown to have substantial impacts on consumer’s buying decisions. Hence there is a growing need to monitor, assess, and control the quantity and impact of unnatural reviews on online platforms.
@@ -25,7 +25,7 @@ In an effort to keep bias out of the review process, *on October 6, 2016, Amazon
 I will be using a difference-in-difference approach with fixed effects to capture the impact of the policy ban on incentivized reviews.
 
 ## Data
-[ReviewMeta](https://reviewmeta.com/) is an independent site that helps consumers get a better understanding of Amazon reviews. By affiliating with ReviewMeta, I collected a small dataset of reviews on 2 categories of top-selling products: tablets and charging cables. The dataset was collected based on lists of top-selling products in charging cables and tablets in September 2019. The dataset consists of reviews for Amazon and non-Amazon products six months before and after the policy ban. ReviewMeta labelled each review record either incentivized or non-incentivized based on the review text using their NLP methods.
+[ReviewMeta](https://reviewmeta.com/) is an independent site that helps consumers get a better understanding of Amazon reviews. By affiliating with ReviewMeta, I collected a small dataset of reviews on two categories of top-selling products: tablets and charging cables. The dataset was collected based on lists of top-selling products in charging cables and tablets in September 2019. The dataset consists of reviews for Amazon and non-Amazon products six months before and after the policy ban. ReviewMeta labelled each review record either incentivized or non-incentivized based on the review text using their NLP methods.
 
 ![alt text][descriptive_reviews]
 

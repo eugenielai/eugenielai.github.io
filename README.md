@@ -28,7 +28,7 @@ To Appear in IEEE International Conference on Data Engineering, 2020 (ICDE '20)
 
 ## Blog
 
-I write about [things I did](./blog.html) on my way to discover my research interests. This space is currently under construction.
+I write about [things I did](./blog.html) on my way to discover my research interests.
 
 ## Miscellaneous
 

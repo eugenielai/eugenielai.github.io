@@ -35,6 +35,6 @@ I occasionally take one step further.
 
 [lotus-n-moon]: /assets/miscellaneous/lotus-n-moon.JPG "lotus-n-moon.jpg"
 
-![alt text][stamps]{: height="60%" width="60%"}
+![alt text][stamps]{: height="50%" width="50%" style="display: block; margin: 0 auto"}
 
 [stamps]: /assets/miscellaneous/stamps.JPG "stamps.jpg"

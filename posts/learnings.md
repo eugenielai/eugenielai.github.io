@@ -1,11 +1,12 @@
 ---
-title: A Post
+title: Learning Reflection: After Taking My First Grad Course as an Undergrad
 layout: post
 author: Eugenie Lai
+date: 2020-04-29
 
 ---
 
-This course is life-changing, but only a small portion of my learnings are included in this reflection. I will start with how this learning experience helps me make my career decisions. Then I will reflect on my personal growth over the term and finish off with things I need to work on.
+[This course](https://www.cs.ubc.ca/~kevinlb/teaching/cs532l/index.html) is life-changing, but only a small portion of my learnings are included in this reflection. I will start with how this learning experience helps me make my career decisions. Then I will reflect on my personal growth over the term and finish off with things I need to work on.
 
 ## An "Obivous" Learning Outcome
 I had many pressing questions going into this course as my answer to those questions would shape how I choose the programs and how I structure my grad school application.

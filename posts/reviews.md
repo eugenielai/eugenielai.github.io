@@ -18,7 +18,7 @@ The three main types of unnatural reviews are negative reviews by competitors, p
 
 Historically, Amazon has prohibited compensation for reviews but allowed businesses to incentivize their customers to share their “honest” opinion as long as the reviewers disclosed their affiliation with the business in their review text. Although, in theory, these reviewers could write their unbiased opinion on the product, studies have shown that these incentivized reviews have tended to be overwhelmingly biased in favour of the product being rated. 
 
-In an effort to keep bias out of the review process, on October 6, 2016, Amazon announced to ban all incentivized reviews across the platform, which provides a natural shock as an exogenous variation that only directly affects incentivized reviews. Here I aim to examine whether review policy bans can reduce review manipulation on online platforms by answering:  
+In an effort to keep bias out of the review process, *on October 6, 2016, Amazon announced to ban all incentivized reviews across the platform*, which provides a natural shock as an exogenous variation that only directly affects incentivized reviews. Here I aim to examine whether review policy bans can reduce review manipulation on online platforms by answering:  
 * **Question:** Did the ban on incentivized reviews have an impact on review manipulation? Specifically, did the ban change the nature and number of incentivized reviews?
 * **Hypothesis:** After the policy ban, there are more incentivized reviews. In addition, the characteristics of incentivized reviews also become more similar to natural reviews'.
 
@@ -34,11 +34,11 @@ I analyzed the review sentiment using [Amazon Web Service (AWS) Comprehend](http
 The causal question is *whether Amazon's incentivized review ban had an impact on the nature and quantity of the incentivized reviews on Amazon*. 
 
 ### Models
-Here I take a difference-in-difference approach: for each product category, I examine the difference in the nature of reviews across Amazon and non-Amazon products and across time periods before and after the policy ban. 
+Here I take a *difference-in-difference* approach: for each product category, I examine the difference in the nature of reviews across Amazon and non-Amazon products and across time periods before and after the policy ban. 
 * The first difference: Reviews for Amazon products are in the control group as Amazon itself would not incentivize its customers to post reviews. 
 * The second difference: Reviews posted prior to the ban are in the control group.
 * I used a one-year time frame, including six months before and after the ban.
-* I used fixed effects to control the differences between product categories across the platform.
+* I used *fixed effects* to control the differences between product categories across the platform.
 
 Furthermore, I need to check if the assumptions of using the difference-in-difference approach are satisfied. The pre-treatment parallel trend assumption is checked as the following.
 * The interaction term of the weeks before the ban are tested.
@@ -54,5 +54,5 @@ Furthermore, I need to check if the assumptions of using the difference-in-diffe
 
 [Back to blog](../blog.html)
 
-[descriptive_reviews]: /assets/posts/descriptive_reviews.PNG "descriptive_reviews.png"
-[exploratory_analysis]: /assets/posts/exploratory_analysis.PNG "exploratory_analysis.png"
+[descriptive_reviews]: /assets/posts/descriptive_reviews.png "descriptive_reviews.png"
+[exploratory_analysis]: /assets/posts/exploratory_analysis.png "exploratory_analysis.png"

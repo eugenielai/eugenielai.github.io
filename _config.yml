@@ -25,7 +25,6 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 collections:
   posts:
     output: true
-    permalink: 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/eugenie-yujing-lai

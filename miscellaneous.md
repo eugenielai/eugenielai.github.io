@@ -1,9 +1,11 @@
 ---
 title: My Gallery
-layout: post
+layout: default
 author: Eugenie Lai
 
 ---
+
+# My Gallery
 
 I like to use a different part of my brain to relax and let out my excessive thoughts. 
 

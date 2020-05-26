@@ -25,7 +25,8 @@ In an effort to keep bias out of the review process, *on October 6, 2016, Amazon
 I will be using a difference-in-difference approach with fixed effects to capture the impact of the policy ban on incentivized reviews.
 
 ## Data
-[ReviewMeta](https://reviewmeta.com/) is an independent site that helps consumers get a better understanding of Amazon reviews. By affiliating with ReviewMeta, I collected a small dataset of reviews on 2 categories of top-selling products: tablets and charging cables. The dataset was collected based on lists of top-selling products in charging cables and tablets in September 2019. The dataset consists of reviews for Amazon and non-Amazon products six months before and after the policy ban. ReviewMeta labelled each review record either incentivized or non-incentivized based on the review text using their NLP methods.  
+[ReviewMeta](https://reviewmeta.com/) is an independent site that helps consumers get a better understanding of Amazon reviews. By affiliating with ReviewMeta, I collected a small dataset of reviews on 2 categories of top-selling products: tablets and charging cables. The dataset was collected based on lists of top-selling products in charging cables and tablets in September 2019. The dataset consists of reviews for Amazon and non-Amazon products six months before and after the policy ban. ReviewMeta labelled each review record either incentivized or non-incentivized based on the review text using their NLP methods.
+
 ![alt text][descriptive_reviews]
 
 I analyzed the review sentiment using [Amazon Web Service (AWS) Comprehend](https://aws.amazon.com/comprehend/), which gives a sentiment score for positive, negative, neutral, and mixed sentiment for every review. I added the positive sentiment score to the dataset and used along with the rating as another measurement of reviews.  
@@ -35,8 +36,8 @@ The causal question is *whether Amazon's incentivized review ban had an impact o
 
 ### Models
 Here I take a *difference-in-difference* approach: for each product category, I examine the difference in the nature of reviews across Amazon and non-Amazon products and across time periods before and after the policy ban. 
-* The first difference: Reviews for Amazon products are in the control group as Amazon itself would not incentivize its customers to post reviews. 
-* The second difference: Reviews posted prior to the ban are in the control group.
+* First difference: Reviews for Amazon products are in the control group as Amazon itself would not incentivize its customers to post reviews. 
+* Second difference: Reviews posted prior to the ban are in the control group.
 * I used a one-year time frame, including six months before and after the ban.
 * I used *fixed effects* to control the differences between product categories across the platform.
 

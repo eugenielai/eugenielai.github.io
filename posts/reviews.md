@@ -9,7 +9,7 @@ date: 2020-04-12
 # My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Review Manipulation  
 Date: 2020-04-12
 
-Out of pure curiosity, I did a PhD-level business course this term on causal inference. This post is a light-hearted version of my course project, advised by [Dr. Arslan Aziz](https://www.sauder.ubc.ca/people/arslan-aziz). This is my first exposure to research in social science. Although everything felt very different, I learned that I am motivated by the quatifiable impact of my research on a real-world problem.
+Out of pure curiosity, I did a PhD-level business course this term on causal inference. This post is a light-hearted version of my course project, advised by [Dr. Arslan Aziz](https://www.sauder.ubc.ca/people/arslan-aziz). This is my first exposure to research in social science. Although everything felt very different, I learned that I get motivated by the quatifiable impact of my work on a real-world problem.
 
 ## The Problem
 Online retailing is one of the fastest-growing sectors in the past decade. However, studies have shown that unnatural reviews take up nearly a third of total online reviews, and review manipulation is shown to have substantial impacts on consumer’s buying decisions. Hence there is a growing need to monitor, assess, and control the quantity and impact of unnatural reviews on online platforms.

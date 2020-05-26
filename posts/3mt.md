@@ -6,7 +6,7 @@ date: 2019-11-05
 
 ---
 
-# Three-Minute Thesis: Facilitate Users with Query Formulation  
+# Three-Minute Thesis: Facilitating Users with Query Formulation  
 Date: 2019-11-05
 
 This is a video I made for the [2019-2020 UBC Undergraduate Three-Minute Thesis competition](https://ubc.3mt.ca/). Although my project has changed drastically since then, it was a fun learning experience that challenged me to express my idea in three minutes.

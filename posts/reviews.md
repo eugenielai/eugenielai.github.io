@@ -33,4 +33,4 @@ I will be using difference-in-difference and fixed effects to capture the impact
 
 ## Conclusion
 
-[Back to blog](./blog.html)
+[Back to blog](../blog.html)

@@ -6,6 +6,8 @@ date: 2020-04-29
 
 ---
 
+# Learning Reflection: After My First Grad Course as an Undergrad
+
 [This course](https://www.cs.ubc.ca/~kevinlb/teaching/cs532l/index.html) is life-changing, but only a small portion of my learnings are included in this reflection. I will start with how this learning experience helps me make my career decisions. Then I will reflect on my personal growth over the term and finish off with things I need to work on.
 
 ## An "Obivous" Learning Outcome

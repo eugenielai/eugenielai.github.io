@@ -1,6 +1,7 @@
 ---
 title: Blog Posts
 layout: blog
+collectionpage: posts
 author: Eugenie Lai
 
 ---

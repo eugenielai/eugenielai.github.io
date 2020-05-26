@@ -1,6 +1,6 @@
 ---
 title: A Post
-layout: default
+layout: post
 author: Eugenie Lai
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Learning Reflection: After Taking My First Grad Course as an Undergrad
+title: Learning Reflection: After My First Grad Course as an Undergrad
 layout: post
 author: Eugenie Lai
 

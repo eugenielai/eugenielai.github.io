@@ -29,7 +29,7 @@ Here are some of my selected colouring. I use an app called [Lake](https://www.l
 
 ## Chinese Painting
 
-I occasionally opt for something other than colouring.
+I occasionally take one step further.
 
 ![alt text][lotus-n-moon]
 

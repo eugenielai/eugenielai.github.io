@@ -4,6 +4,8 @@ I am a fourth-year undergraduate student in the Combined Major of Business and C
 
 My current research focuses on databases while applying concepts of visualization, machine learning, and HCI to help users interact with and make sense of data. Today, database systems provide a vital infrastructure to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise is required for a user to interact with such database applications. This need of users sparks the urge to make my work surround the theme of helping users who have a database-related incomplete skillset.
 
+My pronouns are she/her/hers.
+
 [UBC Data Management and Mining Lab]: https://www.cs.ubc.ca/labs/db/home.php
 [Dr. Rachel Pottinger]: https://www.cs.ubc.ca/~rap/
 [Dr. Mostafa Milani]: https://www.cs.ubc.ca/~mkmilani/
@@ -26,7 +28,7 @@ To Appear in IEEE International Conference on Data Engineering, 2020 (ICDE '20)
 
 ## Blog
 
-I write about [things I did](./blog-page.html) on my way to discover my research interests, which is an iterative, on-going process. This space is currently under construction.
+I write about [things I did](./blog-page.html) on my way to discover my research interests. This space is currently under construction.
 
 ## Miscellaneous
 

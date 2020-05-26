@@ -21,11 +21,13 @@ The three main types of unnatural reviews are:
 
 As a method of review manipulation, incentivized reviews are posted by consumers who received incentives from the product seller for the purchased product. Some common incentives include free products, product discounts, promotion coupons, and cash backs.
 
-In an effort to keep bias out of the review process, on October 6, 2016, Amazon announced to ban all incentivized reviews across the platform. I want to examine whether review policy bans can reduce review manipulation on online platforms by answering:
+Historically, Amazon has prohibited compensation for reviews but allowed businesses to incentivize their customers to share their “honest” opinion as long as the reviewers disclosed their affiliation with the business in their review text. Although, in theory, these reviewers could write their unbiased opinion on the product, studies have shown that these incentivized reviews have tended to be overwhelmingly biased in favour of the product being rated. A 2016 study by [ReviewMeta](https://reviewmeta.com/) analyzed over seven million reviews on Amazon and indicated that the average rating for products with incentivized reviews was 0.38 stars higher than non-incentivized ones. The 0.38-star difference is able to boost products from the 54th percentile to the 94th percentile. In addition, the study also found that incentivized reviewers were 12 times less likely to give a 1-star rating than non-incentivized reviews. Hence effectively, incentivized reviews could create top-rated products.
+
+In an effort to keep bias out of the review process, on October 6, 2016, Amazon announced to ban all incentivized reviews across the platform, which provides a natural shock as an exogenous variation that only directly affects incentivized reviews. Here I aim to examine whether review policy bans can reduce review manipulation on online platforms by answering:  
 * **Question:** Did the ban on incentivized reviews have an impact on review manipulation? Specifically, did the ban change the nature and number of incentivized reviews?
 * **Hypothesis:** After the policy ban, there are more incentivized reviews. In addition, the characteristics of incentivized reviews also become more similar to natural reviews'.
 
-I will be using difference-in-difference and fixed effects to capture the impact of the policy ban on incentivized reviews.
+I will be using a difference-in-difference approach with fixed effects to capture the impact of the policy ban on incentivized reviews.
 
 ## Data
 

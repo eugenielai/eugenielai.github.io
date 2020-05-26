@@ -36,10 +36,10 @@ The causal question is *whether Amazon's incentivized review ban had an impact o
 
 ### Models
 Here I take a *difference-in-difference* approach: for each product category, I examine the difference in the nature of reviews across Amazon and non-Amazon products and across time periods before and after the policy ban. 
-* First difference: Reviews for Amazon products are in the control group as Amazon itself would not incentivize its customers to post reviews. 
-* Second difference: Reviews posted prior to the ban are in the control group.
-* I used a one-year time frame, including six months before and after the ban.
+* **First difference:** Reviews for Amazon products are in the control group as Amazon itself would not incentivize its customers to post reviews. 
+* **Second difference:** Reviews posted prior to the ban are in the control group.
 * I used *fixed effects* to control the differences between product categories across the platform.
+* I used a one-year time frame, including six months before and after the ban.
 
 Furthermore, I need to check if the assumptions of using the difference-in-difference approach are satisfied. The pre-treatment parallel trend assumption is checked as the following.
 * The interaction term of the weeks before the ban are tested.

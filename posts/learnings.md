@@ -2,7 +2,6 @@
 title: Learning Reflection: After Taking My First Grad Course as an Undergrad
 layout: post
 author: Eugenie Lai
-date: 2020-04-29
 
 ---
 

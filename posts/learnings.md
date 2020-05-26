@@ -11,7 +11,7 @@ Date: 2020-04-29
 
 [This course](https://www.cs.ubc.ca/~kevinlb/teaching/cs532l/index.html) is life-changing, but only a small portion of my learnings are included in this reflection. I will start with how this learning experience helps me make my career decisions. Then I will reflect on my personal growth over the term and finish off with things I need to work on.
 
-## An "Obivous" Learning Outcome
+## An "Obvious" Learning Outcome
 I had many pressing questions going into this course as my answer to those questions would shape how I choose the programs and how I structure my grad school application.
 * I enjoy research more than industry, but why do I want to go to grad school?
 * What’s my research interest?
@@ -46,3 +46,5 @@ Lastly, instead of beating myself up, I want to feel excited when discovering so
 
 ## Last Words
 I'm convinced that I wouldn't grow if I only stay in my comfort zone. I find this learning experience excruciating yet enjoyable, and this feeling is addictive. Kevin is a great personal trainer at keeping me on my toes for the entire term. I want to thank Kevin and Scott for designing such a life-changing course. I also feel grateful to have [Greg](http://gregdeon.com/index.html) and [Teyden](https://socialexposome.ubc.ca/people/teyden-nguyen) as my teammates, and I almost don't want this course to end just to continue working with them. 
+
+[Back to blog](./blog.html)

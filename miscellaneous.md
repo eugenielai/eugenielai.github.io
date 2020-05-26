@@ -1,6 +1,6 @@
 ---
 title: My Gallery
-layout: default
+layout: post
 author: Eugenie Lai
 
 ---

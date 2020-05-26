@@ -5,7 +5,7 @@ author: Eugenie Lai
 
 ---
 
-I like to use a different part of my brain to relax by letting out my excessive thoughts and emotions. 
+I like to use a different part of my brain to relax and let out my excessive thoughts. 
 
 ## Colouring
 

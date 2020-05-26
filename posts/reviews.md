@@ -14,15 +14,15 @@ Out of pure curiosity, I did a PhD-level business course this term on causal inf
 ## The Problem
 Online retailing is one of the fastest-growing sectors in the past decade. However, studies have shown that unnatural reviews take up nearly a third of total online reviews, and review manipulation is shown to have substantial impacts on consumer’s buying decisions. Hence there is a growing need to monitor, assess, and control the quantity and impact of unnatural reviews on online platforms.
 
-The three main types of unnatural reviews are:
+The three main types of unnatural reviews are:  
 * Negative reviews by competitors
 * Positive reviews by producers
-* Incentivized reviews by customers  
+* Incentivized reviews by customers
 As a method of review manipulation, incentivized reviews are posted by consumers who received incentives from the product seller for the purchased product. Some common incentives include free products, product discounts, promotion coupons, and cash backs.
 
 In an effort to keep bias out of the review process, on October 6, 2016, Amazon announced to ban all incentivized reviews across the platform. I want to examine whether review policy bans can reduce review manipulation on online platforms by answering:
-...Did the ban on incentivized reviews have an impact on review manipulation? Specifically, did the ban change the nature and number of incentivized reviews?
-...**Hypothesis**: After the policy ban, there are more incentivized reviews. In addition, the characteristics of incentivized reviews also become more similar to natural reviews'  
+* Did the ban on incentivized reviews have an impact on review manipulation? Specifically, did the ban change the nature and number of incentivized reviews?
+* **Hypothesis**: After the policy ban, there are more incentivized reviews. In addition, the characteristics of incentivized reviews also become more similar to natural reviews'  
 I will be using difference-in-difference and fixed effects to capture the impact of the policy ban on incentivized reviews.
 
 ## Data

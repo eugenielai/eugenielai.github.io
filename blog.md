@@ -15,7 +15,7 @@ This course is life-changing, but only a small portion of my learnings are inclu
 
 ## [My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Review Manipulation](posts/reviews.html)  
 Date: 2020-04-12  
-Out of pure curiosity, I did a PhD-level business course this term on causal inference. This work is my first exposure to research in social science and is a preliminary application of causal inference techniques in online policy. 
+Out of pure curiosity, I did a PhD-level business course this term on causal inference. This work is my first exposure to research in social science and a preliminary application of causal inference techniques in online policy. 
 
 ## [Three-Minute Thesis: Facilitating Users with Query Formulation](posts/3mt.html)  
 Date: 2019-11-05  

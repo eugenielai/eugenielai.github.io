@@ -9,7 +9,7 @@ date: 2020-04-12
 # My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Review Manipulation  
 Date: 2020-04-12
 
-Out of pure curiosity, I did a PhD-level business course this term on causal inference. This post is a light-hearted version of [my course project](/docs/work/policy.pdf), advised by [Dr. Arslan Aziz](https://www.sauder.ubc.ca/people/arslan-aziz). This work is my first exposure to research in social science and a preliminary application of causal inference techniques in online policy. Although comparing to research in CS, this experience felt very different for me, I appreciated the opportunity to explore a variety of topics and techniques in economics and learned that I am most motivated by the quatifiable impact of my work on a real-world problem.
+Out of pure curiosity, I did a PhD-level business course this term on causal inference. This post is a light-hearted version of my course project [report](/docs/work/policy.pdf), advised by [Dr. Arslan Aziz](https://www.sauder.ubc.ca/people/arslan-aziz). This work is my first exposure to research in social science and a preliminary application of causal inference techniques in online policy. Although comparing to research in CS, this experience felt very different for me, I appreciated the opportunity to explore a variety of topics and techniques in economics and learned that I am most motivated by the quatifiable impact of my work on a real-world problem.
 
 ## The Problem
 Online retailing is one of the fastest-growing sectors in the past decade. However, studies have shown that unnatural reviews take up nearly a third of total online reviews, and review manipulation is shown to have substantial impacts on consumer’s buying decisions. Hence there is a growing need to monitor, assess, and control the quantity and impact of unnatural reviews on online platforms.
@@ -49,31 +49,42 @@ Furthermore, I need to check if the assumptions of using the difference-in-diffe
 ### Key Measures
 ![alt text][exploratory_analysis]
 
-Using the stated incentivized review label identified by ReviewMeta's NLP methods, I found that review word count, image count, and helpfulness upvotes are sensitive to incentivized reviews: incentivized reviews are longer, with a higher image count, and more helpful than non-incentivized reviews. In addition, there is a strong correlation between reviews’ helpfulness and word count and image count. I validate this observation in the data using regression tests with fixed effects on product categories and brands and find that those characteristics are statistically significant for incentivized reviews, which is shown in the figure below. Along with review rating and sentiment, these five observables are the dependent variables in the difference-in-difference analysis.
+Using the stated incentivized review label identified by ReviewMeta's NLP methods, I found that review word count, image count, and helpfulness upvotes are sensitive to incentivized reviews: incentivized reviews are longer, with a higher image count, and more helpful than non-incentivized reviews. Additionally, there is a strong correlation between reviews’ helpfulness and word count and image count. 
+
+I validated this observation in the data using regression tests with fixed effects on product categories and brands and found that those characteristics are statistically significant for incentivized reviews, which is shown in the figure below. Along with review rating and sentiment, **these five observables are the dependent variables in the difference-in-difference analysis**.
 
 ![alt text][dv_brand]
 
 ## Results & Discussion
 
 ### Main Effects
-The results align with the hypothesis. Based on the difference-in-difference analysis without fixed effects, there is a statistically significant decrease in review length, image count, and helpfulness for non-Amazon products after the ban. This means that after the ban, reviews became shorter, have fewer images, and are less helpful. Hence the policy ban had an impact on the nature of reviews. Notably, the coefficient of review rating and sentiment is positive but not significant. 
+The results align with the hypothesis. 
+
+Difference-in-difference analysis **without** fixed effects: there is a statistically significant decrease in review length, image count, and helpfulness for non-Amazon products after the ban. This means that after the ban, reviews became shorter, have fewer images, and are less helpful.  
 
 ![alt text][did_avg]
 
-In my difference-in-difference analysis with category-level fixed effects, besides the treatment effects being consistent for all dependent variables, review rating and sentiment also become statistically significant. The impact of the policy ban on incentivized reviews becomes more pronounced since I control the time-invariant characteristics of the product categories. In the previous analysis, I find that incentivized reviews inherently have higher ratings and sentiment. Therefore, the statistically significant increase in review rating and sentiment after the ban signals an increase in incentivized reviews. And instead of reducing the number of incentivized reviews on the platform, the policy ban led to more natural-looking incentivized reviews. 
+Difference-in-difference analysis **with category-level fixed effects**: 
+* Besides the treatment effects being consistent for all dependent variables, review rating and sentiment also become statistically significant.
+* The impact of the policy ban on incentivized reviews becomes more pronounced since I controlled the time-invariant characteristics of the product categories. 
+* In the previous analysis, I find that incentivized reviews inherently have higher ratings and sentiment. Therefore, the statistically significant increase in review rating and sentiment after the ban signals an increase in incentivized reviews. 
+* In addition, instead of reducing the number of incentivized reviews on the platform, the policy ban led to more natural-looking incentivized reviews. 
 
 ![alt text][did_category_FE]
 
-Lastly, the result of the difference-in-difference analysis with brand-level fixed effects is consistent with the previous findings. It is expected that I lose the statistical significance of the dependent variables as I further break down the data. 
+Difference-in-difference analysis **with brand-level fixed effects**: consistent with the previous findings. It is expected to lose the statistical significance of the dependent variables as I further break down the data. 
 
 ![alt text][did_brand_FE]
 
-The key findings are summarized as the following. First, the review policy ban changed the nature of reviews. Reviews become shorter with fewer images attached. Second, the policy ban increased review rating and sentiment across product categories. Third, the evidence shows that the ban may have heterogeneous effects on different product categories due to their individual characteristics.
+The key findings are summarized as the following:
+1. The review policy ban changed the nature of reviews. Reviews become shorter with fewer images attached. 
+2. The policy ban increased review rating and sentiment across product categories. 
+3. The evidence shows that the ban may have heterogeneous effects on different product categories due to their individual characteristics.
 
 ### Robustness Check
 ![alt text][coef]
 
-Following the steps described in the model section, the estimated coefficients of the 26 weeks prior to the policy ban are all statistically zero, which tells us that their trends are parallel before the ban.
+Following the steps described in the model section, the estimated coefficients of the 26 weeks prior to the policy ban are all statistically zero, which tells us that their trends are **parallel** before the ban, and the assumption is satisfied.
 
 ## Conclusion
 

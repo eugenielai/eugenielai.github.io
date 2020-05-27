@@ -62,7 +62,7 @@ I validated this observation in the data using regression tests with fixed effec
 ## Results & Discussion
 
 ### Main Effects
-The results align with the hypothesis. 
+The results **align** with the hypothesis. 
 
 Difference-in-difference analysis **without** fixed effects: there is a statistically significant decrease in review length, image count, and helpfulness for non-Amazon products after the ban. This means that after the ban, reviews became shorter, have fewer images, and are less helpful.  
 

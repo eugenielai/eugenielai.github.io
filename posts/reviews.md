@@ -25,7 +25,10 @@ In an effort to keep bias out of the review process, *on October 6, 2016, Amazon
 I will be using a difference-in-difference approach with fixed effects to capture the impact of the policy ban on incentivized reviews.
 
 ## Data
-[ReviewMeta](https://reviewmeta.com/) is an independent site that helps consumers get a better understanding of Amazon reviews. By affiliating with ReviewMeta, I collected a small dataset of reviews on two categories of top-selling products: *tablets* and *charging cables*. The dataset was collected based on lists of top-selling products in charging cables and tablets in September 2019. The dataset consists of reviews for Amazon and non-Amazon products six months before and after the policy ban. ReviewMeta labelled each review record either incentivized or non-incentivized based on the review text using their NLP methods.
+[ReviewMeta](https://reviewmeta.com/) is an independent site that helps consumers get a better understanding of Amazon reviews.  
+* By affiliating with ReviewMeta, we collected a small dataset of reviews on two categories of top-selling products: *tablets* and *charging cables*. 
+* The dataset was collected based on lists of top-selling products in charging cables and tablets in September 2019. 
+* ReviewMeta labelled each review record either incentivized or non-incentivized based on the review text using their NLP methods.
 
 ![alt text][descriptive_reviews]
 
@@ -47,9 +50,10 @@ Furthermore, I need to check if the assumptions of using the difference-in-diffe
 * The pre-treatment parallel assumption is satisfied if all the coefficients are statistically zero.
 
 ### Key Measures
-![alt text][exploratory_analysis]
 
 Using the stated incentivized review label identified by ReviewMeta's NLP methods, I found that review word count, image count, and helpfulness upvotes are sensitive to incentivized reviews: incentivized reviews are longer, with a higher image count, and more helpful than non-incentivized reviews. Additionally, there is a strong correlation between reviews’ helpfulness and word count and image count. 
+
+![alt text][exploratory_analysis]
 
 I validated this observation in the data using regression tests with fixed effects on product categories and brands and found that those characteristics are statistically significant for incentivized reviews, which is shown in the figure below. Along with review rating and sentiment, **these five observables are the dependent variables in the difference-in-difference analysis**.
 

@@ -25,7 +25,7 @@ In an effort to keep bias out of the review process, *on October 6, 2016, Amazon
 I will be using a difference-in-difference approach with fixed effects to capture the impact of the policy ban on incentivized reviews.
 
 ## Data
-[ReviewMeta](https://reviewmeta.com/) is an independent site that helps consumers get a better understanding of Amazon reviews. By affiliating with ReviewMeta, I collected a small dataset of reviews on two categories of top-selling products: tablets and charging cables. The dataset was collected based on lists of top-selling products in charging cables and tablets in September 2019. The dataset consists of reviews for Amazon and non-Amazon products six months before and after the policy ban. ReviewMeta labelled each review record either incentivized or non-incentivized based on the review text using their NLP methods.
+[ReviewMeta](https://reviewmeta.com/) is an independent site that helps consumers get a better understanding of Amazon reviews. By affiliating with ReviewMeta, I collected a small dataset of reviews on two categories of top-selling products: *tablets* and *charging cables*. The dataset was collected based on lists of top-selling products in charging cables and tablets in September 2019. The dataset consists of reviews for Amazon and non-Amazon products six months before and after the policy ban. ReviewMeta labelled each review record either incentivized or non-incentivized based on the review text using their NLP methods.
 
 ![alt text][descriptive_reviews]
 
@@ -34,7 +34,7 @@ I analyzed the review sentiment using [Amazon Web Service (AWS) Comprehend](http
 ## Methodology
 The causal question is *whether Amazon's incentivized review ban had an impact on the nature and quantity of the incentivized reviews on Amazon*. 
 
-### Models
+### Model
 Here I take a *difference-in-difference* approach: for each product category, I examine the difference in the nature of reviews across Amazon and non-Amazon products and across time periods before and after the policy ban. 
 * **First difference:** Reviews for Amazon products are in the control group as Amazon itself would not incentivize its customers to post reviews. 
 * **Second difference:** Reviews posted prior to the ban are in the control group.
@@ -49,11 +49,48 @@ Furthermore, I need to check if the assumptions of using the difference-in-diffe
 ### Key Measures
 ![alt text][exploratory_analysis]
 
+Using the stated incentivized review label identified by ReviewMeta's NLP methods, I found that review word count, image count, and helpfulness upvotes are sensitive to incentivized reviews: incentivized reviews are longer, with a higher image count, and more helpful than non-incentivized reviews. In addition, there is a strong correlation between reviews’ helpfulness and word count and image count. I validate this observation in the data using regression tests with fixed effects on product categories and brands and find that those characteristics are statistically significant for incentivized reviews, which is shown in the figure below. Along with review rating and sentiment, these five observables are the dependent variables in the difference-in-difference analysis.
+
+![alt text][dv_brand]
+
 ## Results & Discussion
 
+### Main Effects
+The results align with the hypothesis. Based on the difference-in-difference analysis without fixed effects, there is a statistically significant decrease in review length, image count, and helpfulness for non-Amazon products after the ban. This means that after the ban, reviews became shorter, have fewer images, and are less helpful. Hence the policy ban had an impact on the nature of reviews. Notably, the coefficient of review rating and sentiment is positive but not significant. 
+
+![alt text][did_avg]
+
+In my difference-in-difference analysis with category-level fixed effects, besides the treatment effects being consistent for all dependent variables, review rating and sentiment also become statistically significant. The impact of the policy ban on incentivized reviews becomes more pronounced since I control the time-invariant characteristics of the product categories. In the previous analysis, I find that incentivized reviews inherently have higher ratings and sentiment. Therefore, the statistically significant increase in review rating and sentiment after the ban signals an increase in incentivized reviews. And instead of reducing the number of incentivized reviews on the platform, the policy ban led to more natural-looking incentivized reviews. 
+
+![alt text][did_category_FE]
+
+Lastly, the result of the difference-in-difference analysis with brand-level fixed effects is consistent with the previous findings. It is expected that I lose the statistical significance of the dependent variables as I further break down the data. 
+
+![alt text][did_brand_FE]
+
+The key findings are summarized as the following. First, the review policy ban changed the nature of reviews. Reviews become shorter with fewer images attached. Second, the policy ban increased review rating and sentiment across product categories. Third, the evidence shows that the ban may have heterogeneous effects on different product categories due to their individual characteristics.
+
+### Robustness Check
+![alt text][coef]
+
+Following the steps described in the model section, the estimated coefficients of the 26 weeks prior to the policy ban are all statistically zero, which tells us that their trends are parallel before the ban.
+
 ## Conclusion
+
+In summary, the results align with the hypothesis. After the ban, **the nature of reviews changed:** reviews became shorter with fewer images attached. However, there is an **increase** in both average review rating and sentiment, which indicates that the number of incentivized reviews increased after the ban for the top-selling phone cables and tablets.
+
+Although this study only shows the possible repercussions of this particular online platform policy, 
+* it openned my eyes on the complexity of policy impact evaluation, specifically the variety of confounders and unobservables.
+* it showed me the potential of leveraging consumer-generated data in policy formulation.
+* it made me have the urge to make data-driven policy formulation more accessible to benefit a wider range of governments and businesses.
 
 [Back to blog](../blog.html)
 
 [descriptive_reviews]: /assets/posts/descriptive_reviews.png "descriptive_reviews.png"
 [exploratory_analysis]: /assets/posts/exploratory_analysis.png "exploratory_analysis.png"
+[dv_brand]: /assets/posts/dv_brand.png "dv_brand.png"
+[did_avg]: /assets/posts/did_avg.png "did_avg.png"
+[did_category_FE]: /assets/posts/did_category_FE.png "did_category_FE.png"
+[did_brand_FE]: /assets/posts/did_brand_FE.png "did_brand_FE.png"
+[coef]: /assets/posts/coef.png "coef.png"
+

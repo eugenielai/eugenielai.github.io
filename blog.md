@@ -21,6 +21,6 @@ Out of pure curiosity, I did a PhD-level business course this term on causal inf
 Date: 2019-11-05  
 This is a video I made for the 2019-2020 UBC Undergraduate Three-Minute Thesis competition. Although my project has changed drastically since then, it was a fun learning experience that challenged me to express my idea in three minutes.
 
-## [Data Science for Social Good: Data Visualizer for Surrey's Electric Vehicle Strategy](posts/dssg.html)  
+## [Data-Driven City Planning: We Made a Visualizer for Surrey's Electric Vehicle Strategy](posts/dssg.html)  
 Date: 2019-10-29  
-Last summer, I teamed up with Laura and developed this visualization tool as a part of UBC Data Science for Social Good (DSSG) program. This experience openned my eyes on the influential role of data in city planning and sustainability.
+Last summer, I developed this visualization tool as a part of UBC Data Science for Social Good (DSSG) program. This experience openned my eyes on the influential role of data in city planning and sustainability.

@@ -1,15 +1,15 @@
 ---
-title: Data Science for Social Good: Data Visualizer for Surrey's Electric Vehicle Strategy
+title: Data-Driven City Planning: We Made a Visualizer for Surrey's Electric Vehicle Strategy
 layout: post
 author: Eugenie Lai
 date: 2019-10-29
 
 ---
 
-# Data Science for Social Good: Data Visualizer for Surrey's Electric Vehicle Strategy  
+# Data-Driven City Planning: We Made a Visualizer for Surrey's Electric Vehicle Strategy  
 Date: 2019-10-29
 
-Last summer, I teamed up with [Laura](https://github.com/lauragreenstreet) and developed this visualization tool as a part of [UBC Data Science for Social Good (DSSG) program](https://dsi.ubc.ca/data-science-social-good), directed by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/). Our project is a collaboration between the [UBC Data Science Institute](https://dsi.ubc.ca/) and the [City of Surry](https://www.surrey.ca/).
+Last summer, I teamed up with [Laura](https://github.com/lauragreenstreet) and developed this visualization tool as a part of [UBC Data Science for Social Good (DSSG) program](https://dsi.ubc.ca/data-science-social-good), directed by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/). A collaboration between the [UBC Data Science Institute](https://dsi.ubc.ca/) and the [City of Surry](https://www.surrey.ca/), our project openned my eyes on the influential role of data in city planning and sustainability.
 
 ## Background & Motivation
 

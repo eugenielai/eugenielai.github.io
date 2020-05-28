@@ -9,7 +9,7 @@ date: 2019-10-29
 # Data Science for Social Good: Data Visualizer for Surrey's Electric Vehicle Strategy  
 Date: 2019-10-29
 
-This visualization tool is developed as a part of UBC Data Science for Social Good (DSSG) program, which is a collaboration between the UBC data science institute and the city of Surry.
+Last summer, I teamed up with [Laura](https://github.com/lauragreenstreet) and developed this visualization tool as a part of [UBC Data Science for Social Good (DSSG) program](https://dsi.ubc.ca/data-science-social-good), directed by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/). Our project is a collaboration between the [UBC Data Science Institute](https://dsi.ubc.ca/) and the [City of Surry](https://www.surrey.ca/).
 
 ## Background & Motivation
 
@@ -23,7 +23,7 @@ The city also aims to grow sustainably, with the goal to lower per capita emissi
 
 Motivated by these factors, the city of Surrey is currently developing an EV transformation strategy to support EV adoption, and the goal is to reach 100% zero-emission vehicles by 2050.
 
-![alt text][chicken_n_egg]{: height="60%" width="60%" style="display: block; margin: 0 auto"}
+![alt text][chicken_n_egg]{: height="50%" width="50%" style="display: block; margin: 0 auto"}
 
 However, there are a number of challenges. First, EV adoption faces a chicken-and-egg problem. People wouldn’t get EVs unless there are chargers, but the private sector wouldn’t build chargers unless there is a market. Second, it’s unknown to what extent the city should fund EV development until the private sector takes over.
 

@@ -13,7 +13,7 @@ Exploring my interests is a never-ending process.
 Date: 2020-04-29  
 This course is life-changing, but only a small portion of my learnings is included in this reflection. I will start with how this learning experience helps me make my career decisions. Then I will reflect on my personal growth over the term and finish off with things I need to work on.
 
-## [My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Review Manipulation](posts/reviews.html)  
+## [My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Incentivized Reviews](posts/reviews.html)  
 Date: 2020-04-12  
 Out of pure curiosity, I did a PhD-level business course this term on causal inference. This work is my first exposure to research in social science and a preliminary application of causal inference techniques in online policy. 
 
@@ -21,6 +21,6 @@ Out of pure curiosity, I did a PhD-level business course this term on causal inf
 Date: 2019-11-05  
 This is a video I made for the 2019-2020 UBC Undergraduate Three-Minute Thesis competition. Although my project has changed drastically since then, it was a fun learning experience that challenged me to express my idea in three minutes.
 
-## [Data Science for Social Good: Data Visualizer for Surrey's Electric Vehicle Strategy](posts/test-post.html)  
-Date: 2019-10-30  
+## [Data Science for Social Good: Data Visualizer for Surrey's Electric Vehicle Strategy](posts/dssg.html)  
+Date: 2019-10-29  
 Under construction.

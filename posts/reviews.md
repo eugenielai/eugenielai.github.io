@@ -1,12 +1,12 @@
 ---
-title: My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Review Manipulation
+title: My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Incentivized Reviews
 layout: post
 author: Eugenie Lai
 date: 2020-04-12
 
 ---
 
-# My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Review Manipulation  
+# My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Incentivized Reviews  
 Date: 2020-04-12
 
 Out of pure curiosity, I did a PhD-level business course this term on causal inference. This post is a light-hearted version of my course project [report](/docs/work/policy.pdf), advised by [Dr. Arslan Aziz](https://www.sauder.ubc.ca/people/arslan-aziz). This work is my first exposure to research in social science and a preliminary application of causal inference techniques in online policy. Although comparing to research in CS, this experience felt very different for me, I appreciated the opportunity to explore a variety of topics and techniques in economics and learned that I am most motivated by the quatifiable impact of my work on a real-world problem.
@@ -90,7 +90,7 @@ The key findings are summarized as the following:
 
 Following the steps described in the model section, the estimated coefficients of the 26 weeks prior to the policy ban are all statistically zero, which tells us that their trends are **parallel** before the ban, and the assumption is satisfied.
 
-## Conclusion
+## Conclusion & Takeaways
 
 In summary, the results align with the hypothesis. After the ban, **the nature of reviews changed:** reviews became shorter with fewer images attached. However, there is an **increase** in both average review rating and sentiment, which indicates that the number of incentivized reviews increased after the ban for the top-selling phone cables and tablets.
 
@@ -101,11 +101,11 @@ Although this study only shows the possible repercussions of this particular onl
 
 [Back to blog](../blog.html)
 
-[descriptive_reviews]: /assets/posts/descriptive_reviews.png "descriptive_reviews.png"
-[exploratory_analysis]: /assets/posts/exploratory_analysis.png "exploratory_analysis.png"
-[dv_brand]: /assets/posts/dv_brand.png "dv_brand.png"
-[did_avg]: /assets/posts/did_avg.png "did_avg.png"
-[did_category_FE]: /assets/posts/did_category_FE.png "did_category_FE.png"
-[did_brand_FE]: /assets/posts/did_brand_FE.png "did_brand_FE.png"
-[coef]: /assets/posts/coef.png "coef.png"
+[descriptive_reviews]: /assets/posts/reviews/descriptive_reviews.png "descriptive_reviews.png"
+[exploratory_analysis]: /assets/posts/reviews/exploratory_analysis.png "exploratory_analysis.png"
+[dv_brand]: /assets/posts/reviews/dv_brand.png "dv_brand.png"
+[did_avg]: /assets/posts/reviews/did_avg.png "did_avg.png"
+[did_category_FE]: /assets/posts/reviews/did_category_FE.png "did_category_FE.png"
+[did_brand_FE]: /assets/posts/reviews/did_brand_FE.png "did_brand_FE.png"
+[coef]: /assets/posts/reviews/coef.png "coef.png"
 

@@ -15,7 +15,7 @@ This visualization tool is developed as a part of UBC Data Science for Social Go
 
 Surrey is the second-largest city in the Metro Vancouver area with around 550,000 residents. By 2050, Surrey is projected to be the biggest city in the Metro Van area with over 800,000 residents. Therefore, the decisions made by the city of Surrey today will have a big impact as the city grows in the next 30 years.
 
-![alt text][surry]
+![alt text][surry]{: height="80%" width="80%" style="display: block; margin: 0 auto"}
 
 The city also aims to grow sustainably, with the goal to lower per capita emissions to half of the levels in 2007 by 2040. Transportation will play an important role in this change, as 50% of Surrey's greenhouse gas emissions come from transportation, compared to only 28% across Canada. Surrey only plans to decrease per-capita driving distance by 9%, resulting in low-emission vehicles playing an important role in reaching the city’s emission goals.
 
@@ -23,17 +23,17 @@ The city also aims to grow sustainably, with the goal to lower per capita emissi
 
 Motivated by these factors, the city of Surrey is currently developing an EV transformation strategy to support EV adoption, and the goal is to reach 100% zero-emission vehicles by 2050.
 
-![alt text][chicken_n_egg]
+![alt text][chicken_n_egg]{: height="60%" width="60%" style="display: block; margin: 0 auto"}
 
 However, there are a number of challenges. First, EV adoption faces a chicken-and-egg problem. People wouldn’t get EVs unless there are chargers, but the private sector wouldn’t build chargers unless there is a market. Second, it’s unknown to what extent the city should fund EV development until the private sector takes over.
 
 On top of that, there are other concerns regarding the high cost of EVs, public awareness, etc.
 
-![alt text][goal_vs_now]
+![alt text][goal_vs_now]{: height="60%" width="60%" style="display: block; margin: 0 auto"}
 
 There is also a big gap between the current state and the goal. From the 2018 ICBC registration dataset, EV only takes up less than 1% of the total passenger vehicles in Surrey. In addition, there are only 70 public charging sites in and within a 5km radius of Surrey, representing around 180 chargers.
 
-![alt text][charging_sites]
+![alt text][charging_sites]{: height="60%" width="60%" style="display: block; margin: 0 auto"}
 
 Therefore, the EV transformation strategy is much needed.
 

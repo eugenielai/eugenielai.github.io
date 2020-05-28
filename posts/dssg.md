@@ -39,6 +39,8 @@ Therefore, the EV transformation strategy is much needed.
 
 That being said, the purpose of this project is to help Surry adopt EV faster by giving statistical insights to guide the EV strategy development. To be more specific, the city wants to know how to strategically implement EV infrastructure in Surrey. Unlike private businesses, the city can invest in infrastructure in underserved areas that might not have an immediate payoff. Our goal was to help the city choose 20 sites for curbside chargers for a national funding proposal.
 
+[Back to blog](../blog.html)
+
 [surry]: /assets/posts/dssg/surry.png "surry.png"
 [goal_vs_now]: /assets/posts/dssg/goal_vs_now.png "goal_vs_now.png"
 [charging_sites]: /assets/posts/dssg/charging_sites.png "charging_sites.png"

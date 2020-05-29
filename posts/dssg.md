@@ -44,20 +44,27 @@ The purpose of this project is to help Surry adopt EV faster by giving statistic
 
 ## Visualization Tool
 
-Our visualizer aims to help the city planners explore 
-* the spatial distribution of their vehicel stock and traffic flows.
-* the categorical distribution.
-* the time trends.
+Our visualizer aims to help the city planners explore:
+* The spatial distribution of their vehicel stock and traffic flows.
+* The categorical distribution.
+* The time trends.
 
 ![alt text][app_vehcle_stock]
 
-For example, on the vehicle stock tab, 
-* the map on the left is showing the number of EVs per area in 2018.
-* the plots on the right show the statistics specific to a selected area, Fraser Heights: 
-    * the line graph on the top right shows the yearly changes of vehicle counts by class.
-    * the bar chart on the bottom right shows the vehicle composition compared to the city average.
+For example, on the vehicle stock tab:
+* The map on the left is showing the number of EVs per area in 2018.
+* The plots on the right show the statistics specific to a selected area, Fraser Heights: 
+    * The line graph on the top right shows the yearly changes of vehicle counts by class.
+    * The bar chart on the bottom right shows the vehicle composition compared to the city average.
 
-However, maps could be prone to subjectivity. For example, choosing different colour scales for a heat map can minimize or exaggerate the differences in EV density among areas. To mitigate subjectivity, we enabled the tool to visualize the data on several scales to give the user several perspectives. For example, on the vehicle stock tab, users are able to see where EVs are located in each area by either count or proportion. By count, Cloverdale Industrial does not even show up in the top quantile, while by proportion, it becomes an outlier with 4% EVs compared to 2% in the area with the next largest percentage. The tool also allows the user to zoom in and out between the Traffic Analysis Zone (TAZ) and area level for different spatial resolutions.
+However, a challenge we see is that maps could be prone to subjectivity. For example, choosing different colour scales for a heat map can minimize or exaggerate the differences in EV density among areas. 
+
+To mitigate subjectivity, we enabled the tool to visualize the data on several metrics to give the user several perspectives. For example:
+* On the vehicle stock tab, users are able to see where EVs are located in each area by either *count* or *proportion*. 
+* By count, Cloverdale Industrial doesn't show up in the top quantile
+* By proportion, Cloverdale Industrial becomes an outlier with 4% EVs compared to 2% in the area with the next largest percentage.  
+
+In addition, the tool allows the user to zoom in and out between the Traffic Analysis Zone (TAZ) and area level for different spatial resolutions.
 
 [Back to blog](../blog.html)
 

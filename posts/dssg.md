@@ -42,7 +42,7 @@ There is also a big gap between the current state and the goal.
 
 Hence the EV transformation strategy is much needed. 
 
-As a part of the transformation strategy, EV infrastructure plays an essential role in promoting EV adoption. However, without adequate tech support, the existing process to determine where to install an EV charging site is solely based on experts' experiences and observations, despite a large volume of data owned by the city.
+As a part of the transformation strategy, EV infrastructure plays an essential role in promoting EV adoption. However, without adequate tech support, the existing process to determine where to install an EV charging site is solely based on experts' experience, despite a large volume of data owned by the city.
 
 The **purpose** of our project is to help Surry adopt EV faster by providing city planners with statistical evidence to guide the EV infrastructure development. Specifically, our **goal** was to help the city strategically implement EV charging stations in Surrey.
 
@@ -51,7 +51,7 @@ Our work consists of a database, a visualization tool, and the application of st
 ## Our Visualizer
 
 Our visualizer aims to help the city planners explore:
-* The spatial distribution of Surrey's **vehicel stock** and **traffic flows**.
+* The spatial distribution of Surrey's **vehicel stock**, **traffic flows**, and **population demographics**.
 * The categorical distribution.
 * The time trends.
 
@@ -84,6 +84,11 @@ Now let's walk you through a simplified process for a city planner to place a ne
 ## Impact & Takeaways
 
 In September 2019, the city used our visualizer to choose 20 sites for curbside chargers for a federal funding proposal. The tool is currently still being maintained by us with fundings from the city. 
+
+Through this experience, I have the following takeaways:
+* Reformulating an ill-defined problem: the intention of the visualization tool wasn't clear at the start. Sometimes the clients don't even know what they want and whether what they want would actually solve their problem. 
+* The power of combining experts' knowledge and data analytics motivates my research interest.
+* Resistance and tech adoption: how to measure if an IT project is successful? how to make a tool more adoptable? Provide support, instead of making decisions for the users without showing the reasoning.
 
 [Back to blog](../blog.html)
 

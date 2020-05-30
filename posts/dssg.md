@@ -23,7 +23,7 @@ The city also aims to **grow sustainably**, with the goal to lower per capita em
 
 ## The Problem
 
-Motivated by these factors, the city of Surrey is currently developing an electric vehicle (EV) transformation strategy to support EV adoption, and the goal is to reach 100% zero-emission vehicles by 2050.
+Motivated by these factors, the city of Surrey is currently developing an [electric vehicle (EV) transformation strategy](https://www.surrey.ca/city-services/24744.aspx) to support EV adoption, and the goal is to reach 100% zero-emission vehicles by 2050.
 
 ![alt text][chicken_n_egg]{: height="50%" width="50%" style="display: block; margin: 0 auto"}
 
@@ -42,7 +42,7 @@ There is also a big gap between the current state and the goal.
 
 Therefor, the EV transformation strategy is much needed.
 
-The purpose of this project is to help Surry adopt EV faster by giving statistical insights to guide the EV strategy development. Specifically, the city wants to know how to strategically implement EV infrastructure in Surrey. Our **goal** was to help the city use their data to choose 20 sites for curbside chargers for a national funding proposal.
+The purpose of this project is to help Surry adopt EV faster by giving statistical insights to guide the EV strategy development. Specifically, our **goal** was to help the city strategically implement EV infrastructure in Surrey.
 
 Our work consists of a database, a visualization tool, and the application of statistical modelling and machine learning on the datasets. This post focuses on the visualization tool and its impact.
 
@@ -77,6 +77,8 @@ Now let's walk you through a simplified process for a city planner to place a ne
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SA3zjy2MsxI/0.jpg)](https://youtu.be/SA3zjy2MsxI)
 
 ## Impact
+
+In September 2019, the city used our visualizer to choose 20 sites for curbside chargers for a federal funding proposal. The tool is currently still being maintained by us with fundings from the city. 
 
 [Back to blog](../blog.html)
 

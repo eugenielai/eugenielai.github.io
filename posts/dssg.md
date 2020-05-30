@@ -11,6 +11,8 @@ Date: 2019-10-29
 
 Last summer, I teamed up with [Laura](https://github.com/lauragreenstreet) and developed this visualization tool as a part of the [UBC Data Science for Social Good (DSSG) program](https://dsi.ubc.ca/data-science-social-good), directed by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/). A collaboration between the [UBC Data Science Institute](https://dsi.ubc.ca/) and the [City of Surry](https://www.surrey.ca/), our project openned my eyes on the influential role of data in city planning and sustainability.
 
+*Update on 2020-05-30:* The city's [Energy and Sustainability Office](https://www.surrey.ca/community/3146.aspx) contacted us to extend our database and visualizer to incorporate some new datasets they just acquired. We're thrilled to see the city has been using our visualizer and are interested in maintaining it one year on!
+
 ## Background & Motivation
 
 Surrey is the second-largest city in the Metro Vancouver area with around 550,000 residents. By 2050, Surrey is projected to be the biggest city in the Metro Van area with over 800,000 residents. Hence the decisions made by the city of Surrey today will have a big impact as the city grows in the next 30 years.
@@ -42,29 +44,39 @@ Therefor, the EV transformation strategy is much needed.
 
 The purpose of this project is to help Surry adopt EV faster by giving statistical insights to guide the EV strategy development. Specifically, the city wants to know how to strategically implement EV infrastructure in Surrey. Our **goal** was to help the city use their data to choose 20 sites for curbside chargers for a national funding proposal.
 
-## Visualization Tool
+Our work consists of a database, a visualization tool, and the application of statistical modelling and machine learning on the datasets. This post focuses on the visualization tool and its impact.
+
+## Our Visualizer
 
 Our visualizer aims to help the city planners explore:
-* The spatial distribution of their vehicel stock and traffic flows.
+* The spatial distribution of Surrey's **vehicel stock** and **traffic flows**.
 * The categorical distribution.
 * The time trends.
 
 ![alt text][app_vehcle_stock]
 
-For example, on the vehicle stock tab:
+For example, on the vehicle stock tab shown above:
 * The map on the left is showing the number of EVs per area in 2018.
 * The plots on the right show the statistics specific to a selected area, Fraser Heights: 
     * The line graph on the top right shows the yearly changes of vehicle counts by class.
     * The bar chart on the bottom right shows the vehicle composition compared to the city average.
 
-However, a challenge we see is that maps could be prone to subjectivity. For example, choosing different colour scales for a heat map can minimize or exaggerate the differences in EV density among areas. 
+However, a challenge we see is that maps could be prone to **subjectivity**. For example, choosing different colour scales for a heat map can minimize or exaggerate the differences in EV density across the areas. 
 
-To mitigate subjectivity, we enabled the tool to visualize the data on several metrics to give the user several perspectives. For example:
+To mitigate subjectivity, the visualizer shows data on several metrics to give the user several perspectives. For example:
 * On the vehicle stock tab, users are able to see where EVs are located in each area by either *count* or *proportion*. 
 * By count, Cloverdale Industrial doesn't show up in the top quantile
 * By proportion, Cloverdale Industrial becomes an outlier with 4% EVs compared to 2% in the area with the next largest percentage.  
 
-In addition, the tool allows the user to zoom in and out between the Traffic Analysis Zone (TAZ) and area level for different spatial resolutions.
+In addition, the visualizer allows the user to zoom in and out between the Traffic Analysis Zone (TAZ) and area level for different spatial resolutions.
+
+## How the Tool Helps
+
+Now let's walk you through a simplified process for a city planner to place a new charging site using our visualizer.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SA3zjy2MsxI/0.jpg)](https://youtu.be/SA3zjy2MsxI)
+
+## Impact
 
 [Back to blog](../blog.html)
 

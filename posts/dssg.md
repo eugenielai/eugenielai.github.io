@@ -40,9 +40,11 @@ There is also a big gap between the current state and the goal.
 
 ![alt text][charging_sites]{: height="60%" width="60%" style="display: block; margin: 0 auto"}
 
-Therefor, the EV transformation strategy is much needed.
+Hence the EV transformation strategy is much needed. 
 
-The purpose of this project is to help Surry adopt EV faster by giving statistical insights to guide the EV strategy development. Specifically, our **goal** was to help the city strategically implement EV infrastructure (e.g., charging stations) in Surrey.
+As a part of the transformation strategy, EV infrastructure plays an essential role in promoting EV adoption. However, without adequate tech support, the existing process to determine where to install an EV charging site is solely based on experts' experiences and observations, despite a large volume of data owned by the city.
+
+The **purpose** of our project is to help Surry adopt EV faster by providing city planners with statistical evidence to guide the EV infrastructure development. Specifically, our **goal** was to help the city strategically implement EV charging stations in Surrey.
 
 Our work consists of a database, a visualization tool, and the application of statistical modelling and machine learning on the datasets. This post focuses on the visualization tool and its impact.
 
@@ -72,11 +74,14 @@ In addition, the visualizer allows the user to zoom in and out between the Traff
 
 ## How the Tool Helps
 
-Now let's walk you through a simplified process for a city planner to place a new charging site using our visualizer.
+Now let's walk you through a simplified process for a city planner to place a new charging site using our visualizer. We consider three criteria to pick a good candidate location:
+1. The number of EV in the area.
+2. The mid-day traffic flow to the area.
+3. The existing charging stations in the area.
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SA3zjy2MsxI/0.jpg)](https://youtu.be/SA3zjy2MsxI)
 
-## Impact
+## Impact & Takeaways
 
 In September 2019, the city used our visualizer to choose 20 sites for curbside chargers for a federal funding proposal. The tool is currently still being maintained by us with fundings from the city. 
 

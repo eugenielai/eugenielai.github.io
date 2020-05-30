@@ -42,7 +42,7 @@ There is also a big gap between the current state and the goal.
 
 Therefor, the EV transformation strategy is much needed.
 
-The purpose of this project is to help Surry adopt EV faster by giving statistical insights to guide the EV strategy development. Specifically, our **goal** was to help the city strategically implement EV infrastructure in Surrey.
+The purpose of this project is to help Surry adopt EV faster by giving statistical insights to guide the EV strategy development. Specifically, our **goal** was to help the city strategically implement EV infrastructure (e.g., charging stations) in Surrey.
 
 Our work consists of a database, a visualization tool, and the application of statistical modelling and machine learning on the datasets. This post focuses on the visualization tool and its impact.
 

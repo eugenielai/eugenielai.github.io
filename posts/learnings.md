@@ -47,4 +47,3 @@ Lastly, instead of beating myself up, I want to feel excited when discovering so
 ## Last Words
 I'm convinced that **I wouldn't grow if I only stay in my comfort zone**. I find this learning experience excruciating yet enjoyable, and this feeling is addictive. Kevin is a great personal trainer at keeping me on my toes for the entire term. I want to thank Kevin and Scott for designing such a life-changing course. I also feel grateful to have [Greg](http://gregdeon.com/index.html) and [Teyden](https://socialexposome.ubc.ca/people/teyden-nguyen) as my teammates, and I almost don't want this course to end just to continue working with them. 
 
-[Back to blog](../blog.html)

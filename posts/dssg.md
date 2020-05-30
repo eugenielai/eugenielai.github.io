@@ -90,8 +90,6 @@ Through this experience, I have the following takeaways:
 * The power of combining experts' knowledge and data analytics motivates my research interest.
 * Resistance and tech adoption: how to measure if an IT project is successful? how to make a tool more adoptable? Provide support, instead of making decisions for the users without showing the reasoning.
 
-[Back to blog](../blog.html)
-
 [surry]: /assets/posts/dssg/surry.png "surry.png"
 [goal_vs_now]: /assets/posts/dssg/goal_vs_now.png "goal_vs_now.png"
 [charging_sites]: /assets/posts/dssg/charging_sites.png "charging_sites.png"

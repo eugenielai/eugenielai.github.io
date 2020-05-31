@@ -21,11 +21,11 @@ Pastwatch is a system that helps users understand query answers by summarizing, 
 ## Publications
 
 Summarizing Provenance of Aggregation Query Results in Relational Databases \[[link](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]  
-*O. AlOmeir, <strong>E. Y. Lai</strong>, M. Milani and R. Pottinger*  
+*Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani and Rachel Pottinger*  
 Submitted to IEEE International Conference on Data Engineering, 2021 (ICDE '21)
 
 Pastwatch: On the Usability of Provenance Data in Relational Databases [short paper] \[[link](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]  
-*O. AlOmeir, <strong>E. Y. Lai</strong>, M. Milani and R. Pottinger*  
+*Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani and Rachel Pottinger*  
 To Appear in IEEE International Conference on Data Engineering, 2020 (ICDE '20)
 
 ## Blog

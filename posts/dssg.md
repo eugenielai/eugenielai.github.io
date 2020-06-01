@@ -81,9 +81,11 @@ Now let's walk you through a simplified process for a city planner to place a ne
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SA3zjy2MsxI/0.jpg)](https://youtu.be/SA3zjy2MsxI)
 
-## Impact & Takeaways
+## Impact
 
 In September 2019, the city used our visualizer to choose 20 sites for curbside chargers for a federal funding proposal. The tool is currently still being maintained by us with fundings from the city. 
+
+## Takeaways
 
 Through this experience, I have the following takeaways:
 * Reformulating an ill-defined problem: the intention of the visualization tool wasn't clear at the start. Sometimes the clients don't even know what they want and whether what they want would actually solve their problem. 

@@ -2,6 +2,8 @@ I am a senior undergraduate student in the Combined Major of Business and Comput
 
 My current research focuses on databases while applying concepts of visualization, machine learning, and HCI to help users interact with and make sense of data. Today, database systems provide a vital infrastructure to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise is required for a user to interact with such database applications. This need of the users with an incomplete skillset sparks my urge to make my work surround the theme of facilitating user interaction with databases, especially in knowledge exploration.
 
+My pronouns are she/her/hers.
+
 [UBC Data Management and Mining Lab]: https://www.cs.ubc.ca/labs/db/home.php
 [Dr. Rachel Pottinger]: https://www.cs.ubc.ca/~rap/
 [Dr. Mostafa Milani]: https://www.cs.ubc.ca/~mkmilani/

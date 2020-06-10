@@ -85,12 +85,6 @@ Now let's walk you through a simplified process for a city planner to place a ne
 
 In September 2019, the city used our visualizer to choose 20 sites for curbside chargers for a federal funding proposal. The tool is currently still being maintained by us with fundings from the city. 
 
-## Takeaways
-
-Through this experience, I have the following takeaways:
-* Reformulating an ill-defined problem: the intention of the visualization tool wasn't clear at the start. Sometimes the clients don't even know what they want and whether what they want would actually solve their problem. 
-* The power of combining experts' knowledge and data analytics motivates my research interest.
-* Resistance and tech adoption: how to measure if an IT project is successful? how to make a tool more adoptable? Provide support, instead of making decisions for the users without showing the reasoning.
 
 [surry]: /assets/posts/dssg/surry.png "surry.png"
 [goal_vs_now]: /assets/posts/dssg/goal_vs_now.png "goal_vs_now.png"

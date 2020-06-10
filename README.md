@@ -30,7 +30,7 @@ To Appear in IEEE International Conference on Data Engineering, 2020 (ICDE '20)
 
 ## Blog
 
-I write about [things I did](./blog.html) on my way to discover my research interests.
+I write about [things I did](./blog.html) on the way to discover my research interests.
 
 ## Miscellaneous
 

@@ -9,7 +9,7 @@ date: 2019-10-29
 # Data-Driven City Planning: We Made a Visualizer for Surrey's Electric Vehicle Strategy  
 Date: 2019-10-29
 
-Last summer, I teamed up with [Laura](https://github.com/lauragreenstreet) and developed this visualization tool as a part of the [UBC Data Science for Social Good (DSSG) program](https://dsi.ubc.ca/data-science-social-good), directed by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/). A collaboration between the [UBC Data Science Institute](https://dsi.ubc.ca/) and the [City of Surry](https://www.surrey.ca/), our project openned my eyes on the influential role of data in city planning and sustainability.
+Last summer, I teamed up with [Laura Greenstreet](https://github.com/lauragreenstreet) and developed this visualization tool as a part of the [UBC Data Science for Social Good (DSSG) program](https://dsi.ubc.ca/data-science-social-good), directed by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/). A collaboration between the [UBC Data Science Institute](https://dsi.ubc.ca/) and the [City of Surry](https://www.surrey.ca/), our project openned my eyes on the influential role of data in city planning and sustainability.
 
 *Update on 2020-05-30:* The city's [Energy and Sustainability Office](https://www.surrey.ca/community/3146.aspx) contacted us to extend our database and visualizer to incorporate some new datasets they just acquired. We're thrilled to see the city has been using our visualizer and are interested in maintaining it one year on!
 

@@ -8,7 +8,7 @@ My pronouns are she/her/hers.
 [Dr. Rachel Pottinger]: https://www.cs.ubc.ca/~rap/
 [Dr. Mostafa Milani]: https://www.cs.ubc.ca/~mkmilani/
 [Dr. Raymond Ng]: https://www.cs.ubc.ca/~rng/
-[UBC Data Science for Social Good (DSSG) program]: https://dsi.ubc.ca/data-science-social-good
+[UBC Data Science for Social Good (DSSG) program]: https://dsi.ubc.ca/data-science-social-good-2019
 
 ## Research Projects
 

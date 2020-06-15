@@ -42,7 +42,7 @@ There is also a big gap between the current state and the goal.
 
 Hence the EV transformation strategy is much needed. 
 
-As a part of the transformation strategy, EV infrastructure plays an essential role in promoting EV adoption. However, without adequate tech support, the existing process to determine where to install an EV charging site is solely based on experts' experience, despite a large volume of data owned by the city.
+As a part of the transformation strategy, EV infrastructure plays an essential role in promoting EV adoption. However, without adequate tech support, the **existing process** to determine where to install an EV charging site is solely based on experts' experience, despite a large volume of data owned by the city.
 
 The **purpose** of our project is to help Surry adopt EV faster by providing city planners with statistical evidence to guide the EV infrastructure development. Specifically, our **goal** was to help the city strategically implement EV charging stations in Surrey.
 

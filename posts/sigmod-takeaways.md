@@ -26,3 +26,4 @@ I loved every bit of the experience and got a bit sad that SIGMOD is over. This 
 
 I went into the conference thinking, “I’ll milk this till the bitter end.” I think I did the best I could. No regrets!
 
+[Back to blog](../blog.html)

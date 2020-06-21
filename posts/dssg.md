@@ -85,6 +85,7 @@ Now let's walk you through a simplified process for a city planner to place a ne
 
 In September 2019, the city used our visualizer to choose 20 sites for curbside chargers for a federal funding proposal. The tool is currently still being maintained by us with fundings from the city. 
 
+[Back to blog](../blog.html)
 
 [surry]: /assets/posts/dssg/surry.png "surry.png"
 [goal_vs_now]: /assets/posts/dssg/goal_vs_now.png "goal_vs_now.png"

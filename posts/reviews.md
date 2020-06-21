@@ -99,6 +99,8 @@ Although this study only shows the possible repercussions of this particular onl
 * it showed me the potential of leveraging consumer-generated data in policy formulation.
 * it made me have the urge to make data-driven policy formulation more accessible to benefit a wider range of governments and businesses.
 
+[Back to blog](../blog.html)
+
 [descriptive_reviews]: /assets/posts/reviews/descriptive_reviews.png "descriptive_reviews.png"
 [exploratory_analysis]: /assets/posts/reviews/exploratory_analysis.png "exploratory_analysis.png"
 [dv_brand]: /assets/posts/reviews/dv_brand.png "dv_brand.png"

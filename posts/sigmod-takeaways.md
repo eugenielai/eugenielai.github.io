@@ -15,7 +15,7 @@ I got a bit sad that SIGMOD is over. I loved every bit of the experience! There 
 
 #### I want to work with my research crushes no matter where they are.
 * **Background info:** I’m applying to grad school this year.
-* **Before SIGMOD:** When I considered where to apply to, “school ranking” was a big factor, second to research fit. I was sure that I’m interested in the user side of database systems but would also seriously stretch my research interests just to apply to a prestigious school.
+* **Before SIGMOD:** When I considered where to apply to, “school ranking” was a big factor, second to research fit. I was sure that I’m interested in the user side of database systems but would also seriously stretch my research interests just to apply to prestigious schools.
 * **After SIGMOD:** Research fit becomes the only thing that matters. I associate people with the cool stuff they do, everything else goes away. Specifically, seeing a variety of work presented in the [HILDA workshop](https://hilda.io/2020/) triggered me to think, “This is exactly what I want!” Now I can only see myself applying to places where our interests match. 
 
 #### I think of you as my cousin/uncle/auntie next door. 

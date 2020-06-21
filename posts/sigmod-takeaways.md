@@ -6,7 +6,7 @@ date: 2020-06-20
 
 ---
 
-I got a bit sad that SIGMOD is over. I loved every bit of the experience! There is a fraction of my learnings from the past week.
+I loved every bit of the experience and got a bit sad that SIGMOD is over. This post is developed to help me crystalize a fraction of my learnings from the past week. Overall, the conference is life-changing, and I felt grateful for the opportunity to participate.
 
 #### I know the field of databases better and have a more clear idea of my research interests.
 * **Before SIGMOD:** I felt that I was only doing research in my little room, focusing on a specific problem. I read papers on schema exploration, query recommendation, and provenance summarization. But to me, they were three independent islands scattered around a huge canvas that’s covered in mist.

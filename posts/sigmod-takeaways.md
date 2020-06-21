@@ -23,5 +23,5 @@ I got a bit sad that SIGMOD is over. I loved every bit of the experience! There 
 * **During SIGMOD:** Still an issue. But thanks to Gather, I found that it became easier for my personality to come through when I was oblivious to who I was talking to, or when I was so carried away by my curiosity and burning questions.
 * **After SIGMOD:** Still unsolved. But as an intermediate step, I want to (with respect) think of you as my cousin/uncle/auntie next door to help myself focus on the conversation and come up with questions. 
 
-I went into the conference thinking, “I’ll milk this till the bitter end.” I think I did the best I could! No regrets. 
+I went into the conference thinking, “I’ll milk this till the bitter end.” I think I did the best I could. No regrets!
 

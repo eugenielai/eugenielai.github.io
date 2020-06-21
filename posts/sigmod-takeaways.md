@@ -20,7 +20,7 @@ I loved every bit of the experience and got a bit sad that SIGMOD is over. This 
 * **After SIGMOD:** Research fit becomes the only thing that matters. I associate people with the cool stuff they do, everything else goes away. Specifically, seeing a variety of work presented in the [HILDA workshop](https://hilda.io/2020/) triggered me to think, “This is exactly what I want!” Now I can only see myself applying to places where our interests match. 
 
 #### I think of you as my cousin/uncle/auntie next door. 
-* **Before SIGMOD:** My nervousness hinders how I interact with people, especially when I try to impress them, or when they’re a lot more senior than me. My brain blacks out. 
+* **Before SIGMOD:** My nervousness hinders how I interact with people, especially when I try to impress them, or when they’re more senior than me. My brain blacks out. 
 * **During SIGMOD:** Still an issue. But thanks to Gather, I found that it became easier for my personality to come through when I was oblivious to who I was talking to, or when I was so carried away by my curiosity and burning questions.
 * **After SIGMOD:** Still unsolved. But as an intermediate step, I want to (with respect) think of you as my cousin/uncle/auntie next door to help myself focus on the conversation and come up with questions. 
 

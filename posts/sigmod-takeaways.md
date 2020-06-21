@@ -6,9 +6,6 @@ date: 2020-06-20
 
 ---
 
-# What I Learned at SIGMOD 2020
-Date: 2020-06-20
-
 I got a bit sad that SIGMOD is over now. I loved every bit of the experience! There is a fraction of my learnings from this experience.
 
 I know the field of databases better and have a more clear idea of my research interests.

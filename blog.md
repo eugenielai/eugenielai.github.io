@@ -7,7 +7,7 @@ author: Eugenie Lai
 
 # Blog Posts
 
-Exploring my interests is a never-ending process.
+### Exploring my interests is a never-ending process.
 
 ## [What I Learned at SIGMOD 2020](posts/sigmod-takeaways.html)  
 Date: 2020-06-20  

@@ -16,7 +16,7 @@ My pronouns are she/her/hers.
 
 ### QueryTeller
 
-QueryTeller is a query recommendation system that suggests customized queries to users by predicting user intent. Database-related expertise is required for users to interact with database applications. However, it takes years of experience for non-experts to learn how to formulate efficient queries and understand the schema of a particular database application. QueryTeller seeks to make databases more accessible for users with a database-related incomplete skillset. Our system leverages SQL query workloads, which are a collective knowledge exploration history of all past users, to learn query representations and recommend the next queries that users may be interested in. [work-in-progress]
+QueryTeller is a system that suggests customized queries to users by predicting user intent. Database-related expertise is required for users to interact with database applications. However, it takes years of experience for non-experts to learn how to formulate effective queries and understand the schema of a particular database application. QueryTeller seeks to make databases more accessible for users with a database-related incomplete skillset. Our system leverages SQL query workloads, as a collective knowledge exploration history of all past users, to learn query representations and recommend the next queries that users may be interested in. [work-in-progress]
 
 ### PastWatch
 

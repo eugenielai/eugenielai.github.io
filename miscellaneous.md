@@ -11,15 +11,19 @@ I like to use a different part of my brain to relax and let out my excessive tho
 
 ## Colouring
 
-Here are some of my selected colouring. I use an app called [Lake](https://www.lakecoloring.com/).
+Here is my selected colouring. I use an app called [Lake](https://www.lakecoloring.com/).
 
 ![alt text][girl-with-flowers]
 
-[girl-with-flowers]: /assets/miscellaneous/girl-with-flowers.JPG "girl-with-flowers.jpg"
+[girl-with-flowers]: /assets/miscellaneous/girl-with-flowers.jpeg "girl-with-flowers.jpg"
 
 ![alt text][a-love-story]
 
 [a-love-story]: /assets/miscellaneous/a-love-story.JPG "a-love-story.jpg"
+
+![alt text][bird-n-flowers]
+
+[bird-n-flowers]: /assets/miscellaneous/bird-n-flowers.jpeg "bird-n-flowers.jpg"
 
 ![alt text][town]
 

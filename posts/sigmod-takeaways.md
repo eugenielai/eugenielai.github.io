@@ -11,7 +11,7 @@ I got a bit sad that SIGMOD is over. I loved every bit of the experience! There 
 #### I know the field of databases better and have a more clear idea of my research interests.
 * **Before SIGMOD:** I felt that I was only doing research in my little room, focusing on a specific problem. I read papers on schema exploration, query recommendation, and provenance summarization. But to me, they were three independent islands scattered around a huge canvas that’s covered in mist.
 * **After SIGMOD:** The research tracks gave me a good understanding of the rough subtopics in databases and how my problem fits in a bigger picture.
-* **An analogy:** There’s a true reward function for my research interests. My objective is to find the maximum point. SIGMOD helped me balance the trade-off between exploration and exploitation by showing me examples of cool work in each research session. This gave me valuable data points to adjust my utility function accordingly, and I actually scoped out a space, which leads to my second learning.
+* **An analogy:** My objective is to find my "true" research interests. SIGMOD helped me balance the trade-off between exploration and exploitation by showing me examples of cool work in each research session. This gave me valuable data points to adjust my utility function accordingly, which allowed me to scope out a space. That leads to my second learning.
 
 #### I want to work with my research crushes no matter where they are.
 * **Background info:** I’m applying to grad school this year.

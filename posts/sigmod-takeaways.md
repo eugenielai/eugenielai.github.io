@@ -14,7 +14,7 @@ I loved every bit of the experience and got a bit sad that SIGMOD is over. This 
 * **An analogy:** My objective is to find my "true" research interests. SIGMOD helped me balance the trade-off between exploration and exploitation by showing me examples of cool work in each research session. This gave me valuable data points to adjust my utility function accordingly, which allowed me to scope out a space. That leads to my second learning.
 
 #### I want to work with my research crushes no matter where they are.  
-(Cue the song *Ain't No Mountain High Enough*)
+(Cue the song *Ain't No Mountain High Enough*.)
 * **Background info:** I’m applying to grad school this year.
 * **Before SIGMOD:** When I considered where to apply to, “school ranking” was a big factor, second to research fit. I was sure that I’m interested in the user side of database systems but would also seriously stretch my research interests just to apply to prestigious schools.
 * **After SIGMOD:** Research fit becomes the only thing that matters. I associate people with the cool stuff they do, everything else goes away. Specifically, seeing a variety of work presented in the [HILDA workshop](https://hilda.io/2020/) triggered me to think, “This is exactly what I want!” Now I can only see myself applying to places where our interests match. 

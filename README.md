@@ -4,6 +4,8 @@ My current research focuses on databases while applying concepts of visualizatio
 
 My pronouns are she/her/hers.
 
+**NEWS:** Check out [my post](posts/sigmod-takeaways.html) on how SIGMOD 2020 changed my view on my research interests and grad studies.
+
 [UBC Data Management and Mining Lab]: https://www.cs.ubc.ca/labs/db/home.php
 [Dr. Rachel Pottinger]: https://www.cs.ubc.ca/~rap/
 [Dr. Mostafa Milani]: https://www.cs.ubc.ca/~mkmilani/

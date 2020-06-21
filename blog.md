@@ -9,6 +9,10 @@ author: Eugenie Lai
 
 Exploring my interests is a never-ending process.
 
+## [What I Learned at SIGMOD 2020](posts/sigmod-takeaways.html)  
+Date: 2020-06-20  
+Here I talk about how my experience at SIGMOD 2020 shaped my view on my research interests, grad studies, and how I interact with people.
+
 ## [Learning Reflection: After My First Grad Course as an Undergrad](posts/learnings.html)  
 Date: 2020-04-29  
 This course is life-changing, but only a small portion of my learnings is included in this reflection. I will start with how this learning experience helps me make my career decisions. Then I will reflect on my personal growth over the term and finish off with things I need to work on.

@@ -51,7 +51,7 @@ Our work consists of a database, a visualization tool, and the application of st
 ## Our Visualizer
 
 Our visualizer aims to help the city planners explore:
-* The spatial distribution of Surrey's **vehicel stock**, **traffic flows**, and **population demographics**.
+* The spatial distribution of Surrey's **vehicel stock**, **traffic flows**, **land use**, and **population demographics**.
 * The categorical distribution.
 * The time trends.
 
@@ -63,7 +63,7 @@ For example, on the vehicle stock tab shown above:
     * The line graph on the top right shows the yearly changes of vehicle counts by class.
     * The bar chart on the bottom right shows the vehicle composition compared to the city average.
 
-However, a challenge we see is that maps could be prone to **subjectivity**. For example, choosing different colour scales for a heat map can minimize or exaggerate the differences in EV density across the areas. 
+However, a challenge we see is that maps could be prone to **subjectivity**. For example, choosing different colour scales for a heat map can minimize or exaggerate the differences in EV density across areas. 
 
 To mitigate subjectivity, the visualizer shows data on several metrics to give the user several perspectives. For example:
 * On the vehicle stock tab, users are able to see where EVs are located in each area by either *count* or *proportion*. 
@@ -83,7 +83,7 @@ Now let's walk you through a simplified process for a city planner to place a ne
 
 ## Impact
 
-In September 2019, the city used our visualizer to choose 20 sites for curbside chargers for a federal funding proposal. The tool is currently still being maintained by us with fundings from the city. 
+In September 2019, the city used our visualizer to choose 20 sites for curbside chargers for a federal funding proposal. The tool is currently still being maintained by us with funding from the city. 
 
 [Back to blog](../blog.html)
 

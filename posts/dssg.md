@@ -29,7 +29,7 @@ Motivated by these factors, the city of Surrey is currently developing an [elect
 
 However, there are a number of challenges:
 1. EV adoption faces **a chicken-and-egg problem**: People wouldn’t get EVs unless there are chargers, but the private sector wouldn’t build chargers unless there is a market. In addition, it’s unknown to what extent the city should fund EV development until the private sector takes over.
-2. Adopters are constrainted by the **high cost** of EVs.
+2. Adopters are constrained by the **high cost** of EVs.
 3. There is a **lack of public awareness**.
 
 ![alt text][goal_vs_now]{: height="60%" width="60%" style="display: block; margin: 0 auto"}

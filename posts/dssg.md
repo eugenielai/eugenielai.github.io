@@ -46,7 +46,7 @@ As a part of the transformation strategy, EV infrastructure plays an essential r
 
 The **purpose** of our project is to help Surry adopt EV faster by providing city planners with statistical evidence to guide the EV infrastructure development. Specifically, our **goal** is to help the city strategically implement EV charging stations in Surrey.
 
-Our work consists of a database, a visualization tool, and the application of statistical modelling and machine learning on the datasets. This post focuses on the visualization tool and its impact.
+Our work consists of a database, a visualization tool, and a statistical/ML modelling piece on the datasets. This post focuses on the visualization tool and its impact.
 
 ## Our Visualizer
 

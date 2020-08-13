@@ -44,3 +44,5 @@ I occasionally take one step further.
 ![alt text][stamps]{: height="50%" width="50%" style="display: block; margin: 0 auto"}
 
 [stamps]: /assets/miscellaneous/stamps.JPG "stamps.jpg"
+
+[Back to home](README.html)

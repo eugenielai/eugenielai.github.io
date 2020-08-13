@@ -10,7 +10,7 @@ author: Eugenie Lai
 ### Exploring my interests is a never-ending process.
 
 ## [Why I'm Taking Six Years to Finish Undergrad](posts/what-happened.html)  
-Date: 2020-06-20  
+Date: 2020-08-14  
 I get this question a lot. Here's a timeline of what happened in the past five years and my plan for the next eight months.
 
 ## [What I Learned at SIGMOD 2020](posts/sigmod-takeaways.html)  

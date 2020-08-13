@@ -7,7 +7,7 @@ author: Eugenie Lai
 
 # My Gallery
 
-I like to use a different part of my brain to relax and let out my excessive thoughts. 
+### I like to use a different part of my brain to relax and let out my excessive thoughts. 
 
 ## Colouring
 
@@ -17,29 +17,22 @@ Here is my selected colouring. I use an app called [Lake](https://www.lakecolori
 
 [girl-with-flowers]: /assets/miscellaneous/girl-with-flowers.jpeg "girl-with-flowers.jpg"
 
-![alt text][a-love-story]
-
-[a-love-story]: /assets/miscellaneous/a-love-story.JPG "a-love-story.jpg"
-
 ![alt text][bird-n-flowers]
 
 [bird-n-flowers]: /assets/miscellaneous/bird-n-flowers.jpeg "bird-n-flowers.jpg"
 
-![alt text][town]
+![alt text][a-love-story]
 
-[town]: /assets/miscellaneous/town.JPG "town.jpg"
+[a-love-story]: /assets/miscellaneous/a-love-story.JPG "a-love-story.jpg"
+
 
 ![alt text][by-the-ocean]
 
 [by-the-ocean]: /assets/miscellaneous/by-the-ocean.JPG "by-the-ocean.jpg"
 
-## Chinese Painting & Stamp Carving
+## Stamp Carving
 
 I occasionally take one step further.
-
-![alt text][lotus-n-moon]{: height="85%" width="85%" style="display: block; margin: 0 auto"}
-
-[lotus-n-moon]: /assets/miscellaneous/lotus-n-moon.JPG "lotus-n-moon.jpg"
 
 ![alt text][stamps]{: height="50%" width="50%" style="display: block; margin: 0 auto"}
 

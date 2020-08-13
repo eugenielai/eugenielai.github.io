@@ -15,3 +15,5 @@ Top reasons:
 ![alt text][what-happened]{: height="100%" width="100%" style="display: block; margin: 0 auto"}
 
 [what-happened]: /assets/posts/timeline/what-happened.png "what-happened.png"
+
+[Back to blog](../blog.html)

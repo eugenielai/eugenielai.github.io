@@ -51,7 +51,7 @@ Our work consists of a database, a visualization tool, and a statistical/ML mode
 ## Our Visualizer
 
 Our visualizer aims to help the city planners explore:
-* The spatial distribution of Surrey's **vehicel stock**, **traffic flows**, **land use**, and **population demographics**.
+* The spatial distribution of Surrey's **vehicle stock**, **traffic flows**, **land use**, and **population demographics**.
 * The categorical distribution.
 * The time trends.
 

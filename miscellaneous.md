@@ -38,4 +38,4 @@ I occasionally take one step further.
 
 [stamps]: /assets/miscellaneous/stamps.JPG "stamps.jpg"
 
-[Back to home](README.html)
+[Back to home](/)

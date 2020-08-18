@@ -33,4 +33,4 @@ This is a video I made for the 2019-2020 UBC Undergraduate Three-Minute Thesis c
 Date: 2019-10-29  
 Last summer, I developed this visualization tool as a part of UBC Data Science for Social Good (DSSG) program. This experience openned my eyes on the influential role of data in city planning and sustainability.
 
-[Back to home](README.html)
+[Back to home](/)

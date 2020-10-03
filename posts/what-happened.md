@@ -12,9 +12,9 @@ Have you also had the feeling when you are so caught up by your long list of dai
 
 So, before going into my 6th year at UBC, I sat down and reflected on what happended in the past five years in an effort to plan the next eight months and answer this question in case I get it again (very likely!).
 
-Top reasons:
-1. Coming from a low-income family, I became financially independent once I entered UBC. I took intern/full-time positions between study terms to save up and worked part-time during study terms.
-2. I did, in a total of, 21 extra credits of business, math, and CS courses on top of my 132-credit combined major, which would usually take five years already on its own.
+There are two reasons: I did coop for almost two years, and my Combined Major in Business and Computer Science usually takes five years to finish.
+1. In the past six years, I completed five four-month CS coop terms at three different institutes, ranging from academia to non-profit to the industry. I also worked part-time during study terms on positions varied from retail to administrative to teaching. These experiences collectively helped me shape my interests and learn that I am most motivated by the real-world impact my work makes.
+2. I did extra business, math, and CS courses on top of my combined major. Having the Combined Major of Business and CS means that I am graduating with the same CS degree requirement as UBC’s core CS majors with additional mandatory business courses. This program has made me more aware of the user perspective and helped to shape my research interests to ensure that my work is applicable to users outside of computer science.
 
 Here's a timeline of what happened in the past five years and my plan for the next eight months. 
 

@@ -6,11 +6,7 @@ date: 2020-08-14
 
 ---
 
-I get this question a lot, and I wondered why too.
-
-Have you also had the feeling when you are so caught up by your long list of daily tasks that the big picture of your journey becomes blurry? 
-
-So, before going into my 6th year at UBC, I sat down and reflected on what happended in the past five years in an effort to plan the next eight months and answer this question in case I get it again (very likely!).
+I get this question a lot.
 
 The short answer is I did coop for **two years**.
 1. In the past six years, I completed five four-month CS coop terms at three different places, ranging from academia to non-profit to the industry. While studying full-time, I had also taken on part-time positions varied from retail to administrative to teaching. These experiences collectively helped me shape my interests and learn that I am most motivated by the real-world impact my work makes.

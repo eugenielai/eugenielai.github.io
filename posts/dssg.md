@@ -9,7 +9,7 @@ date: 2019-10-29
 # Data-Driven City Planning: We Made a Visualizer for Surrey's Electric Vehicle Strategy  
 Date: 2019-10-29
 
-Last summer, I teamed up with [Laura Greenstreet](https://github.com/lauragreenstreet) and developed this visualization tool as a part of the [UBC Data Science for Social Good (DSSG) program](https://dsi.ubc.ca/data-science-social-good), directed by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/). A collaboration between the [UBC Data Science Institute](https://dsi.ubc.ca/) and the [City of Surry](https://www.surrey.ca/), our project openned my eyes on the influential role of data in city planning and sustainability.
+Last summer, I teamed up with [Laura Greenstreet](https://github.com/lauragreenstreet) and developed this visualization tool as a part of the [UBC Data Science for Social Good (DSSG) program](https://dsi.ubc.ca/data-science-social-good), directed by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/). A collaboration between the [UBC Data Science Institute](https://dsi.ubc.ca/) and the [City of Surrey](https://www.surrey.ca/), our project opened my eyes on the influential role of data in city planning and sustainability.
 
 *Update on 2020-05-30:* The city's [Energy and Sustainability Office](https://www.surrey.ca/community/3146.aspx) contacted us to extend our database and visualizer to incorporate some new datasets they just acquired. We're thrilled to see the city has been using our visualizer and is interested in maintaining it one year on!
 
@@ -17,7 +17,7 @@ Last summer, I teamed up with [Laura Greenstreet](https://github.com/lauragreens
 
 Surrey is the second-largest city in the Metro Vancouver area with around 550,000 residents. By 2050, Surrey is projected to be the biggest city in the Metro Van area with over 800,000 residents. Hence the decisions made by the city of Surrey today will have a big impact as the city grows in the next 30 years.
 
-![alt text][surry]{: height="80%" width="80%" style="display: block; margin: 0 auto"}
+![alt text][surrey]{: height="80%" width="80%" style="display: block; margin: 0 auto"}
 
 The city also aims to **grow sustainably**, with the goal to lower per capita emissions to half of the levels in 2007 by 2040. Transportation will play an important role in this change, as 50% of Surrey's greenhouse gas emissions come from transportation, compared to only 28% across Canada. Surrey only plans to decrease per-capita driving distance by 9%, resulting in **low-emission vehicles** playing an important role in reaching the city’s emission goals.
 
@@ -44,7 +44,7 @@ Hence the EV transformation strategy is much needed.
 
 As a part of the transformation strategy, EV infrastructure plays an essential role in promoting EV adoption. However, without adequate tech support, the **existing process** to determine where to install an EV charging site is solely based on experts' experience, despite a large volume of data owned by the city.
 
-The **purpose** of our project is to help Surry adopt EV faster by providing city planners with statistical evidence to guide the EV infrastructure development. Specifically, our **goal** is to help the city strategically implement EV charging stations in Surrey.
+The **purpose** of our project is to help Surrey adopt EV faster by providing city planners with statistical evidence to guide the EV infrastructure development. Specifically, our **goal** is to help the city strategically implement EV charging stations in Surrey.
 
 Our work consists of a database, a visualization tool, and a statistical/ML modelling piece on the datasets. This post focuses on the visualization tool and its impact.
 
@@ -87,7 +87,7 @@ In September 2019, the city used our visualizer to choose 20 sites for curbside 
 
 [Back to blog](../blog.html)
 
-[surry]: /assets/posts/dssg/surry.png "surry.png"
+[surrey]: /assets/posts/dssg/surrey.png "surrey.png"
 [goal_vs_now]: /assets/posts/dssg/goal_vs_now.png "goal_vs_now.png"
 [charging_sites]: /assets/posts/dssg/charging_sites.png "charging_sites.png"
 [chicken_n_egg]: /assets/posts/dssg/chicken_n_egg.png "chicken_n_egg.png"

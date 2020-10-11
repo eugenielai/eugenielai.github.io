@@ -13,17 +13,21 @@ author: Eugenie Lai
 
 Here is my selected colouring. I use an app called [Lake](https://www.lakecoloring.com/).
 
-![alt text][girl-with-flowers]
+![alt text][thrive]
 
-[girl-with-flowers]: /assets/miscellaneous/girl-with-flowers.jpeg "girl-with-flowers.jpg"
+[thrive]: /assets/miscellaneous/thrive.jpeg "thrive.jpg"
 
-![alt text][bird-n-flowers]
+![alt text][blooming-girl]
 
-[bird-n-flowers]: /assets/miscellaneous/bird-n-flowers.jpeg "bird-n-flowers.jpg"
+[blooming-girl]: /assets/miscellaneous/blooming-girl.jpeg "blooming-girl.jpg"
 
-![alt text][a-love-story]
+![alt text][bird]
 
-[a-love-story]: /assets/miscellaneous/a-love-story.JPG "a-love-story.jpg"
+[bird]: /assets/miscellaneous/bird.jpeg "bird.jpg"
+
+![alt text][love-story]
+
+[love-story]: /assets/miscellaneous/love-story.JPG "love-story.jpg"
 
 
 ![alt text][by-the-ocean]

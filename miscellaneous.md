@@ -13,10 +13,6 @@ author: Eugenie Lai
 
 Here is my selected colouring. I use an app called [Lake](https://www.lakecoloring.com/).
 
-![alt text][thrive]
-
-[thrive]: /assets/miscellaneous/thrive.jpeg "thrive.jpg"
-
 ![alt text][blooming-girl]
 
 [blooming-girl]: /assets/miscellaneous/blooming-girl.jpeg "blooming-girl.jpg"
@@ -25,10 +21,13 @@ Here is my selected colouring. I use an app called [Lake](https://www.lakecolori
 
 [bird]: /assets/miscellaneous/bird.jpeg "bird.jpg"
 
+![alt text][thrive]
+
+[thrive]: /assets/miscellaneous/thrive.jpeg "thrive.jpg"
+
 ![alt text][love-story]
 
 [love-story]: /assets/miscellaneous/love-story.JPG "love-story.jpg"
-
 
 ![alt text][by-the-ocean]
 

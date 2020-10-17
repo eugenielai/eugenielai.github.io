@@ -1,6 +1,6 @@
-I am a senior undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC) Sauder School of Business. I am currently a full-time research assistant at the [UBC Data Management and Mining Lab], supervised by [Dr. Rachel Pottinger] and postdoc researcher [Dr. Mostafa Milani]. Last summer, I was supervised by [Dr. Raymond Ng] in the [UBC Data Science for Social Good (DSSG) program].
+I am a senior undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC) Sauder School of Business. I am currently a full-time research assistant at the [UBC Data Management and Mining Lab], supervised by [Dr. Rachel Pottinger]. Last summer, I was supervised by [Dr. Raymond Ng] in the [UBC Data Science for Social Good (DSSG) program].
 
-My current research focuses on databases while applying concepts of visualization and machine learning to help users interact with and make sense of data. Today, database systems provide a vital infrastructure for users to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise are required for a user to interact with such database applications. This need of the users with an incomplete skillset sparks my urge to centre my work around the theme of facilitating user interaction with databases, especially in knowledge exploration.
+My current research focuses on databases while applying concepts of visualization and machine learning to help users interact with and make sense of data. Today, database systems provide a vital infrastructure for users to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise are required for a user to interact with such database applications. Seeing the user-database barriers sparks my urge to centre my work around the theme of facilitating user interaction with databases, especially in knowledge exploration.
 
 My pronouns are she/her/hers.
 
@@ -16,21 +16,21 @@ My pronouns are she/her/hers.
 
 ### QueryTeller
 
-QueryTeller is a system that suggests customized queries to users by predicting user intent. Database-related expertise is required for users to interact with database applications. However, it takes years of experience for non-experts to learn how to formulate effective queries and understand the schema of a particular database application. QueryTeller seeks to make databases more accessible for users with a database-related incomplete skillset. Our system leverages SQL query workloads, as a collective knowledge exploration history of all past users, to learn query representations and recommend the next queries that users may be interested in. [work-in-progress]
+QueryTeller recommends query information by learning from the sequential knowledge exploration patterns of historical users. Users interact with databases via sessions. From our analysis, users pose a variety of queries in sequence with changes in query keywords and components such as tables and attributes. In addition, the complexity of queries evolves as the session progresses, e.g., more restricted conditions, higher nested levels. However, the existing solutions only consider queries individually and make recommendations based on query similarity and/or popularity. We leverage the sequential feature of query sessions using deep learning techniques. We model our query recommendation problem as a query prediction task and use sequence-to-sequence models to predict content and structure information of the next query. We model each query as a sequence of word tokens and make query pairs from query sessions. In training, the input sequence is the first query of the pair, and the target sequence is the second query of the pair. We used two real-world workload datasets, Sloan Digital Sky Survey and SQLShare, to empirically evaluate our solution and showed its efficacy in assisting user knowledge exploration. [work-in-progress]
 
 ### PastWatch
 
-Pastwatch is a system that helps users understand query answers by summarizing, explaining, and visualizing query provenance. Data provenance is any information about the origin of data and the process that leads to its creation. The provenance of a query over a database is a collection of the data in the database that contributed to the query answer. While comprehensive, query provenance remains large and overwhelming. Hence the burden is on users to query and explore query results via different data manipulation languages. Our system helps users explore and interact with their database by providing novel insights into their query results using query provenance.
+Pastwatch helps users understand query answers by summarizing, explaining, and visualizing query provenance. Data provenance is any information about the origin of data and the process that leads to its creation. The provenance of a query over a database is a collection of the data in the database that contributed to the query answer. While comprehensive, query provenance remains large and overwhelming. Hence the burden is on users to query and explore query results via different data manipulation languages. Our system helps users explore and interact with their database by providing novel insights into their query results using query provenance.
 
 ## Publications
 
 Summarizing Provenance of Aggregation Query Results in Relational Databases [short paper] \[[link](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]  
 *Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*  
-To Appear in IEEE International Conference on Data Engineering, 2021 (ICDE '21)
+To Appear in IEEE International Conference on Data Engineering, 2021 (ICDE '21).
 
 Pastwatch: On the Usability of Provenance Data in Relational Databases [short paper] \[[link](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]  
 *Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*  
-To Appear in IEEE International Conference on Data Engineering, 2020 (ICDE '20)
+IEEE International Conference on Data Engineering, 2020  (ICDE '20): 1882-1885.
 
 ## Blog
 

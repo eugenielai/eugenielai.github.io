@@ -14,9 +14,9 @@ My pronouns are she/her/hers.
 
 ## Research Projects
 
-### QueryTeller
+### Sequence-Aware Query Recommendation Using Deep Learning
 
-QueryTeller recommends query information by learning from the sequential knowledge exploration patterns of historical users. Users interact with databases via sessions. From our analysis, users pose a variety of queries in sequence with changes in query keywords and components such as tables and attributes. In addition, the complexity of queries evolves as the session progresses, e.g., more restricted conditions, higher nested levels. However, the existing solutions only consider queries individually and make recommendations based on query similarity and/or popularity. We leverage the sequential feature of query sessions using deep learning techniques. We model our query recommendation problem as a query prediction task and use sequence-to-sequence models to predict content and structure information of the next query. We model each query as a sequence of word tokens and make query pairs from query sessions. In training, the input sequence is the first query of the pair, and the target sequence is the second query of the pair. We used two real-world workload datasets, Sloan Digital Sky Survey and SQLShare, to empirically evaluate our solution and showed its efficacy in assisting user knowledge exploration. [work-in-progress]
+Users interact with databases management systems by writing sequences of queries. Those sequences encode important information. Current SQL query recommendation approaches do not take that sequence into consideration. Our work presents a novel sequence-aware approach to query recommendation. We use deep learning prediction models trained on query sequences extracted from large-scale query workloads to build our approach. We present users with contextual (query fragments) and structural (query templates) information that can aid them in formulating their next query. We thoroughly analyze query sequences in two real-world query workloads, the Sloan Digital Sky Survey (SDSS) and the SQLShare workload. Empirical results show that the sequence-aware, deep-learning approach outperforms methods that do not use sequence information. [Submitted to VLDB '21]
 
 ### PastWatch
 

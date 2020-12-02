@@ -16,7 +16,7 @@ My pronouns are she/her/hers.
 
 ### Sequence-Aware Query Recommendation Using Deep Learning
 
-Users interact with databases management systems by writing sequences of queries. Those sequences encode important information. Current SQL query recommendation approaches do not take that sequence into consideration. Our work presents a novel sequence-aware approach to query recommendation. We use deep learning prediction models trained on query sequences extracted from large-scale query workloads to build our approach. We present users with contextual (query fragments) and structural (query templates) information that can aid them in formulating their next query. We thoroughly analyze query sequences in two real-world query workloads, the Sloan Digital Sky Survey (SDSS) and the SQLShare workload. Empirical results show that the sequence-aware, deep-learning approach outperforms methods that do not use sequence information. [Submitted to VLDB '21]
+Users interact with databases management systems by writing sequences of queries. Those sequences encode important information. Current SQL query recommendation approaches do not take that sequence into consideration. Our work presents a novel sequence-aware approach to query recommendation. We use deep learning prediction models trained on query sequences extracted from large-scale query workloads to build our approach. We present users with contextual (query fragments) and structural (query templates) information that can aid them in formulating their next query. We thoroughly analyze query sequences in two real-world query workloads, the Sloan Digital Sky Survey (SDSS) and the SQLShare workload. Empirical results show that the sequence-aware, deep-learning approach outperforms methods that do not use sequence information. [Submitted to VLDB '21] \[[Manuscript](/assets/manus/seq-aware_query_recommendation.pdf)\]
 
 ### PastWatch
 
@@ -24,11 +24,11 @@ Pastwatch helps users understand query answers by summarizing, explaining, and v
 
 ## Publications
 
-Summarizing Provenance of Aggregation Query Results in Relational Databases [short paper] \[[link](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]  
+Summarizing Provenance of Aggregation Query Results in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]  
 *Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*  
 To Appear in IEEE International Conference on Data Engineering, 2021 (ICDE '21).
 
-Pastwatch: On the Usability of Provenance Data in Relational Databases [short paper] \[[link](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]  
+Pastwatch: On the Usability of Provenance Data in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]  
 *Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*  
 IEEE International Conference on Data Engineering, 2020  (ICDE '20): 1882-1885.
 

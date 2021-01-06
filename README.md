@@ -2,8 +2,6 @@ I'm a senior undergraduate student in the Combined Major of Business and Compute
 
 My current research focuses on databases while applying concepts of visualization and machine learning to help users interact with and make sense of data. Today, database systems provide a vital infrastructure for users to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise are required for a user to interact with such database applications. Seeing the user-database barriers sparks my urge to centre my work around the theme of facilitating user interaction with databases, especially in knowledge exploration.
 
-My pronouns are she/her/hers.
-
 **NEWS:** I'm doing a poster presentation on my recent project at the [National Collegiate Research Conference (NCRC)] held by the [Harvard College Undergraduate Research Association (HCURA)] in Jan. 2021.
 
 [UBC Data Management and Mining Lab]: https://www.cs.ubc.ca/labs/db/home.php
@@ -28,11 +26,11 @@ Pastwatch helps users understand query answers by summarizing, explaining, and v
 
 Summarizing Provenance of Aggregation Query Results in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]  
 *Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*  
-To Appear in IEEE International Conference on Data Engineering, 2021 (ICDE '21).
+To Appear in IEEE ICDE '21.
 
 Pastwatch: On the Usability of Provenance Data in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]  
 *Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*  
-IEEE International Conference on Data Engineering, 2020 (ICDE '20): 1882-1885.
+IEEE ICDE '20: 1882-1885.
 
 ## Blog
 

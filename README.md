@@ -24,13 +24,11 @@ Pastwatch helps users understand query answers by summarizing, explaining, and v
 
 ## Publications
 
-Summarizing Provenance of Aggregation Query Results in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]  
-*Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*  
-To Appear in IEEE ICDE '21.
+Summarizing Provenance of Aggregation Query Results in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/report.pdf)\]. To Appear in IEEE ICDE '21.  
+*Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*
 
-Pastwatch: On the Usability of Provenance Data in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]  
-*Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*  
-IEEE ICDE '20: 1882-1885.
+Pastwatch: On the Usability of Provenance Data in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]. IEEE ICDE '20: 1882-1885.  
+*Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*
 
 ## Blog
 

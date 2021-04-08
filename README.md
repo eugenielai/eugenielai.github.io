@@ -1,4 +1,4 @@
-I'm a senior undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC) Sauder School of Business. I'm a research assistant at the [UBC Data Management and Mining Lab], supervised by [Dr. Rachel Pottinger] since Spring 2019. In Summer 2019, I was supervised by [Dr. Raymond Ng] in the [UBC Data Science for Social Good (DSSG) program].
+I'm a senior undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC). I have been working with [Dr. Rachel Pottinger] since Spring 2019 and was previously advised by [Dr. Raymond Ng].
 
 My current research focuses on databases while applying concepts of visualization and machine learning to help users interact with and make sense of data. Today, database systems provide a vital infrastructure for users to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise are required for a user to interact with such database applications. Seeing the user-database barriers sparks my urge to centre my work around the theme of facilitating user interaction with databases, especially in knowledge exploration.
 
@@ -6,9 +6,7 @@ My current research focuses on databases while applying concepts of visualizatio
 
 [UBC Data Management and Mining Lab]: https://www.cs.ubc.ca/labs/db/home.php
 [Dr. Rachel Pottinger]: https://www.cs.ubc.ca/~rap/
-[Dr. Mostafa Milani]: https://www.cs.ubc.ca/~mkmilani/
 [Dr. Raymond Ng]: https://www.cs.ubc.ca/~rng/
-[UBC Data Science for Social Good (DSSG) program]: https://dsi.ubc.ca/data-science-social-good-2019
 [Data Systems Group (DSG)]: http://dsg.csail.mit.edu/
 
 ## Research Projects

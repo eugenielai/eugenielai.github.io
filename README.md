@@ -2,21 +2,20 @@ I'm a senior undergraduate student in the Combined Major of Business and Compute
 
 My current research focuses on databases while applying concepts of visualization and machine learning to help users interact with and make sense of data. Today, database systems provide a vital infrastructure for users to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise are required for a user to interact with such database applications. Seeing the user-database barriers sparks my urge to centre my work around the theme of facilitating user interaction with databases, especially in knowledge exploration.
 
-**NEWS:** I did a [poster](/assets/posters/NCRC_poster.pdf) presentation at the [National Collegiate Research Conference (NCRC)] held by the [Harvard College Undergraduate Research Association (HCURA)] in Jan. 2021.
+**NEWS:** I will join the [Data Systems Group] at MIT EECS CSAIL as a PhD student in Fall '21.
 
 [UBC Data Management and Mining Lab]: https://www.cs.ubc.ca/labs/db/home.php
 [Dr. Rachel Pottinger]: https://www.cs.ubc.ca/~rap/
 [Dr. Mostafa Milani]: https://www.cs.ubc.ca/~mkmilani/
 [Dr. Raymond Ng]: https://www.cs.ubc.ca/~rng/
 [UBC Data Science for Social Good (DSSG) program]: https://dsi.ubc.ca/data-science-social-good-2019
-[National Collegiate Research Conference (NCRC)]: https://www.hcura.org/ncrc-2021
-[Harvard College Undergraduate Research Association (HCURA)]: https://www.hcura.org/about
+[Data Systems Group]: http://dsg.csail.mit.edu/
 
 ## Research Projects
 
 ### Sequence-Aware Query Recommendation Using Deep Learning
 
-Users interact with database management systems by writing sequences of queries. Those sequences encode important information. Current SQL query recommendation approaches do not take that sequence into consideration. Our work presents a novel sequence-aware approach to query recommendation. We use deep learning prediction models trained on query sequences extracted from large-scale query workloads to build our approach. We present users with contextual (query fragments) and structural (query templates) information that can aid them in formulating their next query. We thoroughly analyze query sequences in two real-world query workloads, the Sloan Digital Sky Survey (SDSS) and the SQLShare workload. Empirical results show that the sequence-aware, deep-learning approach outperforms methods that do not use sequence information. [Submitted to VLDB '21] \[[Manuscript](/assets/manus/seq-aware_query_recommendation.pdf)\]
+Users interact with database management systems by writing sequences of queries. Those sequences encode important information. Current SQL query recommendation approaches do not take that sequence into consideration. Our work presents a novel sequence-aware approach to query recommendation. We use deep learning prediction models trained on query sequences extracted from large-scale query workloads to build our approach. We present users with contextual (query fragments) and structural (query templates) information that can aid them in formulating their next query. We thoroughly analyze query sequences in two real-world query workloads, the Sloan Digital Sky Survey (SDSS) and the SQLShare workload. Empirical results show that the sequence-aware, deep-learning approach outperforms methods that do not use sequence information. [Submitted to VLDB '21] \[[Manuscript](/assets/manus/seq-aware_query_recommendation.pdf)\] \[[Poster](/assets/posters/NCRC_poster.pdf)\]
 
 ### PastWatch
 

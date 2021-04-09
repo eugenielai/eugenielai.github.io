@@ -1,12 +1,10 @@
 ---
 title: News Updates
-layout: post
+layout: default
 author: Eugenie Lai
 date: 2021-03-03
 
 ---
-
-What I'm up to... 
 
 ## 2021
 
@@ -18,4 +16,4 @@ What I'm up to...
 
 **2020.12** Submitted my first 1st-authored paper to VLDB '21.
 
-[Back to blog](../blog.html)
+[Back to home](/)

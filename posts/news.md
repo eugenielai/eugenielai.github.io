@@ -1,6 +1,8 @@
 ---
 title: News Updates
 layout: post
+author: Eugenie Lai
+date: 2021-03-03
 
 ---
 

@@ -11,7 +11,7 @@ author: Eugenie Lai
 
 ## Colouring
 
-Here is my selected colouring. I use an app called [Lake](https://www.lakecoloring.com/).
+I use [Lake](https://www.lakecoloring.com/).
 
 ![alt text][blooming-girl]
 

@@ -14,6 +14,10 @@ date: 2021-03-03
 
 ## 2020
 
-**2020.12** Submitted my first 1st-authored paper to VLDB '21.
+**2020.12** Submitted my first 1st-authored paper, [Sequence-Aware Query Recommendation Using Deep Learning](/assets/manus/seq-aware_query_recommendation.pdf), to VLDB '21.
+
+## 2019
+
+**2019.07** First co-authored paper, [Pastwatch: On the Usability of Provenance Data in Relational Databases](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf), was accepted to ICDE '20. 
 
 [Back to home](/)

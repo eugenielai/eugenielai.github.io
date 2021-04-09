@@ -1,12 +1,8 @@
-I'm a senior undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC). I have been working with [Dr. Rachel Pottinger] since Spring 2019 and was previously advised by [Dr. Raymond Ng].
+I'm a senior undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC). I have been working with [Dr. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) since Spring 2019 and was previously advised by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/).
 
-My current research focuses on databases while applying concepts of visualization and machine learning to help users interact with and make sense of data. Today, database systems provide a vital infrastructure for users to access high volumes of data in a variety of applications. However, both field-specific and database-related expertise are required for a user to interact with such database applications. Seeing the user-database barriers sparks my urge to centre my work around the theme of facilitating user interaction with databases, especially in knowledge exploration.
+My current research focuses on data systems while applying visualization and machine learning to help users interact with and make sense of data. Today, with the increasing amount of data collected, there is an increasing need for us to leverage the value of these data. One of which is to use data to make better, smarter decisions. To do so, we currently have this data-to-insight pipeline, with many steps involved, as well as gaps and barriers.
 
-
-[UBC Data Management and Mining Lab]: https://www.cs.ubc.ca/labs/db/home.php
-[Dr. Rachel Pottinger]: https://www.cs.ubc.ca/~rap/
-[Dr. Raymond Ng]: https://www.cs.ubc.ca/~rng/
-[Data Systems Group (DSG)]: http://dsg.csail.mit.edu/
+For example, databases provide a vital infrastructure for users to access high volumes of data in a variety of applications. However, both field-specific and databases-related expertise are required for a user to interact with the applications. Such barriers motivate me to focus my work on facilitating user interaction with data systems, especially in knowledge exploration.
 
 ## Research Projects
 

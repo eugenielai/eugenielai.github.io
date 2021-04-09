@@ -13,6 +13,14 @@ author: Eugenie Lai
 Date: 2020-06-20  
 Here I talk about how my experience at SIGMOD 2020 shaped my view on my research interests, grad studies, and how I interact with people.
 
+## [Learning Reflection: After My First Grad Course as an Undergrad](posts/learnings.html)  
+Date: 2020-04-29  
+This course is life-changing, but only a small portion of my learnings is included in this reflection. I will start with how this learning experience helps me make my career decisions. Then I will reflect on my personal growth over the term and finish off with things I need to work on.
+
+## [My Take on Causal Inference: Assessing Online Platform’s Policy Impact on Incentivized Reviews](posts/reviews.html)  
+Date: 2020-04-12  
+Out of pure curiosity, I did a PhD-level business course this term on causal inference. This work is my first exposure to research in social science and a preliminary application of causal inference techniques in online policy. 
+
 ## [Data-Driven City Planning: We Made a Visualizer for Surrey's Electric Vehicle Strategy](posts/dssg.html)  
 Date: 2019-10-29  
 Last summer, I developed this visualization tool as a part of UBC Data Science for Social Good (DSSG) program. This experience openned my eyes on the influential role of data in city planning and sustainability.

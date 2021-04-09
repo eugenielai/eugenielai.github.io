@@ -22,6 +22,9 @@ Summarizing Provenance of Aggregation Query Results in Relational Databases \[[S
 Pastwatch: On the Usability of Provenance Data in Relational Databases \[[Short Paper](https://www.cs.ubc.ca/~mkmilani/pastwatch.pdf)\]. IEEE ICDE '20: 1882-1885.  
 *Omar AlOmeir, <strong>Eugenie Y. Lai</strong>, Mostafa Milani, and Rachel Pottinger*.
 
-## [Blog](./blog.html)
+## Other
 
-## [Miscellaneous](./miscellaneous.html)
+<span style="font-size:18px;">[Blog](./blog.html)</span> for fun.
+
+<span style="font-size:18px;">[Miscellaneous](./miscellaneous.html)</span> to relax.
+

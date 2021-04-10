@@ -2,7 +2,7 @@ I'm a senior undergraduate student in the Combined Major of Business and Compute
 
 My current research focuses on data systems while applying visualization and machine learning to help users interact with and make sense of data. Today, databases provide a vital infrastructure for users to access high volumes of data, but both field-specific and database-related expertise are required for a user to interact with database applications. Such use cases motivate me to focus my work on facilitating user interaction with data systems.
 
-## Research Projects
+## Projects
 
 ### Sequence-Aware Query Recommendation Using Deep Learning
 

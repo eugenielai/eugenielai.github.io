@@ -24,5 +24,5 @@ Pastwatch: On the Usability of Provenance Data in Relational Databases \[[Short 
 
 <span style="font-size:18px;">[Blog](./blog.html)</span> for fun.
 
-<span style="font-size:18px;">[Miscellaneous](./miscellaneous.html)</span> to relax.
+<span style="font-size:18px;">[Miscellaneous](./miscellaneous.html)</span> to de-stress.
 

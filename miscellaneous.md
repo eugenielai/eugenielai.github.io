@@ -7,7 +7,7 @@ author: Eugenie Lai
 
 # My Gallery
 
-### Things help me destress. 
+### Things help me de-stress. 
 
 ## Colouring
 

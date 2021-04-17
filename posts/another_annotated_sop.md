@@ -69,6 +69,8 @@ Elaborate on my current research interest with the techniques (in the method spa
 
 ### Finding My Research Interests
 
+This section shows two things, my technical competency and why’s. I described 3 research projects and used the reflection on the experience to answer the why’s. 
+
 +1 to the [example](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) provided by the MIT EECS Communication Lab, the formula I used to describe a research project, one line each: **summary + clarification of terms if necessary + need of the work (e.g., gaps) + our contributions + outcomes + my specific input**. We will see this formula twice later. 
 > With a focus on data provenance summarization, my research journey began under Dr. Rachel Pottinger at the UBC Data Management and Mining Lab. The provenance of a query over a database is a subset of the data in the database that contributed to the query answer. While comprehensive, query provenance consists of large volumes of data and hence is overwhelming for users to explore. We presented an approach to provenance exploration that builds on data summarization techniques and provides an interface to visualize the summary. This work led to the first two papers I co-authored, Summarizing Provenance of Aggregation Query Results in Relational Databases (ICDE’21) and Pastwatch: On the Usability of Provenance Data in Relational Databases (ICDE’20). My main contributions include identifying the limitations in the existing methods, implementing the existing and our summarization methods, and running the experiments. 
 

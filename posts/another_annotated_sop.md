@@ -73,7 +73,7 @@ Elaborate on my current research interest with the techniques (in the method spa
 We love the dark times. Vulnerability and hardships help people connect, noted by Dr. [Brené Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en#t-1196292). Being rejected is my true experience, and I intentionally included that to better connect to my reader. In my case, it also shows resilience and segues into my first why, why research but not industry. 
 > Our work experienced a few submissions. Although I felt discouraged at first, I learned to reflect and was encouraged by how much our work had improved after each round. I also enjoyed my experience in research more than the industry for the autonomy and ownership over my work. 
 
-When writing this part, I was thinking about the 
+But I didn’t want to tell my why’s like a list. I envisioned a story structure inspired by [The Secret Structure of Great Talks](https://www.youtube.com/watch?v=1nYFpuc2Umk) by Nancy Duarte. She introduced a shape at around 6:00. Applying that concept, I established what is, what could be, and the gap. Like the shape, we will see me going back and forth between what is and what could be in the rest of this subsection. 
 > However, I had some burning questions regarding my research interests going forward. Although I was engaged by the technical aspects of solving open-ended problems, I wanted to find something that would really excite me – what is the thing that would get me out of bed every morning? And how could I find it? 
 
 Transition to my next project to show my technical competency while keeping the flow of the story about my why’s. 

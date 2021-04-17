@@ -10,7 +10,9 @@ This post is inspired by the Statement of Objective examples provided by the [MI
 
 I would also like to shamelessly include a copy of [my first draft](https://eugenielai.github.io/docs/application/SoP_draft_eylai.pdf) for a before-after comparison and show how far I have (and maybe anyone could) come by applying the learnings discussed in this post. It would be difficult to measure the impact of something without showing the starting point, which is often missing in the existing resources for SoP. 
 
-Also, if you are an anxious applicant, let’s not compare ourselves. I know it’s easier said than done, and I still fall into that trap too. But it is **unfair** to compare the ins and outs of ourselves to **only** the best side of others (e.g., their SoP). This note was first brought up to me by Dr. [Maria De-Arteaga](https://mariadearteaga.com/) back in 2019 when I just started to pivot my profile towards grad school and has been helping me get off the overthinking treadmill since. 
+Also, if you are an anxious applicant, let’s not compare ourselves. I know it’s easier said than done, and I still fall into that trap too. But it is **unfair** to compare the ins and outs of ourselves to **only** the best side of others (e.g., their SoP). This note was first brought up to me by Dr. Maria De-Arteaga\* back in 2019 when I just started to pivot my profile towards grad school and has been helping me get off the overthinking treadmill since. 
+
+\*Note: I heard Prof. and Dr. are distinct in the states, but we use Dr. for both in Canada. I didn’t know until the visit days and only used Dr. in my SoP. 
 
 ## Before We Start
 
@@ -53,7 +55,7 @@ Things I constantly reminded myself of when thinking about my SoP at a high leve
 
 ## Detailed Comments by Subsection
 
-There is a lot to unpack. In this section, we will walk through my thought process at a detailed level, which can also be seen as a concrete embodiment of the high-level takeaways discussed above.  
+There is a lot to unpack. We will walk through my thought process at a detailed level, which can also be seen as a concrete embodiment of the high-level takeaways discussed above.  
 
 > Statement of Objectives
 
@@ -70,16 +72,16 @@ Elaborate on my current research interest with the techniques (in the method spa
 +1 to the [example](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) provided by the MIT EECS Communication Lab, the formula I used to describe a research project, one line each: **summary + clarification of terms if necessary + need of the work (e.g., gaps) + our contributions + outcomes + my specific input**. We will see this formula twice later. 
 > With a focus on data provenance summarization, my research journey began under Dr. Rachel Pottinger at the UBC Data Management and Mining Lab. The provenance of a query over a database is a subset of the data in the database that contributed to the query answer. While comprehensive, query provenance consists of large volumes of data and hence is overwhelming for users to explore. We presented an approach to provenance exploration that builds on data summarization techniques and provides an interface to visualize the summary. This work led to the first two papers I co-authored, Summarizing Provenance of Aggregation Query Results in Relational Databases (ICDE’21) and Pastwatch: On the Usability of Provenance Data in Relational Databases (ICDE’20). My main contributions include identifying the limitations in the existing methods, implementing the existing and our summarization methods, and running the experiments. 
 
-We love the dark times. Dr. [Brené Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en#t-1196292) said vulnerability and hardships help people connect. Being rejected is my true experience, and I intentionally included that to better connect to my reader. In my case, it also shows resilience and segues into my first why, why research but not industry. 
+We love the dark times. Dr. [Brené Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en#t-1196292) said vulnerability and hardships help people connect and build trust. Being rejected is my true experience, and I intentionally included that to better connect to my reader. In my case, it also shows resilience and segues into my first why, why research but not industry. As you may have also noticed, this concept is applied everywhere in this post too. 
 > Our work experienced a few submissions. Although I felt discouraged at first, I learned to reflect and was encouraged by how much our work had improved after each round. I also enjoyed my experience in research more than the industry for the autonomy and ownership over my work. 
 
-But I didn’t want to tell my why’s like a list. I envisioned a story structure inspired by [The Secret Structure of Great Talks](https://www.youtube.com/watch?v=1nYFpuc2Umk) by Nancy Duarte. She introduced a shape at around 6:00. Applying that concept, I established what is, what could be, and the gap. Like the shape, we will see me traversing between what is and what could be in the rest of this subsection. 
+But I didn’t want to tell my why’s like a list. I envisioned a story structure inspired by [The Secret Structure of Great Talks](https://www.youtube.com/watch?v=1nYFpuc2Umk) by Nancy Duarte. She introduced a shape at around 6:00. Applying that concept, I established what is, what could be, and the gap. Like the shape, we will see me traversing between what is and what could be in the rest of this section. 
 > However, I had some burning questions regarding my research interests going forward. Although I was engaged by the technical aspects of solving open-ended problems, I wanted to find something that would really excite me – what is the thing that would get me out of bed every morning? And how could I find it? 
 
-Transition to my next project to show my technical competency while keeping the flow of the story about my why’s. 
+Transition to my next project to show more technical competency while keeping the flow of the story. 
 > My next project, Developing a Data-Driven Electric Vehicle (EV) Strategy in Surrey, BC, Canada, helped me answer those questions. 
 
-Another example of the formula but in a slightly different order to make things flow better. 
+Another example of the formula above but in a slightly different order to make things flow better. 
 > Working with another undergraduate student under the supervision of Dr. Raymond Ng, we set out to address the challenge of how the city of Surrey should place EV charging stations. Prior to our work, the approach to determine where to install an EV charging site was solely based on expert opinions, despite a large volume of data collected by the city of Surrey. To help city planners make strategic decisions informed by evidence, I developed a web application to give them a user-friendly way to explore and make sense of the data. I used interactive maps and graphs to visualize the spatial distribution and time trends of Surrey’s vehicle stock, traffic flows, and land use. In September 2019, the city used my tool to choose 20 charger locations for a Canadian federal funding proposal, and I was proud to co-present this work at the SIGKDD’20 Social Impact Session this summer. 
 
 ## Other Takeaways
@@ -106,7 +108,7 @@ Through the process, I had countless <s>breakdowns</s> moments where I felt that
 
 But it’s because SoP is hard to write!! It not only demands writing techniques but also deep reflections of the why’s from our experiences. Although this learning experience challenged me hard on both fronts, I’m glad that I took the time and saw it as an opportunity to grow: It reminded me that improving my writing is a never-ending process, and the reflections indeed made me question my life but also assured my decision to pursue graduate studies.
 
-However, I do want to acknowledge that not everyone has the privilege to afford the time and energy. Further, if we consider our individual profile (e.g., GPA, LoRs) as a whole, pouring our limited resources into SoP alone may not be a strategic move. Nothing is perfect nor needs to be. So knowing when to say good enough is an important skill too (which is something I need to work on too). 
+However, I do want to acknowledge that not everyone has the privilege to afford the time and energy. Further, if we consider our individual profile (e.g., GPA, LoRs) as a whole, pouring our limited resources into SoP alone may not be a strategic move. Nothing is perfect nor needs to be. So knowing when to say good enough is an important skill too (which is something I still need to work on). 
 
 Lastly, taking one step further, I find some of the takeaways (e.g., help my reader focus, just start writing) transferable to other written pieces (e.g., papers) or professional development (e.g., be resourceful) in general. 
 

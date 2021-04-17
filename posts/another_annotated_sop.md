@@ -21,9 +21,9 @@ The role of SoP in grad applications: Touched on by [this Twitter thread](https:
 My result: I applied to 8 programs and was fortunate to get in almost everywhere, with 5 offers (i.e., Berkeley, MIT, UBC, UMich, and UW) and 3 withdrawals (i.e., Columbia, NYU, and Maryland). 
 
 A non-exhaustive list of caveats that may make the takeaways in this post not as applicable so readers’ discretion is advised:
-* I applied during a pandemic and am not sure how that affected my experience. 
+* I applied during a pandemic, not sure how that affected my experience. 
 * I only applied to programs in the US and Canada so the experience is subjective to the system here. 
-* I’m in data systems so please always question if the content is field-specific. 
+* I’m in data systems so please question if the content is field-specific. 
 
 Motivation to (uncomfortably) put myself out there: 
 * Writing crystallizes my learning and is a skill I’m working on. The pressure helps me practice. 
@@ -67,7 +67,7 @@ Elaborate on my current research interest with the techniques (in the method spa
 
 ### Finding My Research Interests
 
-+1 to the [example](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) provided by the MIT EECS Communication Lab, the formula I used to describe a research project, one line each: summary + clarification of terms if necessary + need of the work (e.g., gaps) + our contributions + outcomes + my specific input. We will see this formula twice later. 
++1 to the [example](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) provided by the MIT EECS Communication Lab, the formula I used to describe a research project, one line each: **summary + clarification of terms if necessary + need of the work (e.g., gaps) + our contributions + outcomes + my specific input**. We will see this formula twice later. 
 > With a focus on data provenance summarization, my research journey began under Dr. Rachel Pottinger at the UBC Data Management and Mining Lab. The provenance of a query over a database is a subset of the data in the database that contributed to the query answer. While comprehensive, query provenance consists of large volumes of data and hence is overwhelming for users to explore. We presented an approach to provenance exploration that builds on data summarization techniques and provides an interface to visualize the summary. This work led to the first two papers I co-authored, Summarizing Provenance of Aggregation Query Results in Relational Databases (ICDE’21) and Pastwatch: On the Usability of Provenance Data in Relational Databases (ICDE’20). My main contributions include identifying the limitations in the existing methods, implementing the existing and our summarization methods, and running the experiments. 
 
 We love the dark times. Vulnerability and hardships help people connect, noted by Dr. [Brené Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en#t-1196292). Being rejected is my true experience, and I intentionally included that to better connect to my reader. In my case, it also shows resilience and segues into my first why, why research but not industry. 
@@ -94,7 +94,7 @@ Other things I learned and applied.
 
 \*Note: More on [my experience at SIGMOD ‘20](https://eugenielai.github.io/posts/sigmod-takeaways.html). 
 
-**Read each program’s prompts and formatting requirements carefully.** The point above is about the content, while this one is about the format. The requirements all have slight differences (e.g., word limits, header, title) so just be aware. 
+**Read each program’s prompts and formatting requirements carefully.** The point above is about the content, while this one is about the format and separation of the content. Programs like Berkeley EECS require an SoP and a PS so the separation depends on the prompts. I include my final copy of [SoP](https://eugenielai.github.io/docs/application/SoP_UCB_eylai.pdf) and [PS](https://eugenielai.github.io/docs/application/PS_UCB_eylai.pdf) to Berkeley to show how I did it with minimum additional effort, which also helps illustrate the last point. The formatting requirements all have slight differences (e.g., word limits, header, title) so just be aware. 
 
 **Choose what feedback and advice to take in.** Going back to the point of being resourceful, we may later find ourselves getting various or even conflicted advice from different sources, which can be confusing and overwhelming. My apologies if this post is making it worse. But I always ask myself two questions whenever I get feedback from people, just for a quick sanity check: 
 * Do they know the field? 
@@ -104,7 +104,7 @@ Other things I learned and applied.
 
 Through the process, I had countless <s>breakdowns</s> moments where I felt that I had already tried everything, but my SoP just read shallow, and my writing would never be good enough.
 
-But it’s because SoP is hard to write!! It not only demands writing techniques but also deep reflections of our why’s from our experiences. Although this learning experience challenged me hard on both fronts, I’m glad that I took the time and saw it as an opportunity to grow: It reminded me that improving my writing is a never-ending process, and the reflections indeed made me question my life but also assured my decision to pursue graduate studies. 
+But it’s because SoP is hard to write!! It not only demands writing techniques but also deep reflections of the why’s from our experiences. Although this learning experience challenged me hard on both fronts, I’m glad that I took the time and saw it as an opportunity to grow: It reminded me that improving my writing is a never-ending process, and the reflections indeed made me question my life but also assured my decision to pursue graduate studies.
 
 However, I do want to acknowledge that not everyone has the privilege to afford the time and energy. Further, if we consider our individual profile (e.g., GPA, LoRs) as a whole, pouring our limited resources into SoP alone may not be a strategic move. Nothing is perfect nor needs to be. So knowing when to say good enough is an important skill too (which is something I need to work on too). 
 

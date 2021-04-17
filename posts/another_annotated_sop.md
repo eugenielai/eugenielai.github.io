@@ -51,9 +51,9 @@ Things I constantly reminded myself of when thinking about my SoP at a high leve
 
 **Be quirky, not cliche.** I tried to bring in my personal voice while staying professional and make every sentence read like something only I would write. It’s a fine line to walk. But it’s possible to allow my personality to shine through the story of my professional development. The annotated SoP is (trying to be) an example. So is this post. 
 
-## Detailed Comments
+## Detailed Comments by Subsection
 
-There is a lot to unpack. We will walk through my thought process at a detailed level, which can also be seen as a concrete embodiment of the high-level takeaways discussed above. 
+There is a lot to unpack. In this section, we will walk through my thought process at a detailed level, which can also be seen as a concrete embodiment of the high-level takeaways discussed above.  
 
 > Statement of Objectives
 
@@ -70,7 +70,7 @@ Elaborate on my current research interest with the techniques (in the method spa
 +1 to the [example](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) provided by the MIT EECS Communication Lab, the formula I used to describe a research project, one line each: **summary + clarification of terms if necessary + need of the work (e.g., gaps) + our contributions + outcomes + my specific input**. We will see this formula twice later. 
 > With a focus on data provenance summarization, my research journey began under Dr. Rachel Pottinger at the UBC Data Management and Mining Lab. The provenance of a query over a database is a subset of the data in the database that contributed to the query answer. While comprehensive, query provenance consists of large volumes of data and hence is overwhelming for users to explore. We presented an approach to provenance exploration that builds on data summarization techniques and provides an interface to visualize the summary. This work led to the first two papers I co-authored, Summarizing Provenance of Aggregation Query Results in Relational Databases (ICDE’21) and Pastwatch: On the Usability of Provenance Data in Relational Databases (ICDE’20). My main contributions include identifying the limitations in the existing methods, implementing the existing and our summarization methods, and running the experiments. 
 
-We love the dark times. Vulnerability and hardships help people connect, noted by Dr. [Brené Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en#t-1196292). Being rejected is my true experience, and I intentionally included that to better connect to my reader. In my case, it also shows resilience and segues into my first why, why research but not industry. 
+We love the dark times. Dr. [Brené Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en#t-1196292) said vulnerability and hardships help people connect. Being rejected is my true experience, and I intentionally included that to better connect to my reader. In my case, it also shows resilience and segues into my first why, why research but not industry. 
 > Our work experienced a few submissions. Although I felt discouraged at first, I learned to reflect and was encouraged by how much our work had improved after each round. I also enjoyed my experience in research more than the industry for the autonomy and ownership over my work. 
 
 But I didn’t want to tell my why’s like a list. I envisioned a story structure inspired by [The Secret Structure of Great Talks](https://www.youtube.com/watch?v=1nYFpuc2Umk) by Nancy Duarte. She introduced a shape at around 6:00. Applying that concept, I established what is, what could be, and the gap. Like the shape, we will see me traversing between what is and what could be in the rest of this subsection. 

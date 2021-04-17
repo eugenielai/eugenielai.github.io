@@ -51,7 +51,7 @@ Opening with questions is one of the more interesting ways to grab the reader's 
 Elaborate on my current research interest with the methods and use case. The use case is also hinting at my motivation, which comes up later. 
 > Specifically, I apply visualization and machine learning techniques to alleviate the barriers between users and databases to help users access and make sense of data. By helping users better explore and understand the data they have collected, I hope to enable data-driven decision-making in a wide range of fields. It is with these broad goals in mind that I am applying to pursue a PhD.
 
-### Finding My Research Interests. 
+### Finding My Research Interests
 
 > With a focus on data provenance summarization, my research journey began under Dr. Rachel Pottinger at the UBC Data Management and Mining Lab. The provenance of a query over a database is a subset of the data in the database that contributed to the query answer. While comprehensive, query provenance consists of large volumes of data and hence is overwhelming for users to explore. We presented an approach to provenance exploration that builds on data summarization techniques and provides an interface to visualize the summary. This work led to the first two papers I co-authored, Summarizing Provenance of Aggregation Query Results in Relational Databases (ICDE’21) and Pastwatch: On the Usability of Provenance Data in Relational Databases (ICDE’20). My main contributions include identifying the limitations in the existing methods, implementing the existing and our summarization methods, and running the experiments. 
 
@@ -79,7 +79,7 @@ Other things I learned and applied.
 
 **Don’t stress too much about tailoring the SoP to each program.** Partial thanks to SIGMOD ‘20\*, I had a general research direction when applying. The programs and labs I applied to may have nuances in their research interests and strengths, but my motivation, research interests, and skillsets didn’t need to change much. I only swapped out the second half of the future work section for each program. However, someone with a broader interest and a more diverse set of programs may want to customize the SoP more and have different answers for each why depending on the program. 
 
-\* Note: More on [my experience at SIGMOD ‘20](https://eugenielai.github.io/posts/sigmod-takeaways.html). 
+\*Note: More on [my experience at SIGMOD ‘20](https://eugenielai.github.io/posts/sigmod-takeaways.html). 
 
 **Read each program’s prompts and formatting requirements carefully.** The point above is about the content, while this one is about the format. The requirements all have slight differences (e.g., word limits, header, title) so just be aware. 
 
@@ -89,7 +89,7 @@ Other things I learned and applied.
 
 ## Last Words
 
-Through the process, I had countless breakdowns moments where I felt that I had already tried everything, but my SoP just read shallow, and my writing would never be good enough.
+Through the process, I had countless <s>breakdowns</s> moments where I felt that I had already tried everything, but my SoP just read shallow, and my writing would never be good enough.
 
 But it’s because SoP is hard to write!! It not only demands writing techniques but also deep reflections of our why’s from our experiences. Although this learning experience challenged me hard on both fronts, I’m glad that I took the time and saw it as an opportunity to grow: It reminded me that improving my writing is a never-ending process, and the reflections indeed made me question my life but also assured my decision to pursue graduate studies. 
 

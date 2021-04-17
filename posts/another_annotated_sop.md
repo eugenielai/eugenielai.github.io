@@ -10,7 +10,7 @@ This post is inspired by the Statement of Objective examples provided by the [MI
 
 I would also like to shamelessly include a copy of [my first draft](https://eugenielai.github.io/docs/application/SoP_draft_eylai.pdf) for a before-after comparison and show how far I have (and maybe anyone could) come by applying the learnings discussed in this post. It would be difficult to measure the impact of something without showing the starting point, which is often missing in the existing resources for SoP. 
 
-Also, if you are an anxious applicant, let’s not compare ourselves. I know it’s easier said than done, and I still fall into that trap too. But it is **unfair** to compare the ins and outs of ourselves to **only** the best side of others (e.g., their SoP). This note was first brought up to me by Dr. [Maria De-Arteaga](https://mariadearteaga.com/)\* back in 2019 when I just started to pivot my profile towards grad school and has been helping me get off the overthinking treadmill since. 
+Also, if you are an anxious applicant, let’s not compare ourselves. I know it’s easier said than done, and I still fall into that trap too. But it is **unfair** to compare the ins and outs of ourselves to **only** the best side of others (e.g., their SoP). This note was first brought up to me by Dr.\* [Maria De-Arteaga](https://mariadearteaga.com/) back in 2019 when I just started to pivot my profile towards grad school and has been helping me get off the overthinking treadmill since. 
 
 \*Note: I heard Prof. and Dr. are distinct in the states, but we use Dr. for both in Canada. I didn’t know until the visit days and only used Dr. in my SoP. So let’s use Dr. in this post to keep everything consistent.
 
@@ -53,7 +53,7 @@ Things I constantly reminded myself of when thinking about my SoP at a high leve
 
 **Be quirky, not cliche.** I tried to bring in my personal voice while staying professional and make every sentence read like something only I would write. It’s a fine line to walk. But it’s possible to allow my personality to shine through the story of my professional development. The annotated SoP is (trying to be) an example. So is this post. 
 
-## Detailed Comments by Subsection
+## Detailed Comments by Section
 
 There is a lot to unpack. We will walk through my thought process at a detailed level, which can also be seen as a concrete embodiment of the high-level takeaways discussed above.  
 

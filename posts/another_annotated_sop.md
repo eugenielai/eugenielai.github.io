@@ -6,8 +6,6 @@ date: 2021-04-16
 
 ---
 
-# Another Annotated Example of CS PhD Statement of Purpose 
-
 This post is inspired by the Statement of Objective examples provided by the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/). Some programs (e.g., Berkeley) require a Statement of Purpose (SoP) and a Personal Statement (PS). In this post, we will dissect and annotate [my SoP](https://eugenielai.github.io/docs/application/SoP_MIT_eylai.pdf) submitted to MIT EECS, which is a hybrid of both, in my case. 
 
 I would also like to shamelessly include a copy of [my first draft](https://eugenielai.github.io/docs/application/SoP_draft_eylai.pdf) for a before-after comparison and show how far I have (and maybe anyone could) come by applying the learnings discussed in this post. It would be difficult to measure the impact of something without showing the starting point, which is often missing in the existing resources for SoP. 
@@ -30,11 +28,11 @@ A non-exhaustive list of caveats that may make the takeaways in this post not as
 Motivation to (uncomfortably) put myself out there: 
 * Writing crystallizes my learning and is a skill I’m working on. The pressure helps me practice. 
 * The thought of potentially helping someone trumps the fear of being judged. 
-* I got so so much help and support for my application and just want to give back. 
+* I got so so much help and support throughout this grad application cycle and just want to give back.  
 
 Speaking of support, a list of help I received for my SoP:
-* I was privileged to be assisted by the [MIT GAAP](https://www.thrive-eecs.mit.edu/gaap) and [Berkeley EAAA program](https://twitter.com/ermgrant/status/1316111464273502211?s=20). My mentors, [Xuan](https://twitter.com/xuanalogue) and Gabe, provided extremely valuable feedback on my SoP. 
-* A big thank you to my labmates and my research parent, Prof. [Rachel Pottinger](https://www.cs.ubc.ca/~rap/), who offered both helpful comments and emotional support. 
+* I was privileged to be assisted by the [MIT GAAP](https://www.thrive-eecs.mit.edu/gaap) and [Berkeley EAAA program](https://twitter.com/ermgrant/status/1316111464273502211?s=20). A huge thank you to my MIT GAAP mentor, [Xuan](https://twitter.com/xuanalogue), who chatted with me bi-weekly since October 2020, provided extremely valuable feedback on my SoP, and helped me navigate through the applying process. It still feels surreal that I will actually see her in person at MIT this fall. 
+* Many thanks to my labmates and my research parent, Prof. [Rachel Pottinger](https://www.cs.ubc.ca/~rap/), who offered both helpful comments and emotional support. 
 * I was also privileged to get help from the [Writing Centre](https://ubcca.mywconline.com/index.php?logout=YES) and [Student Service Centre](https://students.ubc.ca/) at my undergraduate university (i.e., UBC). 
 * Just to reiterate, the examples by the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/cvresume/) are helpful. Many other programs (e.g., CMU) provide such examples too. 
 * I was also influenced by these YouTube channels. 
@@ -45,8 +43,19 @@ So the first takeaway is clear: **Be resourceful.** Ask around. Keep an eye out 
 
 > Statement of Objectives
 
-Openning with questions is one of the more interesting ways to grab the reader's attention, instead of a laundary list of who I am and what I do.
-> How can we propagate breakthroughs in the scientific community to the real world? With the explosion of big data, how can we help fields outside of computer science (CS) extract and leverage its value? Inspired by these questions, my current research focuses on facilitating user interaction with databases. 
+### Introduction
+
+Opening with questions is one of the more interesting ways to grab the reader's attention, instead of a laundry list of who I am and what I do.
+> How can we propagate breakthroughs in the scientific community to the real world? With the explosion of big data, how can we help fields outside of computer science (CS) extract and leverage its value? Inspired by these questions, my current research focuses on facilitating user interaction with databases.
+
+Elaborate on my current research interest with the methods and use case. The use case is also hinting at my motivation, which comes up later. 
+> Specifically, I apply visualization and machine learning techniques to alleviate the barriers between users and databases to help users access and make sense of data. By helping users better explore and understand the data they have collected, I hope to enable data-driven decision-making in a wide range of fields. It is with these broad goals in mind that I am applying to pursue a PhD.
+
+### Finding My Research Interests. 
+
+> With a focus on data provenance summarization, my research journey began under Dr. Rachel Pottinger at the UBC Data Management and Mining Lab. The provenance of a query over a database is a subset of the data in the database that contributed to the query answer. While comprehensive, query provenance consists of large volumes of data and hence is overwhelming for users to explore. We presented an approach to provenance exploration that builds on data summarization techniques and provides an interface to visualize the summary. This work led to the first two papers I co-authored, Summarizing Provenance of Aggregation Query Results in Relational Databases (ICDE’21) and Pastwatch: On the Usability of Provenance Data in Relational Databases (ICDE’20). My main contributions include identifying the limitations in the existing methods, implementing the existing and our summarization methods, and running the experiments. 
+
+> Our work experienced a few submissions. Although I felt discouraged at first, I learned to reflect and was encouraged by how much our work had improved after each round. I also enjoyed my experience in research more than the industry for the autonomy and ownership over my work. However, I had some burning questions regarding my research interests going forward. Although I was engaged by the technical aspects of solving open-ended problems, I wanted to find something that would really excite me – what is the thing that would get me out of bed every morning? And how could I find it?
 
 ## Overall Thought Process
 

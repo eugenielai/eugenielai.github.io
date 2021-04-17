@@ -27,7 +27,7 @@ A non-exhaustive list of caveats that may make the takeaways in this post not as
 
 Motivation to (uncomfortably) put myself out there: 
 * Writing crystallizes my learning and is a skill I’m working on. The pressure helps me practice. 
-* The thought of potentially helping someone trumps the fear of being judged. 
+* Thought of potentially helping someone trumps the fear of being judged. 
 * I got so so much help and support throughout this grad application cycle and just want to give back.  
 
 Speaking of support, a list of help I received for my SoP:
@@ -108,7 +108,7 @@ But it’s because SoP is hard to write!! It not only demands writing techniques
 
 However, I do want to acknowledge that not everyone has the privilege to afford the time and energy. Further, if we consider our individual profile (e.g., GPA, LoRs) as a whole, pouring our limited resources into SoP alone may not be a strategic move. Nothing is perfect nor needs to be. So knowing when to say good enough is an important skill too (which is something I need to work on too). 
 
-Lastly, taking one step further, I also find some of the takeaways (e.g., help my reader focus, just start writing) transferable to other written pieces (e.g., papers) or professional development (e.g., be resourceful) in general. 
+Lastly, taking one step further, I find some of the takeaways (e.g., help my reader focus, just start writing) transferable to other written pieces (e.g., papers) or professional development (e.g., be resourceful) in general. 
 
 I genuinely hope this post is somewhat helpful to at least one other person on the planet, and very best of luck if you are applying soon!! <3
 

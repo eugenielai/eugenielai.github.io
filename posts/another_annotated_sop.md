@@ -34,8 +34,8 @@ Speaking of support, a list of help I received for my SoP:
 * I was privileged to be assisted by the [MIT GAAP](https://www.thrive-eecs.mit.edu/gaap) and [Berkeley EAAA program](https://twitter.com/ermgrant/status/1316111464273502211?s=20). A huge thank you to my MIT GAAP mentor, [Xuan](https://twitter.com/xuanalogue), who chatted with me bi-weekly since October 2020, provided extremely valuable feedback on my SoP, and helped me navigate through the applying process. It still feels surreal that I will actually see her in person at MIT this fall. 
 * Many thanks to my labmates and my research parent, Dr. [Rachel Pottinger](https://www.cs.ubc.ca/~rap/), who offered both helpful comments and emotional support. 
 * I was also privileged to get help from the [Writing Centre](https://ubcca.mywconline.com/index.php?logout=YES) and [Student Service Centre](https://students.ubc.ca/) at my undergraduate university (i.e., UBC). 
-* Just to reiterate, the examples by the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/cvresume/) are helpful. Many other programs (e.g., CMU) provide such examples too. 
-* I was also influenced by these YouTube channels. 
+* Just to reiterate, the examples by the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/cvresume/) are helpful. Many other programs (e.g., [CMU](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf)) provide such examples too. 
+* I was also influenced by these YouTube channels: [Lillian - AlphaGenesis](https://www.youtube.com/channel/UCBfyfPZR0Cc5b-nl5vO4fbw), [Casey Fiesler](https://www.youtube.com/channel/UCBAjxQbVXFxj6pylf7jgZPA), [Andy Stapleton](https://www.youtube.com/channel/UCFqXmQ56-Gp1rIKa-GoAJvQ).  
 
 So the first takeaway is clear: **Be resourceful.** Ask around. Keep an eye out for opportunities and resources, which shouldn’t take up much energy. Just have that running in the background. 
 

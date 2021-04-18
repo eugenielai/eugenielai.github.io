@@ -118,7 +118,7 @@ I wanted to address why I spent 6 years at UBC, which is relatively uncommon and
 Let’s not leave any loose ends and tie my two goals together to wrap up. 
 > After graduate studies, I aim to pursue a career in academia, so that I can develop the research and tools to address these challenges and more. Furthering my education at MIT would bring me one step closer to my goal of advancing data-driven decision-making in a wide range of fields and improving equal access to educational resources for students like me in marginalized groups.
 
-Other Takeaways
+## Other Takeaways
 
 Other things I learned and applied. 
 

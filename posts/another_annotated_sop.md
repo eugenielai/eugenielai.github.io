@@ -97,7 +97,9 @@ Apply the formula again to describe the project.
 
 ### Equal Access in STEM 
 
-I added this section following the the MIT EECS Communication Lab [example](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) and used the previous formula to explain the project as well. It may seem odd to risk the flow of a research-focused SoP and make us question if it’s even relevant. But MIT EECS doesn’t require PS, and I wanted to show where I come from and what I care about. This section also helps the SoP stay professional when I touched on my personal background in the last section. Again, fine line to walk. Lastly, this experience connects to my career pursuit in academia mentioned later. 
+I added this section following the the MIT EECS Communication Lab [example](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf) and used the previous formula to explain the project as well. 
+
+It may seem odd to risk the flow of a research-focused SoP and make us question if it’s even relevant. But MIT EECS doesn’t require PS, and I wanted to show what I care about and where I come from. This section is intended to help the SoP stay professional when I touched on my personal background in the last section. Again, fine line to walk. Lastly, this experience connects to my career pursuit in academia mentioned later. 
 > My other goal in graduate school is to further my pursuit of advancing equal access to educational resources for students in marginalized groups. Besides mentoring young women in STEM throughout my undergraduate time, for the past year, I worked on the UBC CS Undergraduate Program Evaluation and Renewal project. In the process, I realized how my experience with data visualization and user interface design could help to improve equity in education. Degree planning is challenging and time-consuming since students have to envision their career path and go to individual course pages to ensure they meet prerequisites accordingly. First-generation college students are especially vulnerable as they lack adequate guidance from their immediate support system. To solve this problem, I designed an interactive directed graph to show the dependencies between courses, provide a holistic view of the CS program, and visualize potential academic trajectories at UBC CS. I was thrilled to present my work at the UBC Board of Governors Meeting in Spring 2020. I deployed the graphs to the UBC CS website this summer and am currently helping UBC Centre for Teaching, Learning and Technology adapt the graphs campus-wide. Participating in this project allowed me to advance equal access in a higher level of education and help as many students thrive as possible.
 
 ### Future Work
@@ -115,7 +117,7 @@ I find this part becomes more candid and convincing when I write it as if the PI
 I wanted to address why I spent 6 years at UBC, which is relatively uncommon and often raises questions (e.g., if I can handle a rigorous course load). However, it was difficult for me to word my reason in a professional way at first. So I decided to only briefly mention the personal aspect while elaborating on my work experience. Xuan helped me further emphasize the value of the experience and how it contributes to my goals in graduate studies. 
 > As a first-generation college student from a low-income, single-parent family, working puts additional constraints on my course load yet is the most effective way to support myself. Although I spent six years on my undergraduate degree, I did two years of co-op at three different places in industry, non-profit, and academia. While studying full-time, I have also worked part-time in retail, administration, and teaching. Through these valuable experiences, I not only learned about the many real-world challenges that people face on the job, but also discovered research interests that would allow me to address some of those challenges. 
 
-Let’s not leave any loose ends and tie my two goals together to wrap up. 
+Let’s not leave any loose ends and tie the two goals together to wrap up. 
 > After graduate studies, I aim to pursue a career in academia, so that I can develop the research and tools to address these challenges and more. Furthering my education at MIT would bring me one step closer to my goal of advancing data-driven decision-making in a wide range of fields and improving equal access to educational resources for students like me in marginalized groups.
 
 ## Other Takeaways
@@ -128,15 +130,13 @@ Other things I learned and applied.
 
 **Don’t stress too much about tailoring the SoP to each program.** Partial thanks to SIGMOD ‘20\*, I had a general research direction when applying. The programs and labs I applied to may have nuances in their research interests and strengths, but my motivation, research interests, and skillsets didn’t need to change much. I only swapped out the second half of the future work section for each program. However, someone with a broader interest and a more diverse set of programs may want to customize the SoP more and have different answers for each why depending on the program. 
 
-\*Note: More on my experience at SIGMOD ‘20. 
+\*Note: More on [my experience at SIGMOD ‘20](https://eugenielai.github.io/posts/sigmod-takeaways.html). 
 
 **Read each program’s prompts and formatting requirements carefully.** The point above is about the content, while this one is about the format and separation of the content. Programs like Berkeley EECS require an SoP and a PS so the separation depends on the prompts. I include my final copy of [SoP](https://eugenielai.github.io/docs/application/SoP_UCB_eylai.pdf) and [PS](https://eugenielai.github.io/docs/application/PS_UCB_eylai.pdf) to Berkeley to show how I did it with minimum additional effort, which also helps illustrate the last point. The formatting requirements all have slight differences (e.g., word limits, header, title) so just be aware. 
 
-**Choose what feedback and advice to take in.** Going back to the point of being resourceful\*, we may later find ourselves getting various or even conflicted advice from different sources, which can be confusing and overwhelming. My apologies if this post is making it worse. But I always ask myself two questions whenever I get feedback from people, just for a quick sanity check: 
-Do they know the field? 
-Do they know me? 
-
-\*Note: Can’t believe we come back full circle!!
+**Choose what feedback and advice to take in.** Going back to the point of being resourceful, we may later find ourselves getting various or even conflicted advice from different sources, which can be confusing and overwhelming. My apologies if this post is making it worse. But I always ask myself two questions whenever I get feedback from people, just for a quick sanity check: 
+* Do they know the field? 
+* Do they know me? 
 
 ## Last Words
 

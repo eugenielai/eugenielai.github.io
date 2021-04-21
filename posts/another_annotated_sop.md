@@ -152,13 +152,13 @@ I also learned and applied these general/minor things.
 * Do they know **the field**? 
 * Do they know **me**? 
 
-This sanity check is a reminder to further verify if the information is credible and applicable to me, especially when I get negative (but not necessarily constructive) feedback. 
+Although some advice is generalizable, this sanity check is a reminder to further verify if the information is credible and applicable to me, especially when I get negative (but not necessarily constructive) feedback. 
 
 An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, which is much needed in such a sensitive time. 
 
 ## Last Words
 
-Through the application process, I had countless <s>breakdowns</s> moments where I felt that I had already tried everything, but my SoP just read shallow, and my writing would never be good enough.
+Through the applying process, I had countless <s>breakdowns</s> moments where I felt that I had already tried everything, but my SoP just read shallow, and my writing would never be good enough.
 
 But it’s because **SoP is hard to write!!** It not only demands writing techniques but also deep reflections of the why’s from our experiences. Although writing the SoP challenged me hard on both fronts, I’m glad that I took the time and saw it as an opportunity to grow: It reminded me that improving my writing is a never-ending process, and the reflection indeed made me question my life but also assured my decision to pursue graduate studies. 
 

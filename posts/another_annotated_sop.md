@@ -8,7 +8,7 @@ date: 2021-04-16
 
 This post is inspired by the Statement of Objective examples provided by the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/). Some programs (e.g., Berkeley EECS) require a Statement of Purpose (SoP) and a Personal Statement (PS). In this post, we will dissect and annotate [my SoP](https://eugenielai.github.io/docs/application/SoP_MIT_eylai.pdf) submitted to MIT EECS, which is a hybrid of both, in my case. 
 
-I also want to shamelessly include a copy of [my first draft](https://eugenielai.github.io/docs/application/SoP_draft_eylai.pdf) for a before-after comparison and show how far I have (and maybe anyone could) come by applying the learnings discussed in this post. It would be difficult to measure the impact of something without showing the starting point, which is often missing in the existing resources for SoP. 
+I also shamelessly include a copy of [my first draft](https://eugenielai.github.io/docs/application/SoP_draft_eylai.pdf) for a before-after comparison and show how far I have (and maybe anyone could) come by applying the learnings discussed in this post. It would be difficult to measure the impact of something without showing the starting point, which is often missing in the existing resources for SoP. 
 
 Also, if you are an anxious applicant, let’s not compare ourselves. I know it’s easier said than done, and I still fall into that trap too. But it is **unfair** to compare the ins and outs of ourselves to **only** the best side of others (e.g., their SoP). This note was first brought up to me by Dr.\* [Maria De-Arteaga](https://mariadearteaga.com/) back in 2019 when I just started to pivot my profile towards grad school and has been helping me get off the overthinking treadmill since. 
 
@@ -44,16 +44,17 @@ So the first takeaway is clear: **Be resourceful.** Ask around. Keep an eye out 
 
 ## Overall Thought Process
 
-We want to show a 3D us by leveraging the application package with little overlaps between materials. If we look at the rest of the package, the transcript and CV only put us into numbers and project names. But we are missing something – without showing our thought process and personality, we are boring, cold, and flat. 
+I wanted to show a 3D me by leveraging the application package with little overlaps between materials. But so far, the transcript and CV only put me into numbers and project names. 
 
-This gap is where SoP comes in, and it is the only opportunity\* to paint a 3D us (and hope it’s attractive enough for <s>a research date</s> an interview). We will use sketching as an analogy and go through things that I constantly reminded myself of when thinking about my SoP at a high level. 
+There is something missing – without showing my thought process and personality, I’m boring, cold, and flat. This gap is where SoP comes in, and it is the only\* opportunity to add that third dimension (and hope it’s attractive enough for <s>a research date</s> an interview). We will use sketching as an analogy and go through things that I constantly reminded myself of when thinking about my SoP at a high level. 
 
 \*Note: Letters of recommendation (LoRs) help too, but they are observations of us. SoP is the one thing in our full control. 
 
-**Find a common thread and tell a story about my professional development.** What to include? What’s relevant? Convey my why’s (e.g., why research, why grad school, why data systems). The skeleton 
+**Convey the why’s.** Just like all drawings, SoP needs a purpose, a main message that both utilizes the space in the application and fills the gap. From most of the resources above, the purpose should be conveying the why’s (e.g., why research, why grad school, why this subfield).
 
-**Bring in personality.** Now we know what to include, but how do we present it? Colour the black-and-white skeleton. 
-I tried to bring in my personal voice while staying professional and make every sentence read like something only I would write. It’s a fine line to walk. But it’s possible to allow my personality to shine through the story of my professional development. The annotated SoP is (trying to be) an example. So is this post. We will talk about a few ways to do that in the detailed comments. 
+**Find a common thread and tell a story about professional development.** Now I know what to include, but how could I organize my content in a way that shows the reader how I think? We need a skeleton first. I could tell my why’s in a plain list, but wouldn’t showing how my research journey evolved add more character? Inevitably, I had to repeat what’s in the CV, but the added value comes from the personality and thought process illustrated through those experiences. The experiences are just a tool at this point, instead of the main focus, so don’t worry about repeating the content. 
+
+**Bring in personality.** Let’s colour the black-and-white skeleton with a personal pallet. I tried to make every sentence read like something only I would write. Admittedly, bringing in a personal voice while staying professional is a fine line to walk, but it’s possible. The annotated SoP is (trying to be) an example. So is this post. We will talk about a few ways to do that in the detailed comments. 
 
 **Help the reader focus.** We have limited paint. 
 So first, be concise, no fluff. Every sentence is an opportunity to draw a line and should together portrait a clean image. 
@@ -122,7 +123,7 @@ This section aims to convince the reader that I know the strengths of the progra
 I chose to put my research statement here, not anywhere else. Up to this point, I’ve been signalling pieces about my motivation and research interests using the opening questions, projects, and my why story. The reader now has enough context and is ready for a punch. 
 > All my experiences collectively shaped my research interests and motivated me to pursue graduate studies. Today, database systems provide a vital infrastructure to access high volumes of data in a variety of applications. Seeing the user-database barriers and the potential of data-driven decision-making in areas outside of CS (e.g., city planning and sustainability) incites my urge to build my work around the theme of facilitating user interaction with databases. With a deep understanding of the problem space and skills gained through solving problems in this space, I hope to continue this line of work by applying visualization and ML techniques to help database users access and make sense of data. 
 
-I find this part becomes more candid and convincing when I **write it as if the PIs would actually read it** (and mine actually did). Also, it only becomes attractive when the interest goes both ways. I wanted to show how they could help me but also what unique skills I could offer. 
+I find this part becomes more candid and convincing when I **write it as if the PIs would actually read it** (and mine really did). Also, it only becomes attractive when the interest goes both ways (like a date). I wanted to show how they could help me but also what unique skills I could offer. 
 > MIT CSAIL’s past and current work indicates its members’ unique strengths on this topic. Specifically, I would be excited to work with Dr. Tim Kraska and Dr. Sam Madden. Dr. Kraska has made outstanding contributions to enabling data analytics for individuals outside of CS using ML-inspired techniques. The sequential features of query sessions discussed in his recent work, IDEBench (SIGMOD’20), are fundamental to my work on sequence-aware query recommendation, where we empirically analyzed the query sequences in two real-life workloads. Extending my work under his supervision would give me strong support in leveraging query session information using ML techniques. My research interests also greatly overlap with Dr. Madden’s work, such as Data Civilizer, on building end-to-end systems to facilitate domain experts with data exploration. I would be excited to work with Dr. Madden by bringing my skills and experience in applying ML techniques to SQL queries.
 
 ### Where I See Myself
@@ -151,13 +152,13 @@ I also learned and applied these general/minor things.
 * Do they know **the field**? 
 * Do they know **me**? 
 
-This sanity check is a reminder for me to further verify if the information is credible and applicable to me. The reminder is particularly helpful when I get negative (and not necessarily constructive) feedback. An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, which was much needed in such a sensitive time. 
+This sanity check is a reminder to further verify if the information is credible and applicable to me, especially when I get negative (and not necessarily constructive) feedback. An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, which is much needed in such a sensitive time. 
 
 ## Last Words
 
-Through the process, I had countless <s>breakdowns</s> moments where I felt that I had already tried everything, but my SoP just read shallow, and my writing would never be good enough.
+Through the application process, I had countless <s>breakdowns</s> moments where I felt that I had already tried everything, but my SoP just read shallow, and my writing would never be good enough.
 
-But it’s because SoP is hard to write!! It not only demands writing techniques but also deep reflections of the why’s from our experiences. Although writing the SoP challenged me hard on both fronts, I’m glad that I took the time and saw it as an opportunity to grow: It reminded me that improving my writing is a never-ending process, and the reflections indeed made me question my life but also assured my decision to pursue graduate studies. 
+But it’s because **SoP is hard to write!!** It not only demands writing techniques but also deep reflections of the why’s from our experiences. Although writing the SoP challenged me hard on both fronts, I’m glad that I took the time and saw it as an opportunity to grow: It reminded me that improving my writing is a never-ending process, and the reflection indeed made me question my life but also assured my decision to pursue graduate studies. 
 
 However, I do want to acknowledge that not everyone has the privilege to afford the time and energy. Further, if we consider our individual profile (e.g., GPA, LoRs) as a whole, pouring our limited resources into SoP alone may not be a strategic move. Nothing is perfect nor needs to be. So knowing when to say good enough is an important skill too (which is something I still need to work on). 
 

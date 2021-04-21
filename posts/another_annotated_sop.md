@@ -52,7 +52,7 @@ There is something missing – without showing my thought process and personalit
 
 **Convey the why’s.** Just like all drawings, SoP needs a purpose, a main message that both utilizes the space in the application and fills the gap. From most of the resources above, the purpose should be conveying the why’s (e.g., why research, why grad school, why this subfield).
 
-**Find a common thread and tell a story about professional development.** Now I know what to include, but how could I organize my content in a way that shows the reader how I think? We need a skeleton first. I could tell my why’s in a plain list, but wouldn’t showing how my research journey evolved add more character? Inevitably, I had to repeat what’s in the CV, but the added value comes from the personality and thought process illustrated through those experiences. The experiences are just a tool at this point, instead of the main focus, so don’t worry about repeating the content. 
+**Find a common thread and tell a story about professional development.** Now I know what to include, but how could I organize my content in a way that shows the reader how I think? We need a skeleton first. I could tell my why’s in a plain list. But wouldn’t some layered structure to show how my research journey evolved add more character? Inevitably, I had to repeat what’s in the CV, but the added value comes from the personality and thought process illustrated through those experiences. The experiences are just a tool at this point, instead of the main focus, so don’t worry about repeating the content. 
 
 **Bring in personality.** Let’s colour the black-and-white skeleton with a personal pallet. I tried to make every sentence read like something only I would write. Admittedly, bringing in a personal voice while staying professional is a fine line to walk, but it’s possible. The annotated SoP is (trying to be) an example. So is this post. We will talk about a few ways to do that in the detailed comments. 
 
@@ -152,7 +152,9 @@ I also learned and applied these general/minor things.
 * Do they know **the field**? 
 * Do they know **me**? 
 
-This sanity check is a reminder to further verify if the information is credible and applicable to me, especially when I get negative (and not necessarily constructive) feedback. An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, which is much needed in such a sensitive time. 
+This sanity check is a reminder to further verify if the information is credible and applicable to me, especially when I get negative (but not necessarily constructive) feedback. 
+
+An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, which is much needed in such a sensitive time. 
 
 ## Last Words
 

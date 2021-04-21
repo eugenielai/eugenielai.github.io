@@ -46,7 +46,7 @@ So the first takeaway is clear: **Be resourceful.** Ask around. Keep an eye out 
 
 We want to show a 3D us by leveraging the application package with little overlaps between materials. If we look at the rest of the package, the transcript and CV only put us into numbers and project names. But we are missing something – without showing our thought process and personality, we are boring, cold, and flat. 
 
-This gap is where SoP comes in, and it is the only opportunity\* to paint a 3D us (and hope it’s attractive enough for <s>a research date<\s> an interview). We will use sketching as an analogy and go through things that I constantly reminded myself of when thinking about my SoP at a high level. 
+This gap is where SoP comes in, and it is the only opportunity\* to paint a 3D us (and hope it’s attractive enough for <s>a research date</s> an interview). We will use sketching as an analogy and go through things that I constantly reminded myself of when thinking about my SoP at a high level. 
 
 \*Note: Letters of recommendation (LoRs) help too, but they are observations of us. SoP is the one thing in our full control. 
 

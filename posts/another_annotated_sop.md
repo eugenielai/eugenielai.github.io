@@ -33,11 +33,11 @@ Motivation to (uncomfortably) put myself out there:
 * I received so so much help and support throughout this grad application cycle and just want to give back. 
 
 Speaking of support, a list of direct help I received for my SoP:
-* I was privileged to be assisted by the [MIT GAAP](https://www.thrive-eecs.mit.edu/gaap) and [Berkeley EAAA program](https://twitter.com/ermgrant/status/1316111464273502211?s=20). A huge thank you to my MIT GAAP mentor, [Xuan](https://twitter.com/xuanalogue), who chatted with me bi-weekly since October 2020, provided extremely valuable feedback on my SoP, and helped me navigate through the applying process. It still feels surreal that I will actually see her in person at MIT this fall. 
+* I was privileged to be assisted by the [MIT GAAP](https://www.thrive-eecs.mit.edu/gaap) and [Berkeley EAAA program](https://twitter.com/ermgrant/status/1316111464273502211?s=20). A huge thank you to my MIT GAAP mentor, [Xuan](https://twitter.com/xuanalogue), who chatted with me bi-weekly since October 2020, provided extremely valuable feedback on my SoP, and helped me navigate through the applying process. It still feels surreal that I will actually meet her in person at MIT this fall. 
 * Many thanks to my labmates and my research parent, Dr. [Rachel Pottinger](https://www.cs.ubc.ca/~rap/), who offered both helpful comments and emotional support.
 * I happened to take [COMM 395 Business Communication](https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-395) with [Elizabeth Bowker](https://www.sauder.ubc.ca/people/elizabeth-bowker) that term (to fulfill my undergraduate degree requirement at UBC). I found some materials covered for presentations transferable to writing, and a big thank you to her for the additional support. 
 * I was also privileged to get help from the [Writing Centre](https://ubcca.mywconline.com/index.php?logout=YES) and [Student Service Centre](https://students.ubc.ca/) at my undergraduate university. 
-* Just to reiterate, the examples by the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/cvresume/) are helpful. Many other schools/programs (e.g., [CMU](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf)) provide such examples too. 
+* Just to reiterate, the examples by the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/cvresume/) are particularly helpful. Many other schools/programs (e.g., [CMU](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf)) provide such examples too. 
 * I was also influenced by these YouTube channels: [Lillian - AlphaGenesis](https://www.youtube.com/channel/UCBfyfPZR0Cc5b-nl5vO4fbw), [Casey Fiesler](https://www.youtube.com/channel/UCBAjxQbVXFxj6pylf7jgZPA), [The Kath Path](https://www.youtube.com/channel/UCDyOQFc-pAuIEjICmoq3VLw), [Andy Stapleton](https://www.youtube.com/channel/UCFqXmQ56-Gp1rIKa-GoAJvQ). 
 
 So the first takeaway is clear: **Be resourceful.** Ask around. Keep an eye out for opportunities and resources, which shouldn’t take up much energy. Just have that running in the background. 
@@ -150,6 +150,7 @@ I also learned and applied these general/minor things.
 **Choose what feedback and advice to take in.** Going back to the point of being resourceful, we may later find ourselves getting various or even conflicted advice from different sources, which can be confusing and overwhelming. My apologies if this post is making it worse. But I always ask two questions whenever I get advice from people: 
 * Do they know **the field**? 
 * Do they know **me**? 
+
 This sanity check is a reminder for me to further verify if the information is credible and applicable to me. The reminder is particularly helpful when I get negative (and not necessarily constructive) feedback. An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, which was much needed in such a sensitive time. 
 
 ## Last Words

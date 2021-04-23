@@ -6,6 +6,9 @@ date: 2021-04-22
 
 ---
 
+# Another Annotated Example: CS PhD Statement of Purpose
+Date: 2021-04-22
+
 This post is inspired by the Statement of Objective examples provided by the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/). Some programs (e.g., Berkeley EECS) require a Statement of Purpose (SoP) and a Personal Statement (PS). In this post, we will dissect and annotate [my SoP](https://eugenielai.github.io/docs/application/SoP_MIT_eylai.pdf) submitted to MIT EECS, which is a hybrid of both, in my case. 
 
 I also shamelessly include a copy of [my first draft](https://eugenielai.github.io/docs/application/SoP_draft_eylai.pdf) for a before-after comparison and show how far I have (and maybe anyone could) come by applying the learnings discussed in this post. It would be difficult to measure the impact of something without showing the starting point, which is often missing in the existing resources for SoP. 

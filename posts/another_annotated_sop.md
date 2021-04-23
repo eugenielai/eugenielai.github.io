@@ -20,9 +20,9 @@ Intended audience: Future and current CS PhD applicants.
 
 The role of SoP in grad applications: Touched on by [this Twitter thread](https://twitter.com/fadeladib/status/1353020079257038848?s=20), which could be specific to MIT EECS.
 
-My result: I applied to 8 programs and was fortunate to get in almost everywhere, with 5 offers (i.e., Berkeley, MIT, UBC, UMich, and UW) and 3 withdrawals (i.e., Columbia, NYU, and Maryland). 
+My result: I applied to 8 programs and was fortunate to get in almost everywhere, with 5 offers (i.e., Berkeley, MIT, UBC, UMich, and UW) and 3 withdrawals (i.e., Columbia, Maryland, and NYU). 
 
-A non-exhaustive list of caveats that may make the takeaways in this post not as applicable so readers’ discretion is advised:
+A non-exhaustive list of caveats that may make this post not as applicable so readers’ discretion is advised:
 * I applied during a pandemic, not sure how that affected my experience. 
 * I only applied to programs in the US and Canada so the experience is subjective to the system here. 
 * I’m in data systems so please question if the content is field-specific. 
@@ -44,29 +44,25 @@ So the first takeaway is clear: **Be resourceful.** Ask around. Keep an eye out 
 
 ## Overall Thought Process
 
+The grad application as a whole is supposed to show a 3D us to let the committee make a sensible decision. If we think backwards, SoP is only included for a reason. Like any member of a K-Pop group, it has a unique proposition in the package. 
+
 I wanted to show a 3D me by leveraging the application package with little overlaps between materials. But so far, the transcript and CV only put me into numbers and project names. 
 
-There is something missing – without showing my thought process and personality, I’m boring, cold, and flat. This gap is where SoP comes in, and it is the only\* opportunity to add that third dimension (and hope it’s attractive enough for <s>a research date</s> an interview). We will use sketching as an analogy and go through things that I constantly reminded myself of when thinking about my SoP at a high level. 
+So something is missing – without showing my thought process and personality, I’m boring, cold, and flat. This gap is where SoP comes in, and it is the only\* opportunity to add that third dimension. We will use sketching as an analogy and go through the things that I constantly reminded myself of when thinking about my SoP at a high level. 
 
 \*Note: Letters of recommendation (LoRs) help too, but they are observations of us. SoP is the one thing in our full control. 
 
-**Convey the why’s.** Just like all drawings, SoP needs a purpose, a main message that both utilizes the space in the application and fills the gap. From most of the resources above, the purpose should be conveying the why’s (e.g., why research, why grad school, why this subfield).
+**Convey the why’s.** Like all drawings, SoP needs a purpose, a main message that both utilizes the space in the application and fills the gap. From most of the resources above, the purpose should be conveying the why’s (e.g., why research, why grad school, why this subfield).
 
-**Find a common thread and tell a story about professional development.** Now I know what to include, but how could I organize my content in a way that shows the reader how I think? We need a skeleton first. I could tell my why’s in a plain list. But wouldn’t some layered structure to show how my research journey evolved add more character? Inevitably, I had to repeat what’s in the CV, but the added value comes from the personality and thought process illustrated through those experiences. The experiences are just a tool at this point, instead of the main focus, so don’t worry about repeating the content. 
+**Find a common thread and tell a story about professional development.** Now we know what to include, but how could we organize the content in a way that shows the reader how we think? We need a skeleton first. I could tell my why’s in a plain list. But wouldn’t some layered structure to show how my research journey evolved add more character? Inevitably, we have to repeat what’s in the CV, but the added value comes from the personality and thought process illustrated through those experiences. The experiences are just a tool at this point, instead of the main focus, so don’t worry about repeating the content. 
 
 **Bring in personality.** Let’s colour the black-and-white skeleton with a personal pallet. I tried to make every sentence read like something only I would write. Admittedly, bringing in a personal voice while staying professional is a fine line to walk, but it’s possible. The annotated SoP is (trying to be) an example. So is this post. We will talk about a few ways to do that in the detailed comments. 
 
-**Help the reader focus.** We have limited paint. 
-So first, be concise, no fluff. Every sentence is an opportunity to draw a line and should together portrait a clean image. 
-
-We don’t want to waste any bits or distract the reader with noise so every word should have its place. 
-
-Precise 
-Second, we don’t want random, extra lines so only include relevant content 
+**Help the reader focus.** We have limited paint. Be concise and precise. Every sentence is an opportunity to draw a line and should together portrait a clean image. We don’t want to waste any bits or distract the reader with random, extra lines so every word should have its place. I also thought hard about what to leave in and leave out. Although I was involved in many things throughout my undergraduate time, I only included experiences that are pertinent to my story. 
 
 ## Detailed Comments by Section
 
-There is a lot to unpack. We will walk through my thought process at a detailed level, which can also be seen as a concrete embodiment of the high-level takeaways discussed above. 
+There is a lot to unpack. We will walk through my reasoning for each section at a detailed level, which can also be seen as a concrete embodiment of the high-level takeaways discussed above. 
 
 > Statement of Objectives
 
@@ -123,12 +119,12 @@ This section aims to convince the reader that I know the strengths of the progra
 I chose to put my research statement here, not anywhere else. Up to this point, I’ve been signalling pieces about my motivation and research interests using the opening questions, projects, and my why story. The reader now has enough context and is ready for a punch. 
 > All my experiences collectively shaped my research interests and motivated me to pursue graduate studies. Today, database systems provide a vital infrastructure to access high volumes of data in a variety of applications. Seeing the user-database barriers and the potential of data-driven decision-making in areas outside of CS (e.g., city planning and sustainability) incites my urge to build my work around the theme of facilitating user interaction with databases. With a deep understanding of the problem space and skills gained through solving problems in this space, I hope to continue this line of work by applying visualization and ML techniques to help database users access and make sense of data. 
 
-I find this part becomes more candid and convincing when I **write it as if the PIs would actually read it** (and mine really did). Also, it only becomes attractive when the interest goes both ways (like a date). I wanted to show how they could help me but also what unique skills I could offer. 
+I find this part becomes more candid and compelling when I **write it as if the PIs would actually read it** (and mine really did). Also, it only becomes attractive when the interest goes both ways. I wanted to show how they could help me but also what unique skills I could offer. 
 > MIT CSAIL’s past and current work indicates its members’ unique strengths on this topic. Specifically, I would be excited to work with Dr. Tim Kraska and Dr. Sam Madden. Dr. Kraska has made outstanding contributions to enabling data analytics for individuals outside of CS using ML-inspired techniques. The sequential features of query sessions discussed in his recent work, IDEBench (SIGMOD’20), are fundamental to my work on sequence-aware query recommendation, where we empirically analyzed the query sequences in two real-life workloads. Extending my work under his supervision would give me strong support in leveraging query session information using ML techniques. My research interests also greatly overlap with Dr. Madden’s work, such as Data Civilizer, on building end-to-end systems to facilitate domain experts with data exploration. I would be excited to work with Dr. Madden by bringing my skills and experience in applying ML techniques to SQL queries.
 
 ### Where I See Myself
 
-I wanted to address why I spent 6 years at UBC, which is relatively uncommon and often raises questions (e.g., if I can handle a rigorous course load). However, it was difficult to word my reason in a professional way at first. So I only briefly mentioned the personal aspect while elaborating on my work experience. Xuan pointed out the key is to **relate our personal struggles to professional development** and helped me further emphasize the value of the experience and how it contributed to my goals in graduate studies. 
+I wanted to address why I spent 6 years at UBC, which is relatively uncommon and often raises questions (e.g., if I can handle a rigorous course load). However, it was difficult to word my reason in a professional way at first. So I only briefly mentioned the personal aspect while elaborating on my work experience. Xuan pointed out the key is to **relate personal struggles to professional development** and helped me further emphasize the value of the experience and how it contributed to my goals in graduate studies. 
 > As a first-generation college student from a low-income, single-parent family, working puts additional constraints on my course load yet is the most effective way to support myself. Although I spent six years on my undergraduate degree, I did two years of co-op at three different places in industry, non-profit, and academia. While studying full-time, I have also worked part-time in retail, administration, and teaching. Through these valuable experiences, I not only learned about the many real-world challenges that people face on the job, but also discovered research interests that would allow me to address some of those challenges. 
 
 Let’s not leave any loose ends and tie the two goals together to wrap up. 
@@ -152,7 +148,7 @@ I also learned and applied these general/minor things.
 * Do they know **the field**? 
 * Do they know **me**? 
 
-Although some advice is generalizable, this sanity check is a reminder to further verify if the information is credible and applicable to me, especially when I get negative (but not necessarily constructive) feedback. 
+Although some advice is generalizable, this sanity check is a reminder to further verify if the information is **credible** and **applicable** to me, especially when I get negative (but not necessarily constructive) feedback. 
 
 An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, which is much needed in such a sensitive time. 
 
@@ -166,6 +162,6 @@ However, I do want to acknowledge that not everyone has the privilege to afford 
 
 Lastly, taking one step further, I find some of the takeaways transferable to other written pieces (e.g., papers), other forms of communication (e.g., presentations), or professional development in general. 
 
-Although I had fun reflecting on my learning, I genuinely hope this post would be somewhat helpful to at least one other person on the planet, and very best of luck if you are applying soon!! <3
+Although I had much fun reflecting on my learning, I genuinely hope this post would be somewhat helpful to at least one other person on the planet, and very best of luck if you are applying soon!! <3
 
 [Back to blog](../blog.html)

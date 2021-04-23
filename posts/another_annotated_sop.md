@@ -1,5 +1,5 @@
 ---
-title: Another Annotated Example of CS PhD Statement of Purpose
+title: Another Annotated Example: CS PhD Statement of Purpose
 layout: post
 author: Eugenie Lai
 date: 2021-04-22
@@ -150,7 +150,7 @@ I also learned and applied these general/minor things.
 
 Although some advice is generalizable, this sanity check is a reminder to further verify if the information is **credible** and **applicable** to me, especially when I get negative (but not necessarily constructive) feedback. 
 
-An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, which is much needed in such a sensitive time. 
+An extreme example is the words from my relatives and family friends when they laughed at my school list. It still hurt at the moment, but the rational me didn’t take their comments to heart because they’re not in CS, and they don’t know my profile. More than a filter to allow in helpful advice, the questions are also shields to protect us, much needed in such a sensitive time. 
 
 ## Last Words
 

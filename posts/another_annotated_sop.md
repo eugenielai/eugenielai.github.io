@@ -21,9 +21,9 @@ Also, if you are an anxious applicant, let’s not compare ourselves. I know it�
 
 Intended audience: Future and current CS PhD applicants. 
 
-The role of SoP in grad applications: Touched on by [this Twitter thread](https://twitter.com/fadeladib/status/1353020079257038848?s=20), which could be specific to MIT EECS.
+The role of SoP in grad admissions: Touched on by [this Twitter thread](https://twitter.com/fadeladib/status/1353020079257038848?s=20), which could be specific to MIT EECS.
 
-My result: I applied to 8 programs and was fortunate to get in almost everywhere, with 5 offers (i.e., Berkeley, MIT, UBC, UMich, and UW) and 3 withdrawals (i.e., Columbia, Maryland, and NYU). 
+My result: I applied to 8 programs and was fortunate to get in almost everywhere, with 5 offers (i.e., Berkeley, MIT, UBC, UMichigan, and UWashington) and 3 withdrawals (i.e., Columbia, Maryland, and NYU). 
 
 A non-exhaustive list of caveats that may make this post not as applicable so readers’ discretion is advised:
 * I applied during a pandemic, not sure how that affected my experience. 

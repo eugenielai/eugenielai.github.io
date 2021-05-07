@@ -1,6 +1,6 @@
 I'm a senior undergraduate student in the Combined Major of Business and Computer Science (BUCS) program at the University of British Columbia (UBC). I have been working with [Dr. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) since Spring 2019 and was previously advised by [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/).
 
-My current research focuses on data systems while applying visualization and machine learning to help users interact with and make sense of data. Today, databases provide a vital infrastructure for users to access high volumes of data, but both field-specific and database-related expertise are required for a user to interact with database applications. Such use cases motivate me to focus my work on facilitating user interaction with data systems.
+My current research focuses on data systems while applying visualization and machine learning to help users interact with and make sense of data. Today, databases provide a vital infrastructure for users to access high volumes of data, but both field-specific and database-related expertise are required for a user to interact with database applications. Such use cases motivate my work on facilitating user interaction with data systems.
 
 ## Projects
 

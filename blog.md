@@ -9,7 +9,7 @@ author: Eugenie Lai
 
 ### Exploring my interests is a never-ending process.
 
-## [Another Annotated Example: CS PhD Statement of Purpose](posts/another_annotated_sop.html)  
+## [Another Annotated Example: CS PhD Statement of Purpose](posts/another-annotated-sop.html)  
 Date: 2021-04-22  
 This post is inspired by the Statement of Objective examples provided by the MIT EECS Communication Lab. Some programs (e.g., Berkeley EECS) require a Statement of Purpose (SoP) and a Personal Statement (PS). In this post, we will dissect and annotate my SoP submitted to MIT EECS, which is a hybrid of both, in my case.
 

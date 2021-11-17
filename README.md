@@ -1,4 +1,4 @@
-I'm a 1st-year PhD student in the [Data Systems Group](http://dsg.csail.mit.edu/) at MIT CSAIL. I previously worked with [Dr. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) and [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/) at the University of British Columbia (UBC).
+I'm a 1st-year PhD student in the [Data Systems Group](http://dsg.csail.mit.edu/) at MIT CSAIL. I previously worked with [Dr. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) and [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/) in the [Data Management and Mining Lab](https://www.cs.ubc.ca/labs/db/research.php) at the University of British Columbia.
 
 My current research focuses on data systems while applying visualization and machine learning to help users interact with and make sense of data. Today, databases provide a vital infrastructure for users to access high volumes of data, but both field-specific and database-related expertise are required for a user to interact with database applications. Such use cases motivate my work on facilitating user interaction with data systems.
 

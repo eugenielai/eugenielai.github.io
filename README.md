@@ -1,6 +1,6 @@
 I'm a 1st-year PhD student in the [Data Systems Group](http://dsg.csail.mit.edu/) at MIT CSAIL. I previously worked with [Dr. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) and [Dr. Raymond Ng](https://www.cs.ubc.ca/~rng/) in the [Data Management and Mining Lab](https://www.cs.ubc.ca/labs/db/research.php) at the University of British Columbia.
 
-My current research focuses on data systems while applying visualization and machine learning to help users interact with and make sense of data. Today, databases provide a vital infrastructure for users to access high volumes of data, but both field-specific and database-related expertise are required for a user to interact with database applications. Such use cases motivate my work on facilitating user interaction with data systems.
+Today, with the explosion of data, more and more people are in desperate need to access and make use of data in more and more fields, such as social science, business, and healthcare. However, both domain-specific and programming skills are required for an individual to do so, but not everyone has the background. Inspired by such use cases, my current research focuses on developing methods to help users interact with and make sense of data using machining learning and programming language techniques. 
 
 ## Projects
 

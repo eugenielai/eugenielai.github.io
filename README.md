@@ -8,7 +8,7 @@ Today, with the explosion of data, more and more people are in desperate need to
 Data preparation has been seen as "janitor work" yet essential in data-to-insight pipelines. The increasing liberality of data is followed by an explosion in the diversity of data consumers. However, the required technical and domain expertise prevents many from performing extensive data preparation. Further, many seem to be stuck in a vicious cycle of writing one-off programs to process data. Recently, automating data preparation programs has been shown to improve many aspects of the pipeline, including data quality, research reproducibility, and user productivity. We propose a novel approach to automatically improve data preparation programs in Python.
 
 ## Publications
-Workload-Aware Query Recommendation Using Deep Learning(https://openproceedings.org/2023/conf/edbt/paper-173.pdf) To Appear in IEEE EDBT '23.  
+[Workload-Aware Query Recommendation Using Deep Learning](https://openproceedings.org/2023/conf/edbt/paper-173.pdf) To Appear in IEEE EDBT '23.  
 *<strong>Eugenie Y Lai</strong>, Zainab Zolaktaf, Mostafa Milani, Omar AlOmeir, Jianhao Cao, Rachel Pottinger*
 
 [Summarizing Provenance of Aggregation Query Results in Relational Databases](https://ieeexplore.ieee.org/abstract/document/9458813) IEEE ICDE '21: 1955-1960. 

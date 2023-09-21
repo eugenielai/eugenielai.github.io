@@ -4,7 +4,7 @@ Today, with the explosion of data, more and more people are in desperate need to
 
 ## On-Going Projects
 
-### Automatic Standardization for Data Preprocessing
+### Bottom-Up Standardization for Data Preparation Programs
 Data preparation is the process of cleaning, transforming, and structuring raw data into a format that is usable for downstream data-powered applications. Many data pipelines require a custom data preprocessing program. Although these programs embody technical and domain insights, they are difficult for others to understand and reuse because they are pipeline-specific and are written in general-purpose languages. As a result, these programs can easily become a breeding ground for poor engineering and statistical practices. Ideally, preprocessing scripts would be as standardized as possible among applications of a database, with a minimal portion tailored to the particular data application.  
 
 We propose a novel script-standardization system, in which users start with a traditional application-specific draft of a preprocessing script. The system finds a standardized version of the user script that is "admirably boring" -- one with a fraction that is more common --- and thus more widely-tested and more easily-understood --- while preserving the user intent in the original script. We present an algorithmic framework that yields such scripts and implemented a prototype system, LucidScript. We evaluate our approach against several state-of-the-art methods, including GPT-4, on six real-world datasets, showing the effectiveness and robustness of our approach by improving script standardization up to 42% w.r.t. the user intent.

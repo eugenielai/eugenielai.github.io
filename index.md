@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-description: Eugenie Y. Lai is a Research Engineer at SystemsResearch@Google working on scalable bulk inference and intelligent document processing.
+description: Eugenie Lai is a Research Engineer at SystemsResearch@Google working on scalable bulk inference and intelligent document processing.
 ---
 
 <p class="lede">I am a Research Engineer at <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a>. My current work focuses on <strong>scalable bulk inference</strong> and <strong>intelligent document processing</strong>.</p>

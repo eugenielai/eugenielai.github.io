@@ -1,20 +1,20 @@
 ---
 layout: default
 title:
-description: Eugenie Y. Lai is a Research Engineer at SystemsResearch@Google working on scalable bulk inference and intelligent document processing.
+description: Eugenie Lai is a Research Engineer at SystemsResearch@Google working on scalable bulk inference and intelligent document processing.
 ---
 
 <p class="lede">I am a Research Engineer at <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a>. My current work focuses on <strong>scalable bulk inference</strong> and <strong>intelligent document processing</strong>.</p>
 
-I recently completed my PhD in the [Data Systems Group](http://dsg.csail.mit.edu/) at MIT CSAIL, advised by [Prof. Michael Cafarella](https://scholar.google.com/citations?user=r1quzEkAAAAJ&hl=en). My PhD work developed systems for automating and optimizing data-to-insight pipelines, spanning tabular data transformation, explainable discretization, and AI systems for end-to-end data analysis.
-
-During my undergraduate studies, I worked with [Prof. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) and [Prof. Raymond Ng](https://www.cs.ubc.ca/~rng/) in the [Data Management and Mining Lab](https://www.cs.ubc.ca/labs/db/research.php) at the University of British Columbia.
+I recently completed my PhD in the [Data Systems Group](http://dsg.csail.mit.edu/) at MIT CSAIL, advised by [Prof. Michael Cafarella](https://scholar.google.com/citations?user=r1quzEkAAAAJ&hl=en). My PhD work developed systems for automating and optimizing data-to-insight pipelines, spanning tabular data transformation, explainable discretization, and AI systems for end-to-end data analysis. During my undergraduate studies, I worked with [Prof. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) and [Prof. Raymond Ng](https://www.cs.ubc.ca/~rng/) in the [Data Management and Mining Lab](https://www.cs.ubc.ca/labs/db/research.php) at the University of British Columbia.
 
 ## News
 
 <dl class="news-list">
   <dt>2026</dt>
-  <dd>Joined <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a> as a Research Engineer after graduating from the MIT Data Systems Group.</dd>
+  <dd>Joined <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a> as a Research Engineer.</dd>
+  <dt>2026</dt>
+  <dd>Defended and graduated from <a href="http://dsg.csail.mit.edu/">the MIT Data Systems Group</a>.</dd>
   <dt>2026</dt>
   <dd><a href="https://dblp.org/rec/conf/iclr/LaiVZCSZZLKDCMR26">KramaBench</a> appeared at ICLR 2026, and <a href="https://dblp.org/rec/journals/pacmmod/LaiCYGRC26">Interpretable Attribute Discretization</a> appeared in PACMMOD.</dd>
   <dt>2025</dt>

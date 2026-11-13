@@ -48,19 +48,19 @@ I recently completed my PhD in the [Data Systems Group](http://dsg.csail.mit.edu
 
   <article class="publication">
     <p class="publication-title"><a href="https://dblp.org/rec/conf/edbt/LaiLYC25">Toward Standardized Data Preparation: A Bottom-Up Approach</a></p>
-    <p class="publication-authors"><strong>Eugenie Y. Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
+    <p class="publication-authors"><strong>Eugenie Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
     <p class="publication-meta"><strong>EDBT 2025</strong></p>
   </article>
 
   <article class="publication">
     <p class="publication-title"><a href="https://dblp.org/rec/conf/sigmod/LaiCBSYGRC25">SeerCuts: Explainable Attribute Discretization</a></p>
-    <p class="publication-authors"><strong>Eugenie Y. Lai</strong>, Inbal Croitoru, Noam Bitton, Ariel Shalem, Brit Youngmann, Sainyam Galhotra, El Kindi Rezig, Michael J. Cafarella</p>
+    <p class="publication-authors"><strong>Eugenie Lai</strong>, Inbal Croitoru, Noam Bitton, Ariel Shalem, Brit Youngmann, Sainyam Galhotra, El Kindi Rezig, Michael J. Cafarella</p>
     <p class="publication-meta"><strong>SIGMOD 2025 Demo</strong></p>
   </article>
 
   <article class="publication">
     <p class="publication-title"><a href="https://dblp.org/rec/journals/pvldb/LaiLYC24">LucidScript: Bottom-up Standardization for Data Preparation</a></p>
-    <p class="publication-authors"><strong>Eugenie Y. Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
+    <p class="publication-authors"><strong>Eugenie Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
     <p class="publication-meta"><strong>PVLDB 2024</strong></p>
   </article>
 
@@ -72,7 +72,7 @@ I recently completed my PhD in the [Data Systems Group](http://dsg.csail.mit.edu
 
   <article class="publication">
     <p class="publication-title"><a href="https://openproceedings.org/2023/conf/edbt/paper-173.pdf">Workload-Aware Query Recommendation Using Deep Learning</a></p>
-    <p class="publication-authors"><strong>Eugenie Y. Lai</strong>, Zainab Zolaktaf, Mostafa Milani, Omar AlOmeir, Jianhao Cao, Rachel Pottinger</p>
+    <p class="publication-authors"><strong>Eugenie Lai</strong>, Zainab Zolaktaf, Mostafa Milani, Omar AlOmeir, Jianhao Cao, Rachel Pottinger</p>
     <p class="publication-meta"><strong>EDBT 2023</strong></p>
   </article>
 </div>

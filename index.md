@@ -6,15 +6,15 @@ description: Eugenie Lai is a Research Engineer at SystemsResearch@Google workin
 
 <p class="lede">I am a Research Engineer at <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a>. My current work focuses on <strong>scalable bulk inference</strong> and <strong>intelligent document processing</strong>.</p>
 
-I recently completed my PhD in the [Data Systems Group](http://dsg.csail.mit.edu/) at MIT CSAIL, advised by [Prof. Michael Cafarella](https://scholar.google.com/citations?user=r1quzEkAAAAJ&hl=en). My PhD work developed systems for automating and optimizing data-to-insight pipelines, spanning tabular data transformation, explainable discretization, and AI systems for end-to-end data analysis.
-
-During my undergraduate studies, I worked with [Prof. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) and [Prof. Raymond Ng](https://www.cs.ubc.ca/~rng/) in the [Data Management and Mining Lab](https://www.cs.ubc.ca/labs/db/research.php) at the University of British Columbia.
+I recently completed my PhD in the [Data Systems Group](http://dsg.csail.mit.edu/) at MIT CSAIL, advised by [Prof. Michael Cafarella](https://scholar.google.com/citations?user=r1quzEkAAAAJ&hl=en). My PhD work developed systems for automating and optimizing data-to-insight pipelines, spanning tabular data transformation, explainable discretization, and AI systems for end-to-end data analysis. During my undergraduate studies, I worked with [Prof. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) and [Prof. Raymond Ng](https://www.cs.ubc.ca/~rng/) in the [Data Management and Mining Lab](https://www.cs.ubc.ca/labs/db/research.php) at the University of British Columbia.
 
 ## News
 
 <dl class="news-list">
   <dt>2026</dt>
-  <dd>Joined <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a> as a Research Engineer after graduating from the MIT Data Systems Group.</dd>
+  <dd>Joined <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a> as a Research Engineer.</dd>
+  <dt>2026</dt>
+  <dd>Defended and graduated from <a href="http://dsg.csail.mit.edu/">the MIT Data Systems Group</a>.</dd>
   <dt>2026</dt>
   <dd><a href="https://dblp.org/rec/conf/iclr/LaiVZCSZZLKDCMR26">KramaBench</a> appeared at ICLR 2026, and <a href="https://dblp.org/rec/journals/pacmmod/LaiCYGRC26">Interpretable Attribute Discretization</a> appeared in PACMMOD.</dd>
   <dt>2025</dt>
@@ -48,19 +48,19 @@ During my undergraduate studies, I worked with [Prof. Rachel Pottinger](https://
 
   <article class="publication">
     <p class="publication-title"><a href="https://dblp.org/rec/conf/edbt/LaiLYC25">Toward Standardized Data Preparation: A Bottom-Up Approach</a></p>
-    <p class="publication-authors"><strong>Eugenie Y. Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
+    <p class="publication-authors"><strong>Eugenie Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
     <p class="publication-meta"><strong>EDBT 2025</strong></p>
   </article>
 
   <article class="publication">
     <p class="publication-title"><a href="https://dblp.org/rec/conf/sigmod/LaiCBSYGRC25">SeerCuts: Explainable Attribute Discretization</a></p>
-    <p class="publication-authors"><strong>Eugenie Y. Lai</strong>, Inbal Croitoru, Noam Bitton, Ariel Shalem, Brit Youngmann, Sainyam Galhotra, El Kindi Rezig, Michael J. Cafarella</p>
+    <p class="publication-authors"><strong>Eugenie Lai</strong>, Inbal Croitoru, Noam Bitton, Ariel Shalem, Brit Youngmann, Sainyam Galhotra, El Kindi Rezig, Michael J. Cafarella</p>
     <p class="publication-meta"><strong>SIGMOD 2025 Demo</strong></p>
   </article>
 
   <article class="publication">
     <p class="publication-title"><a href="https://dblp.org/rec/journals/pvldb/LaiLYC24">LucidScript: Bottom-up Standardization for Data Preparation</a></p>
-    <p class="publication-authors"><strong>Eugenie Y. Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
+    <p class="publication-authors"><strong>Eugenie Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
     <p class="publication-meta"><strong>PVLDB 2024</strong></p>
   </article>
 
@@ -72,7 +72,7 @@ During my undergraduate studies, I worked with [Prof. Rachel Pottinger](https://
 
   <article class="publication">
     <p class="publication-title"><a href="https://openproceedings.org/2023/conf/edbt/paper-173.pdf">Workload-Aware Query Recommendation Using Deep Learning</a></p>
-    <p class="publication-authors"><strong>Eugenie Y. Lai</strong>, Zainab Zolaktaf, Mostafa Milani, Omar AlOmeir, Jianhao Cao, Rachel Pottinger</p>
+    <p class="publication-authors"><strong>Eugenie Lai</strong>, Zainab Zolaktaf, Mostafa Milani, Omar AlOmeir, Jianhao Cao, Rachel Pottinger</p>
     <p class="publication-meta"><strong>EDBT 2023</strong></p>
   </article>
 </div>

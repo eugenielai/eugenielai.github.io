@@ -61,7 +61,7 @@ I recently completed my PhD in the [Data Systems Group](http://dsg.csail.mit.edu
   <article class="publication">
     <p class="publication-title"><a href="https://dblp.org/rec/journals/pvldb/LaiLYC24">LucidScript: Bottom-up Standardization for Data Preparation</a></p>
     <p class="publication-authors"><strong>Eugenie Lai</strong>, Yuze Lou, Brit Youngmann, Michael J. Cafarella</p>
-    <p class="publication-meta"><strong>PVLDB 2024</strong></p>
+    <p class="publication-meta"><strong>VLDB 2024 Demo</strong></p>
   </article>
 
   <article class="publication">

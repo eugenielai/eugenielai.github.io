@@ -1,10 +1,10 @@
 ---
 layout: default
 title:
-description: Eugenie Lai is a Research Engineer at SystemsResearch@Google working on scalable bulk inference and intelligent document processing.
+description: Eugenie Lai is a Research Engineer at SystemsResearch@Google working on scalable LLM inference and intelligent document processing.
 ---
 
-<p class="lede">I am a Research Engineer at <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a>. My current work focuses on <strong>scalable bulk inference</strong> and <strong>intelligent document processing</strong>.</p>
+<p class="lede">I am a Research Engineer at <a href="https://aiinfra.google/srg/">SystemsResearch@Google</a>. My current work focuses on <strong>scalable LLM inference</strong> and <strong>intelligent document processing</strong>.</p>
 
 I recently completed my PhD in the [Data Systems Group](http://dsg.csail.mit.edu/) at MIT CSAIL, advised by [Prof. Michael Cafarella](https://scholar.google.com/citations?user=r1quzEkAAAAJ&hl=en). My PhD work developed systems for automating and optimizing data-to-insight pipelines, spanning tabular data transformation, explainable discretization, and AI systems for end-to-end data analysis. During my undergraduate studies, I worked with [Prof. Rachel Pottinger](https://www.cs.ubc.ca/~rap/) in the [Data Management and Mining Lab](https://www.cs.ubc.ca/labs/db/research.php) at the University of British Columbia.
 
